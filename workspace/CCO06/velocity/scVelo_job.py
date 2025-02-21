@@ -16,7 +16,7 @@ for i in range(0, 5):
     adata = scv.utils.merge(adata, ldata)
 
     scv.pp.filter_and_normalize(adata, min_shared_counts=20, n_top_genes=2000)
-    scv.pp.moments(adata, n_pcs=30, n_neighbors=30)
+    scv.pp.moments(adata, n_pcs=50, n_neighbors=50)
     scv.tl.velocity(adata)
     scv.tl.velocity_graph(adata)
     scv.pl.velocity_embedding_stream(adata, basis='umap', color='cell_type_subcluster', save=f"{WORK_DIR}/velocity/{adata_file_names[i]}.png")
