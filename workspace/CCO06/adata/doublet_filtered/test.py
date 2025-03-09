@@ -21,6 +21,10 @@ sc.external.pp.scrublet(adata, batch_key="batch")
 
 adata = adata[adata.obs['predicted_doublet'] == False]
 
+sc.tl.pca(adata, svd_solver='arpack', n_comps=50)
+sc.pp.neighbors(adata, n_neighbors=5000, n_pcs=50)
+sc.tl.umap(adata)
+
 adata.write(f'{WORK_DIR}/adata/doublet_filtered/ALL.h5ad')
 
 for ct in adata.obs['batch'].unique().to_list():

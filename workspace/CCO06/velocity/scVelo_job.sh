@@ -1,5 +1,5 @@
 #!/bin/bash
-#$ -l s_vmem=128G,lmem
+#$ -l s_vmem=128G
 #$ -pe def_slot 1
 #$ -o /home/herbert/standard_output
 #$ -e /home/herbert/standard_output
@@ -10,4 +10,5 @@
 . ~/.bash_profile.intr
 
 conda activate scVelo
+cd /home/herbert/PyProjects/cocultured_organ/workspace/CCO06/velocity
 python /home/herbert/PyProjects/cocultured_organ/workspace/CCO06/velocity/scVelo_job.py

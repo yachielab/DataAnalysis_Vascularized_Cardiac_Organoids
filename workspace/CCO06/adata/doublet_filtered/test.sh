@@ -1,5 +1,5 @@
 #!/bin/bash
-#$ -l s_vmem=64G
+#$ -l s_vmem=128G
 #$ -pe def_slot 1
 #$ -o /home/herbert/standard_output
 #$ -e /home/herbert/standard_output
