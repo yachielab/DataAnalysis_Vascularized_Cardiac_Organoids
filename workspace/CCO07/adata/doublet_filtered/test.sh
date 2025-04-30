@@ -1,0 +1,1 @@
+/home/herbert/PyProjects/cocultured_organ/workspace/CCO06/adata/doublet_filtered/test.sh
