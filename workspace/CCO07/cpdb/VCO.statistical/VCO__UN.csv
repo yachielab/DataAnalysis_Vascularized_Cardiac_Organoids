@@ -1,115 +1,170 @@
 ,interaction_group,celltype_group,scaled_means,pvals,x_means,y_means,x_stroke,neglog10p,significant,is_integrin,directionality,classification
-CPI-SS0ECD9BB5E---CCL21-ACKR4---CM_0-UN,CCL21-ACKR4,CM_0-UN,1.0,1,1.0,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---CM_0-UN,atRetinoicAcid-byALDH1A1-RORB,CM_0-UN,0.018433179723502304,1,0.018433179723502304,,0.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
-CPI-SS0B9B3870A---VEGFA-FLT1---CM_0-UN,VEGFA-FLT1,CM_0-UN,0.2180728446288612,1,0.2180728446288612,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---CM_0-UN,VEGFA-NRP2,CM_0-UN,0.3515677118078719,1,0.3515677118078719,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---CM_0-UN,VEGFA-FLT1-complex,CM_0-UN,0.3033996151379089,1,0.3033996151379089,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---CM_0-UN,VEGFA-KDR,CM_0-UN,0.32328415651058373,1,0.32328415651058373,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0ECD9BB5E---CCL21-ACKR4---CM_1-UN,CCL21-ACKR4,CM_1-UN,0.35802469135802467,1,0.35802469135802467,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---CM_1-UN,atRetinoicAcid-byALDH1A1-RORB,CM_1-UN,0.018433179723502304,1,0.018433179723502304,,0.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
-CPI-SS0B9B3870A---VEGFA-FLT1---CM_1-UN,VEGFA-FLT1,CM_1-UN,0.38266482249884737,1,0.38266482249884737,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---CM_1-UN,VEGFA-NRP2,CM_1-UN,0.5897264843228819,1,0.5897264843228819,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---CM_1-UN,VEGFA-FLT1-complex,CM_1-UN,0.5323925593329057,1,0.5323925593329057,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---CM_1-UN,VEGFA-KDR,CM_1-UN,0.5522771007055806,1,0.5522771007055806,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0ECD9BB5E---CCL21-ACKR4---CM_2-UN,CCL21-ACKR4,CM_2-UN,0.4691358024691358,1,0.4691358024691358,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---CM_2-UN,atRetinoicAcid-byALDH1A1-RORB,CM_2-UN,0.016897081413210443,1,0.016897081413210443,,0.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
-CPI-SS0B9B3870A---VEGFA-FLT1---CM_2-UN,VEGFA-FLT1,CM_2-UN,0.18902720147533425,1,0.18902720147533425,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---CM_2-UN,VEGFA-NRP2,CM_2-UN,0.3095396931287525,1,0.3095396931287525,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---CM_2-UN,VEGFA-FLT1-complex,CM_2-UN,0.26298909557408595,1,0.26298909557408595,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---CM_2-UN,VEGFA-KDR,CM_2-UN,0.28351507376523416,1,0.28351507376523416,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0ECD9BB5E---CCL21-ACKR4---CM_3-UN,CCL21-ACKR4,CM_3-UN,0.5493827160493827,1,0.5493827160493827,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---CM_3-UN,atRetinoicAcid-byALDH1A1-RORB,CM_3-UN,0.018433179723502304,1,0.018433179723502304,,0.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
-CPI-SS0B9B3870A---VEGFA-FLT1---CM_3-UN,VEGFA-FLT1,CM_3-UN,0.16459197786998617,1,0.16459197786998617,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---CM_3-UN,VEGFA-NRP2,CM_3-UN,0.27418278852568373,1,0.27418278852568373,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---CM_3-UN,VEGFA-FLT1-complex,CM_3-UN,0.2289929441949968,1,0.2289929441949968,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---CM_3-UN,VEGFA-KDR,CM_3-UN,0.2488774855676716,1,0.2488774855676716,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0ECD9BB5E---CCL21-ACKR4---CM_4-UN,CCL21-ACKR4,CM_4-UN,,1,,,1.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---CM_4-UN,atRetinoicAcid-byALDH1A1-RORB,CM_4-UN,,1,,,1.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
-CPI-SS0B9B3870A---VEGFA-FLT1---CM_4-UN,VEGFA-FLT1,CM_4-UN,0.12678653757491934,1,0.12678653757491934,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---CM_4-UN,VEGFA-NRP2,CM_4-UN,0.21947965310206805,1,0.21947965310206805,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---CM_4-UN,VEGFA-FLT1-complex,CM_4-UN,0.17639512508017963,1,0.17639512508017963,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---CM_4-UN,VEGFA-KDR,CM_4-UN,0.19627966645285438,1,0.19627966645285438,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0ECD9BB5E---CCL21-ACKR4---EN_1-UN,CCL21-ACKR4,EN_1-UN,,1,,,1.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---EN_1-UN,atRetinoicAcid-byALDH1A1-RORB,EN_1-UN,,1,,,1.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
-CPI-SS0B9B3870A---VEGFA-FLT1---EN_1-UN,VEGFA-FLT1,EN_1-UN,,1,,,1.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---EN_1-UN,VEGFA-NRP2,EN_1-UN,,1,,,1.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---EN_1-UN,VEGFA-FLT1-complex,EN_1-UN,,1,,,1.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---EN_1-UN,VEGFA-KDR,EN_1-UN,,1,,,1.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0ECD9BB5E---CCL21-ACKR4---EN_2-UN,CCL21-ACKR4,EN_2-UN,0.14814814814814814,1,0.14814814814814814,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---EN_2-UN,atRetinoicAcid-byALDH1A1-RORB,EN_2-UN,,1,,,1.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
-CPI-SS0B9B3870A---VEGFA-FLT1---EN_2-UN,VEGFA-FLT1,EN_2-UN,0.1668971876440756,1,0.1668971876440756,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---EN_2-UN,VEGFA-NRP2,EN_2-UN,0.2775183455637091,1,0.2775183455637091,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---EN_2-UN,VEGFA-FLT1-complex,EN_2-UN,0.2322001282873637,1,0.2322001282873637,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---EN_2-UN,VEGFA-KDR,EN_2-UN,0.2520846696600385,1,0.2520846696600385,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0ECD9BB5E---CCL21-ACKR4---EP-UN,CCL21-ACKR4,EP-UN,0.08024691358024691,1,0.08024691358024691,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---EP-UN,atRetinoicAcid-byALDH1A1-RORB,EP-UN,1.0,1,1.0,,0.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
-CPI-SS0B9B3870A---VEGFA-FLT1---EP-UN,VEGFA-FLT1,EP-UN,0.3365606270170585,1,0.3365606270170585,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---EP-UN,VEGFA-NRP2,EP-UN,0.5230153435623749,1,0.5230153435623749,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---EP-UN,VEGFA-FLT1-complex,EP-UN,0.4682488774855677,1,0.4682488774855677,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---EP-UN,VEGFA-KDR,EP-UN,0.48813341885824246,1,0.48813341885824246,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0ECD9BB5E---CCL21-ACKR4---MU-UN,CCL21-ACKR4,MU-UN,0.9012345679012345,1,0.9012345679012345,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---MU-UN,atRetinoicAcid-byALDH1A1-RORB,MU-UN,0.02150537634408602,1,0.02150537634408602,,0.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
-CPI-SS0B9B3870A---VEGFA-FLT1---MU-UN,VEGFA-FLT1,MU-UN,0.33840479483633007,1,0.33840479483633007,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---MU-UN,VEGFA-NRP2,MU-UN,0.5256837891927951,1,0.5256837891927951,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---MU-UN,VEGFA-FLT1-complex,MU-UN,0.4708146247594612,1,0.4708146247594612,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---MU-UN,VEGFA-KDR,MU-UN,0.4913406029506094,1,0.4913406029506094,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0ECD9BB5E---CCL21-ACKR4---UN-CM_0,CCL21-ACKR4,UN-CM_0,0.13580246913580246,1,0.13580246913580246,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---UN-CM_0,atRetinoicAcid-byALDH1A1-RORB,UN-CM_0,0.007680491551459293,1,0.007680491551459293,,0.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
-CPI-SS0B9B3870A---VEGFA-FLT1---UN-CM_0,VEGFA-FLT1,UN-CM_0,0.2830797602581835,1,0.2830797602581835,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---UN-CM_0,VEGFA-NRP2,UN-CM_0,0.44496330887258173,1,0.44496330887258173,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-CM_0,VEGFA-FLT1-complex,UN-CM_0,0.39384220654265556,1,0.39384220654265556,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---UN-CM_0,VEGFA-KDR,UN-CM_0,0.5439384220654265,1,0.5439384220654265,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0ECD9BB5E---CCL21-ACKR4---UN-CM_1,CCL21-ACKR4,UN-CM_1,0.12962962962962962,1,0.12962962962962962,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---UN-CM_1,atRetinoicAcid-byALDH1A1-RORB,UN-CM_1,0.009216589861751152,1,0.009216589861751152,,0.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
-CPI-SS0B9B3870A---VEGFA-FLT1---UN-CM_1,VEGFA-FLT1,UN-CM_1,0.27478100507146147,1,0.27478100507146147,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---UN-CM_1,VEGFA-NRP2,UN-CM_1,0.4989993328885924,1,0.4989993328885924,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-CM_1,VEGFA-FLT1-complex,UN-CM_1,0.3822963438101347,1,0.3822963438101347,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---UN-CM_1,VEGFA-KDR,UN-CM_1,0.4227068633739577,1,0.4227068633739577,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0ECD9BB5E---CCL21-ACKR4---UN-CM_2,CCL21-ACKR4,UN-CM_2,0.13580246913580246,1,0.13580246913580246,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---UN-CM_2,atRetinoicAcid-byALDH1A1-RORB,UN-CM_2,0.007680491551459293,1,0.007680491551459293,,0.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
-CPI-SS0B9B3870A---VEGFA-FLT1---UN-CM_2,VEGFA-FLT1,UN-CM_2,0.2733978792070078,1,0.2733978792070078,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---UN-CM_2,VEGFA-NRP2,UN-CM_2,0.5030020013342228,1,0.5030020013342228,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-CM_2,VEGFA-FLT1-complex,UN-CM_2,0.38037203335471453,1,0.38037203335471453,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---UN-CM_2,VEGFA-KDR,UN-CM_2,0.4079538165490699,1,0.4079538165490699,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0ECD9BB5E---CCL21-ACKR4---UN-CM_3,CCL21-ACKR4,UN-CM_3,0.1419753086419753,1,0.1419753086419753,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---UN-CM_3,atRetinoicAcid-byALDH1A1-RORB,UN-CM_3,0.009216589861751152,1,0.009216589861751152,,0.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
-CPI-SS0B9B3870A---VEGFA-FLT1---UN-CM_3,VEGFA-FLT1,UN-CM_3,0.2784693407100046,1,0.2784693407100046,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---UN-CM_3,VEGFA-NRP2,UN-CM_3,0.447631754503002,1,0.447631754503002,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-CM_3,VEGFA-FLT1-complex,UN-CM_3,0.38742783835792177,1,0.38742783835792177,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---UN-CM_3,VEGFA-KDR,UN-CM_3,0.47851186658114175,1,0.47851186658114175,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0ECD9BB5E---CCL21-ACKR4---UN-CM_4,CCL21-ACKR4,UN-CM_4,,1,,,1.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---UN-CM_4,atRetinoicAcid-byALDH1A1-RORB,UN-CM_4,,1,,,1.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
-CPI-SS0B9B3870A---VEGFA-FLT1---UN-CM_4,VEGFA-FLT1,UN-CM_4,0.9087136929460581,1,0.9087136929460581,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---UN-CM_4,VEGFA-NRP2,UN-CM_4,0.8559039359573047,1,0.8559039359573047,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-CM_4,VEGFA-FLT1-complex,UN-CM_4,0.847979474021809,1,0.847979474021809,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---UN-CM_4,VEGFA-KDR,UN-CM_4,0.847979474021809,1,0.847979474021809,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0ECD9BB5E---CCL21-ACKR4---UN-EN_1,CCL21-ACKR4,UN-EN_1,,1,,,1.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---UN-EN_1,atRetinoicAcid-byALDH1A1-RORB,UN-EN_1,,1,,,1.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
-CPI-SS0B9B3870A---VEGFA-FLT1---UN-EN_1,VEGFA-FLT1,UN-EN_1,0.9778699861687413,1,0.9778699861687413,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---UN-EN_1,VEGFA-NRP2,UN-EN_1,0.48098732488325546,1,0.48098732488325546,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-EN_1,VEGFA-FLT1-complex,UN-EN_1,1.0,1,1.0,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---UN-EN_1,VEGFA-KDR,UN-EN_1,1.0,1,1.0,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0ECD9BB5E---CCL21-ACKR4---UN-EN_2,CCL21-ACKR4,UN-EN_2,0.16666666666666666,1,0.16666666666666666,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---UN-EN_2,atRetinoicAcid-byALDH1A1-RORB,UN-EN_2,,1,,,1.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
-CPI-SS0B9B3870A---VEGFA-FLT1---UN-EN_2,VEGFA-FLT1,UN-EN_2,1.0,1,1.0,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---UN-EN_2,VEGFA-NRP2,UN-EN_2,1.0,1,1.0,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-EN_2,VEGFA-FLT1-complex,UN-EN_2,0.895445798588839,1,0.895445798588839,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---UN-EN_2,VEGFA-KDR,UN-EN_2,0.895445798588839,1,0.895445798588839,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0ECD9BB5E---CCL21-ACKR4---UN-EP,CCL21-ACKR4,UN-EP,,1,,,1.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---UN-EP,atRetinoicAcid-byALDH1A1-RORB,UN-EP,,1,,,1.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
-CPI-SS0B9B3870A---VEGFA-FLT1---UN-EP,VEGFA-FLT1,UN-EP,0.2826187183033656,1,0.2826187183033656,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---UN-EP,VEGFA-NRP2,UN-EP,0.40160106737825213,1,0.40160106737825213,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-EP,VEGFA-FLT1-complex,UN-EP,0.39320076972418216,1,0.39320076972418216,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---UN-EP,VEGFA-KDR,UN-EP,0.3957665169980757,1,0.3957665169980757,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0ECD9BB5E---CCL21-ACKR4---UN-MU,CCL21-ACKR4,UN-MU,0.12962962962962962,1,0.12962962962962962,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---UN-MU,atRetinoicAcid-byALDH1A1-RORB,UN-MU,0.08755760368663594,1,0.08755760368663594,,0.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
-CPI-SS0B9B3870A---VEGFA-FLT1---UN-MU,VEGFA-FLT1,UN-MU,0.3978792070078377,1,0.3978792070078377,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---UN-MU,VEGFA-NRP2,UN-MU,0.4389593062041361,1,0.4389593062041361,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-MU,VEGFA-FLT1-complex,UN-MU,0.42719692110327134,1,0.42719692110327134,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---UN-MU,VEGFA-KDR,UN-MU,0.42719692110327134,1,0.42719692110327134,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0ECD9BB5E---CCL21-ACKR4---UN-UN,CCL21-ACKR4,UN-UN,0.19135802469135801,1,0.19135802469135801,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---UN-UN,atRetinoicAcid-byALDH1A1-RORB,UN-UN,0.023041474654377878,1,0.023041474654377878,,0.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
-CPI-SS0B9B3870A---VEGFA-FLT1---UN-UN,VEGFA-FLT1,UN-UN,0.29045643153526973,1,0.29045643153526973,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---UN-UN,VEGFA-NRP2,UN-UN,0.4563042028018679,1,0.4563042028018679,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-UN,VEGFA-FLT1-complex,UN-UN,0.40410519563822966,1,0.40410519563822966,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---UN-UN,VEGFA-KDR,UN-UN,0.4239897370109045,1,0.4239897370109045,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS04C672963---ESAM-ESAM---CM-UN,ESAM-ESAM,CM-UN,0.011508951406649615,1.0,0.011508951406649615,,0.0,0,no,False,Adhesion-Adhesion,
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---CM-UN,atRetinoicAcid-byALDH1A1-RORB,CM-UN,0.018433179723502304,1.0,0.018433179723502304,,0.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-CS0FADCFDB9---PGD2-byPTGDS-PTGDR---CM-UN,PGD2-byPTGDS-PTGDR,CM-UN,0.42641509433962266,1.0,0.42641509433962266,,0.0,0,no,False,Ligand-Receptor,Signaling by Prostaglandin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---CM-UN,DHEAsulfate-bySULT1E1-PPARG,CM-UN,0.006309148264984227,1.0,0.006309148264984227,,0.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0ECD9BB5E---CCL21-ACKR4---CM-UN,CCL21-ACKR4,CM-UN,0.7364864864864865,1.0,0.7364864864864865,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0FE594C97---SST-SSTR2---CM-UN,SST-SSTR2,CM-UN,0.2195121951219512,1.0,0.2195121951219512,,0.0,0,no,False,Ligand-Receptor,Signaling by Somatostatin
+CPI-CS09B8977D7---Dehydroepiandrosterone-bySTS-ESR1---CM-UN,Dehydroepiandrosterone-bySTS-ESR1,CM-UN,0.15625,1.0,0.15625,,0.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0CCD89E02---CCL25-ACKR4---CM-UN,CCL25-ACKR4,CM-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0E23CEB91---LGALS9-HAVCR2---CM-UN,LGALS9-HAVCR2,CM-UN,0.368421052631579,1.0,0.368421052631579,,0.0,0,no,False,Ligand-Receptor,Signaling by Galectin
+CPI-SS0B9B3870A---VEGFA-FLT1---CM-UN,VEGFA-FLT1,CM-UN,0.2614107883817427,1.0,0.2614107883817427,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---CM-UN,VEGFA-NRP2,CM-UN,0.41427618412274847,1.0,0.41427618412274847,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---CM-UN,VEGFA-FLT1-complex,CM-UN,0.36369467607440664,1.0,0.36369467607440664,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---CM-UN,VEGFA-KDR,CM-UN,0.38357921744708146,1.0,0.38357921744708146,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS04C672963---ESAM-ESAM---EN_H-UN,ESAM-ESAM,EN_H-UN,1.0,1.0,1.0,,0.0,0,no,False,Adhesion-Adhesion,
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---EN_H-UN,atRetinoicAcid-byALDH1A1-RORB,EN_H-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-CS0FADCFDB9---PGD2-byPTGDS-PTGDR---EN_H-UN,PGD2-byPTGDS-PTGDR,EN_H-UN,0.05283018867924528,1.0,0.05283018867924528,,0.0,0,no,False,Ligand-Receptor,Signaling by Prostaglandin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---EN_H-UN,DHEAsulfate-bySULT1E1-PPARG,EN_H-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0ECD9BB5E---CCL21-ACKR4---EN_H-UN,CCL21-ACKR4,EN_H-UN,0.16216216216216217,1.0,0.16216216216216217,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0FE594C97---SST-SSTR2---EN_H-UN,SST-SSTR2,EN_H-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Somatostatin
+CPI-CS09B8977D7---Dehydroepiandrosterone-bySTS-ESR1---EN_H-UN,Dehydroepiandrosterone-bySTS-ESR1,EN_H-UN,0.46875,1.0,0.46875,,0.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0CCD89E02---CCL25-ACKR4---EN_H-UN,CCL25-ACKR4,EN_H-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0E23CEB91---LGALS9-HAVCR2---EN_H-UN,LGALS9-HAVCR2,EN_H-UN,0.4210526315789474,1.0,0.4210526315789474,,0.0,0,no,False,Ligand-Receptor,Signaling by Galectin
+CPI-SS0B9B3870A---VEGFA-FLT1---EN_H-UN,VEGFA-FLT1,EN_H-UN,0.1668971876440756,1.0,0.1668971876440756,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EN_H-UN,VEGFA-NRP2,EN_H-UN,0.2775183455637091,1.0,0.2775183455637091,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---EN_H-UN,VEGFA-FLT1-complex,EN_H-UN,0.2322001282873637,1.0,0.2322001282873637,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---EN_H-UN,VEGFA-KDR,EN_H-UN,0.2520846696600385,1.0,0.2520846696600385,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS04C672963---ESAM-ESAM---EN_V-UN,ESAM-ESAM,EN_V-UN,0.43861892583120204,1.0,0.43861892583120204,,0.0,0,no,False,Adhesion-Adhesion,
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---EN_V-UN,atRetinoicAcid-byALDH1A1-RORB,EN_V-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-CS0FADCFDB9---PGD2-byPTGDS-PTGDR---EN_V-UN,PGD2-byPTGDS-PTGDR,EN_V-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Prostaglandin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---EN_V-UN,DHEAsulfate-bySULT1E1-PPARG,EN_V-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0ECD9BB5E---CCL21-ACKR4---EN_V-UN,CCL21-ACKR4,EN_V-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0FE594C97---SST-SSTR2---EN_V-UN,SST-SSTR2,EN_V-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Somatostatin
+CPI-CS09B8977D7---Dehydroepiandrosterone-bySTS-ESR1---EN_V-UN,Dehydroepiandrosterone-bySTS-ESR1,EN_V-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0CCD89E02---CCL25-ACKR4---EN_V-UN,CCL25-ACKR4,EN_V-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0E23CEB91---LGALS9-HAVCR2---EN_V-UN,LGALS9-HAVCR2,EN_V-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Galectin
+CPI-SS0B9B3870A---VEGFA-FLT1---EN_V-UN,VEGFA-FLT1,EN_V-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EN_V-UN,VEGFA-NRP2,EN_V-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---EN_V-UN,VEGFA-FLT1-complex,EN_V-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---EN_V-UN,VEGFA-KDR,EN_V-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS04C672963---ESAM-ESAM---EP-UN,ESAM-ESAM,EP-UN,,1.0,,,1.0,0,no,False,Adhesion-Adhesion,
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---EP-UN,atRetinoicAcid-byALDH1A1-RORB,EP-UN,1.0,1.0,1.0,,0.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-CS0FADCFDB9---PGD2-byPTGDS-PTGDR---EP-UN,PGD2-byPTGDS-PTGDR,EP-UN,0.07547169811320754,1.0,0.07547169811320754,,0.0,0,no,False,Ligand-Receptor,Signaling by Prostaglandin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---EP-UN,DHEAsulfate-bySULT1E1-PPARG,EP-UN,0.38801261829652994,1.0,0.38801261829652994,,0.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0ECD9BB5E---CCL21-ACKR4---EP-UN,CCL21-ACKR4,EP-UN,0.08783783783783784,1.0,0.08783783783783784,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0FE594C97---SST-SSTR2---EP-UN,SST-SSTR2,EP-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Somatostatin
+CPI-CS09B8977D7---Dehydroepiandrosterone-bySTS-ESR1---EP-UN,Dehydroepiandrosterone-bySTS-ESR1,EP-UN,0.34375,1.0,0.34375,,0.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0CCD89E02---CCL25-ACKR4---EP-UN,CCL25-ACKR4,EP-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0E23CEB91---LGALS9-HAVCR2---EP-UN,LGALS9-HAVCR2,EP-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Galectin
+CPI-SS0B9B3870A---VEGFA-FLT1---EP-UN,VEGFA-FLT1,EP-UN,0.3365606270170585,1.0,0.3365606270170585,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EP-UN,VEGFA-NRP2,EP-UN,0.5230153435623749,1.0,0.5230153435623749,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---EP-UN,VEGFA-FLT1-complex,EP-UN,0.4682488774855677,1.0,0.4682488774855677,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---EP-UN,VEGFA-KDR,EP-UN,0.48813341885824246,1.0,0.48813341885824246,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS04C672963---ESAM-ESAM---FB-UN,ESAM-ESAM,FB-UN,0.056265984654731455,1.0,0.056265984654731455,,0.0,0,no,False,Adhesion-Adhesion,
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---FB-UN,atRetinoicAcid-byALDH1A1-RORB,FB-UN,0.02150537634408602,1.0,0.02150537634408602,,0.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-CS0FADCFDB9---PGD2-byPTGDS-PTGDR---FB-UN,PGD2-byPTGDS-PTGDR,FB-UN,1.0,1.0,1.0,,0.0,0,no,False,Ligand-Receptor,Signaling by Prostaglandin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---FB-UN,DHEAsulfate-bySULT1E1-PPARG,FB-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0ECD9BB5E---CCL21-ACKR4---FB-UN,CCL21-ACKR4,FB-UN,1.0,1.0,1.0,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0FE594C97---SST-SSTR2---FB-UN,SST-SSTR2,FB-UN,0.31707317073170727,1.0,0.31707317073170727,,0.0,0,no,False,Ligand-Receptor,Signaling by Somatostatin
+CPI-CS09B8977D7---Dehydroepiandrosterone-bySTS-ESR1---FB-UN,Dehydroepiandrosterone-bySTS-ESR1,FB-UN,0.34375,1.0,0.34375,,0.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0CCD89E02---CCL25-ACKR4---FB-UN,CCL25-ACKR4,FB-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0E23CEB91---LGALS9-HAVCR2---FB-UN,LGALS9-HAVCR2,FB-UN,0.6842105263157895,1.0,0.6842105263157895,,0.0,0,no,False,Ligand-Receptor,Signaling by Galectin
+CPI-SS0B9B3870A---VEGFA-FLT1---FB-UN,VEGFA-FLT1,FB-UN,0.3397879207007838,1.0,0.3397879207007838,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---FB-UN,VEGFA-NRP2,FB-UN,0.5276851234156104,1.0,0.5276851234156104,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---FB-UN,VEGFA-FLT1-complex,FB-UN,0.47273893521488136,1.0,0.47273893521488136,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---FB-UN,VEGFA-KDR,FB-UN,0.4932649134060295,1.0,0.4932649134060295,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS04C672963---ESAM-ESAM---MU-UN,ESAM-ESAM,MU-UN,0.04475703324808184,1.0,0.04475703324808184,,0.0,0,no,False,Adhesion-Adhesion,
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---MU-UN,atRetinoicAcid-byALDH1A1-RORB,MU-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-CS0FADCFDB9---PGD2-byPTGDS-PTGDR---MU-UN,PGD2-byPTGDS-PTGDR,MU-UN,0.39999999999999997,1.0,0.39999999999999997,,0.0,0,no,False,Ligand-Receptor,Signaling by Prostaglandin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---MU-UN,DHEAsulfate-bySULT1E1-PPARG,MU-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0ECD9BB5E---CCL21-ACKR4---MU-UN,CCL21-ACKR4,MU-UN,0.6756756756756758,1.0,0.6756756756756758,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0FE594C97---SST-SSTR2---MU-UN,SST-SSTR2,MU-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Somatostatin
+CPI-CS09B8977D7---Dehydroepiandrosterone-bySTS-ESR1---MU-UN,Dehydroepiandrosterone-bySTS-ESR1,MU-UN,1.0,1.0,1.0,,0.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0CCD89E02---CCL25-ACKR4---MU-UN,CCL25-ACKR4,MU-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0E23CEB91---LGALS9-HAVCR2---MU-UN,LGALS9-HAVCR2,MU-UN,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Galectin
+CPI-SS0B9B3870A---VEGFA-FLT1---MU-UN,VEGFA-FLT1,MU-UN,0.30290456431535273,1.0,0.30290456431535273,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---MU-UN,VEGFA-NRP2,MU-UN,0.47431621080720476,1.0,0.47431621080720476,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---MU-UN,VEGFA-FLT1-complex,MU-UN,0.42142398973701095,1.0,0.42142398973701095,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---MU-UN,VEGFA-KDR,MU-UN,0.44194996792815905,1.0,0.44194996792815905,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS04C672963---ESAM-ESAM---UN-CM,ESAM-ESAM,UN-CM,0.011508951406649615,1.0,0.011508951406649615,,0.0,0,no,False,Adhesion-Adhesion,
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---UN-CM,atRetinoicAcid-byALDH1A1-RORB,UN-CM,0.007680491551459293,1.0,0.007680491551459293,,0.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-CS0FADCFDB9---PGD2-byPTGDS-PTGDR---UN-CM,PGD2-byPTGDS-PTGDR,UN-CM,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Prostaglandin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---UN-CM,DHEAsulfate-bySULT1E1-PPARG,UN-CM,0.012618296529968454,1.0,0.012618296529968454,,0.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0ECD9BB5E---CCL21-ACKR4---UN-CM,CCL21-ACKR4,UN-CM,0.14864864864864866,1.0,0.14864864864864866,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0FE594C97---SST-SSTR2---UN-CM,SST-SSTR2,UN-CM,0.0975609756097561,1.0,0.0975609756097561,,0.0,0,no,False,Ligand-Receptor,Signaling by Somatostatin
+CPI-CS09B8977D7---Dehydroepiandrosterone-bySTS-ESR1---UN-CM,Dehydroepiandrosterone-bySTS-ESR1,UN-CM,0.0625,1.0,0.0625,,0.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0CCD89E02---CCL25-ACKR4---UN-CM,CCL25-ACKR4,UN-CM,0.25,1.0,0.25,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0E23CEB91---LGALS9-HAVCR2---UN-CM,LGALS9-HAVCR2,UN-CM,0.368421052631579,1.0,0.368421052631579,,0.0,0,no,False,Ligand-Receptor,Signaling by Galectin
+CPI-SS0B9B3870A---VEGFA-FLT1---UN-CM,VEGFA-FLT1,UN-CM,0.2784693407100046,1.0,0.2784693407100046,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---UN-CM,VEGFA-NRP2,UN-CM,0.4716477651767845,1.0,0.4716477651767845,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-CM,VEGFA-FLT1-complex,UN-CM,0.38742783835792177,1.0,0.38742783835792177,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---UN-CM,VEGFA-KDR,UN-CM,0.4778704297626684,1.0,0.4778704297626684,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS04C672963---ESAM-ESAM---UN-EN_H,ESAM-ESAM,UN-EN_H,1.0,1.0,1.0,,0.0,0,no,False,Adhesion-Adhesion,
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---UN-EN_H,atRetinoicAcid-byALDH1A1-RORB,UN-EN_H,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-CS0FADCFDB9---PGD2-byPTGDS-PTGDR---UN-EN_H,PGD2-byPTGDS-PTGDR,UN-EN_H,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Prostaglandin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---UN-EN_H,DHEAsulfate-bySULT1E1-PPARG,UN-EN_H,0.5331230283911672,1.0,0.5331230283911672,,0.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0ECD9BB5E---CCL21-ACKR4---UN-EN_H,CCL21-ACKR4,UN-EN_H,0.18243243243243243,1.0,0.18243243243243243,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0FE594C97---SST-SSTR2---UN-EN_H,SST-SSTR2,UN-EN_H,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Somatostatin
+CPI-CS09B8977D7---Dehydroepiandrosterone-bySTS-ESR1---UN-EN_H,Dehydroepiandrosterone-bySTS-ESR1,UN-EN_H,0.1875,1.0,0.1875,,0.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0CCD89E02---CCL25-ACKR4---UN-EN_H,CCL25-ACKR4,UN-EN_H,0.7499999999999999,1.0,0.7499999999999999,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0E23CEB91---LGALS9-HAVCR2---UN-EN_H,LGALS9-HAVCR2,UN-EN_H,1.0,1.0,1.0,,0.0,0,no,False,Ligand-Receptor,Signaling by Galectin
+CPI-SS0B9B3870A---VEGFA-FLT1---UN-EN_H,VEGFA-FLT1,UN-EN_H,1.0,1.0,1.0,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---UN-EN_H,VEGFA-NRP2,UN-EN_H,1.0,1.0,1.0,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-EN_H,VEGFA-FLT1-complex,UN-EN_H,0.895445798588839,1.0,0.895445798588839,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---UN-EN_H,VEGFA-KDR,UN-EN_H,0.895445798588839,1.0,0.895445798588839,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS04C672963---ESAM-ESAM---UN-EN_V,ESAM-ESAM,UN-EN_V,0.43861892583120204,1.0,0.43861892583120204,,0.0,0,no,False,Adhesion-Adhesion,
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---UN-EN_V,atRetinoicAcid-byALDH1A1-RORB,UN-EN_V,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-CS0FADCFDB9---PGD2-byPTGDS-PTGDR---UN-EN_V,PGD2-byPTGDS-PTGDR,UN-EN_V,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Prostaglandin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---UN-EN_V,DHEAsulfate-bySULT1E1-PPARG,UN-EN_V,0.44164037854889593,1.0,0.44164037854889593,,0.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0ECD9BB5E---CCL21-ACKR4---UN-EN_V,CCL21-ACKR4,UN-EN_V,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0FE594C97---SST-SSTR2---UN-EN_V,SST-SSTR2,UN-EN_V,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Somatostatin
+CPI-CS09B8977D7---Dehydroepiandrosterone-bySTS-ESR1---UN-EN_V,Dehydroepiandrosterone-bySTS-ESR1,UN-EN_V,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0CCD89E02---CCL25-ACKR4---UN-EN_V,CCL25-ACKR4,UN-EN_V,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0E23CEB91---LGALS9-HAVCR2---UN-EN_V,LGALS9-HAVCR2,UN-EN_V,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Galectin
+CPI-SS0B9B3870A---VEGFA-FLT1---UN-EN_V,VEGFA-FLT1,UN-EN_V,0.9778699861687413,1.0,0.9778699861687413,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---UN-EN_V,VEGFA-NRP2,UN-EN_V,0.48098732488325546,1.0,0.48098732488325546,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-EN_V,VEGFA-FLT1-complex,UN-EN_V,1.0,1.0,1.0,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---UN-EN_V,VEGFA-KDR,UN-EN_V,1.0,1.0,1.0,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS04C672963---ESAM-ESAM---UN-EP,ESAM-ESAM,UN-EP,,1.0,,,1.0,0,no,False,Adhesion-Adhesion,
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---UN-EP,atRetinoicAcid-byALDH1A1-RORB,UN-EP,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-CS0FADCFDB9---PGD2-byPTGDS-PTGDR---UN-EP,PGD2-byPTGDS-PTGDR,UN-EP,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Prostaglandin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---UN-EP,DHEAsulfate-bySULT1E1-PPARG,UN-EP,1.0,1.0,1.0,,0.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0ECD9BB5E---CCL21-ACKR4---UN-EP,CCL21-ACKR4,UN-EP,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0FE594C97---SST-SSTR2---UN-EP,SST-SSTR2,UN-EP,1.0,1.0,1.0,,0.0,0,no,False,Ligand-Receptor,Signaling by Somatostatin
+CPI-CS09B8977D7---Dehydroepiandrosterone-bySTS-ESR1---UN-EP,Dehydroepiandrosterone-bySTS-ESR1,UN-EP,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0CCD89E02---CCL25-ACKR4---UN-EP,CCL25-ACKR4,UN-EP,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0E23CEB91---LGALS9-HAVCR2---UN-EP,LGALS9-HAVCR2,UN-EP,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Galectin
+CPI-SS0B9B3870A---VEGFA-FLT1---UN-EP,VEGFA-FLT1,UN-EP,0.2826187183033656,1.0,0.2826187183033656,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---UN-EP,VEGFA-NRP2,UN-EP,0.40160106737825213,1.0,0.40160106737825213,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-EP,VEGFA-FLT1-complex,UN-EP,0.39320076972418216,1.0,0.39320076972418216,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---UN-EP,VEGFA-KDR,UN-EP,0.3957665169980757,1.0,0.3957665169980757,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS04C672963---ESAM-ESAM---UN-FB,ESAM-ESAM,UN-FB,0.056265984654731455,1.0,0.056265984654731455,,0.0,0,no,False,Adhesion-Adhesion,
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---UN-FB,atRetinoicAcid-byALDH1A1-RORB,UN-FB,0.09062980030721965,1.0,0.09062980030721965,,0.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-CS0FADCFDB9---PGD2-byPTGDS-PTGDR---UN-FB,PGD2-byPTGDS-PTGDR,UN-FB,0.1981132075471698,1.0,0.1981132075471698,,0.0,0,no,False,Ligand-Receptor,Signaling by Prostaglandin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---UN-FB,DHEAsulfate-bySULT1E1-PPARG,UN-FB,0.16403785488958988,1.0,0.16403785488958988,,0.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0ECD9BB5E---CCL21-ACKR4---UN-FB,CCL21-ACKR4,UN-FB,0.1418918918918919,1.0,0.1418918918918919,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0FE594C97---SST-SSTR2---UN-FB,SST-SSTR2,UN-FB,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Somatostatin
+CPI-CS09B8977D7---Dehydroepiandrosterone-bySTS-ESR1---UN-FB,Dehydroepiandrosterone-bySTS-ESR1,UN-FB,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0CCD89E02---CCL25-ACKR4---UN-FB,CCL25-ACKR4,UN-FB,0.25,1.0,0.25,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0E23CEB91---LGALS9-HAVCR2---UN-FB,LGALS9-HAVCR2,UN-FB,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Galectin
+CPI-SS0B9B3870A---VEGFA-FLT1---UN-FB,VEGFA-FLT1,UN-FB,0.400645458736745,1.0,0.400645458736745,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---UN-FB,VEGFA-NRP2,UN-FB,0.4389593062041361,1.0,0.4389593062041361,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-FB,VEGFA-FLT1-complex,UN-FB,0.42912123155869153,1.0,0.42912123155869153,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---UN-FB,VEGFA-KDR,UN-FB,0.42912123155869153,1.0,0.42912123155869153,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS04C672963---ESAM-ESAM---UN-MU,ESAM-ESAM,UN-MU,0.04475703324808184,1.0,0.04475703324808184,,0.0,0,no,False,Adhesion-Adhesion,
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---UN-MU,atRetinoicAcid-byALDH1A1-RORB,UN-MU,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-CS0FADCFDB9---PGD2-byPTGDS-PTGDR---UN-MU,PGD2-byPTGDS-PTGDR,UN-MU,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Prostaglandin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---UN-MU,DHEAsulfate-bySULT1E1-PPARG,UN-MU,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0ECD9BB5E---CCL21-ACKR4---UN-MU,CCL21-ACKR4,UN-MU,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0FE594C97---SST-SSTR2---UN-MU,SST-SSTR2,UN-MU,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Somatostatin
+CPI-CS09B8977D7---Dehydroepiandrosterone-bySTS-ESR1---UN-MU,Dehydroepiandrosterone-bySTS-ESR1,UN-MU,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0CCD89E02---CCL25-ACKR4---UN-MU,CCL25-ACKR4,UN-MU,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0E23CEB91---LGALS9-HAVCR2---UN-MU,LGALS9-HAVCR2,UN-MU,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Galectin
+CPI-SS0B9B3870A---VEGFA-FLT1---UN-MU,VEGFA-FLT1,UN-MU,0.32365145228215764,1.0,0.32365145228215764,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---UN-MU,VEGFA-NRP2,UN-MU,0.44896597731821214,1.0,0.44896597731821214,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-MU,VEGFA-FLT1-complex,UN-MU,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---UN-MU,VEGFA-KDR,UN-MU,,1.0,,,1.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS04C672963---ESAM-ESAM---UN-UN,ESAM-ESAM,UN-UN,0.020460358056265983,1.0,0.020460358056265983,,0.0,0,no,False,Adhesion-Adhesion,
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---UN-UN,atRetinoicAcid-byALDH1A1-RORB,UN-UN,0.023041474654377878,1.0,0.023041474654377878,,0.0,0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-CS0FADCFDB9---PGD2-byPTGDS-PTGDR---UN-UN,PGD2-byPTGDS-PTGDR,UN-UN,0.1981132075471698,1.0,0.1981132075471698,,0.0,0,no,False,Ligand-Receptor,Signaling by Prostaglandin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---UN-UN,DHEAsulfate-bySULT1E1-PPARG,UN-UN,0.015772870662460567,1.0,0.015772870662460567,,0.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0ECD9BB5E---CCL21-ACKR4---UN-UN,CCL21-ACKR4,UN-UN,0.20945945945945946,1.0,0.20945945945945946,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0FE594C97---SST-SSTR2---UN-UN,SST-SSTR2,UN-UN,0.26829268292682923,1.0,0.26829268292682923,,0.0,0,no,False,Ligand-Receptor,Signaling by Somatostatin
+CPI-CS09B8977D7---Dehydroepiandrosterone-bySTS-ESR1---UN-UN,Dehydroepiandrosterone-bySTS-ESR1,UN-UN,0.1875,1.0,0.1875,,0.0,0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS0CCD89E02---CCL25-ACKR4---UN-UN,CCL25-ACKR4,UN-UN,1.0,1.0,1.0,,0.0,0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0E23CEB91---LGALS9-HAVCR2---UN-UN,LGALS9-HAVCR2,UN-UN,0.6315789473684211,1.0,0.6315789473684211,,0.0,0,no,False,Ligand-Receptor,Signaling by Galectin
+CPI-SS0B9B3870A---VEGFA-FLT1---UN-UN,VEGFA-FLT1,UN-UN,0.29045643153526973,1.0,0.29045643153526973,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---UN-UN,VEGFA-NRP2,UN-UN,0.4563042028018679,1.0,0.4563042028018679,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-UN,VEGFA-FLT1-complex,UN-UN,0.40410519563822966,1.0,0.40410519563822966,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---UN-UN,VEGFA-KDR,UN-UN,0.4239897370109045,1.0,0.4239897370109045,,0.0,0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor

@@ -1,0 +1,79 @@
+,interaction_group,celltype_group,scaled_means,pvals,x_means,y_means,x_stroke,neglog10p,significant,is_integrin,directionality,classification
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---CM-EN_H,DHEAsulfate-bySULT1E1-PPARG,CM-EN_H,0.5798611111111112,1.0,0.5798611111111112,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS04C672963---ESAM-ESAM---CM-EN_H,ESAM-ESAM,CM-EN_H,0.5006459948320413,1.0,0.5006459948320413,,0.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0B9B3870A---VEGFA-FLT1---CM-EN_H,VEGFA-FLT1,CM-EN_H,0.9253403601229688,0.001,,0.9253403601229688,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---CM-EN_H,VEGFA-NRP2,CM-EN_H,0.8941469489414694,0.001,,0.8941469489414694,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---CM-EN_H,VEGFA-FLT1-complex,CM-EN_H,0.886968085106383,0.001,,0.886968085106383,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---CM-EN_H,VEGFA-KDR,CM-EN_H,0.886968085106383,0.001,,0.886968085106383,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---EN_H-CM,DHEAsulfate-bySULT1E1-PPARG,EN_H-CM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS04C672963---ESAM-ESAM---EN_H-CM,ESAM-ESAM,EN_H-CM,0.5006459948320413,1.0,0.5006459948320413,,0.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0B9B3870A---VEGFA-FLT1---EN_H-CM,VEGFA-FLT1,EN_H-CM,0.14756258234519104,1.0,0.14756258234519104,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EN_H-CM,VEGFA-NRP2,EN_H-CM,0.273972602739726,1.0,0.273972602739726,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---EN_H-CM,VEGFA-FLT1-complex,EN_H-CM,0.22340425531914895,1.0,0.22340425531914895,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---EN_H-CM,VEGFA-KDR,EN_H-CM,0.3171542553191489,1.0,0.3171542553191489,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---EN_H-EN_H,DHEAsulfate-bySULT1E1-PPARG,EN_H-EN_H,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS04C672963---ESAM-ESAM---EN_H-EN_H,ESAM-ESAM,EN_H-EN_H,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,
+CPI-SS0B9B3870A---VEGFA-FLT1---EN_H-EN_H,VEGFA-FLT1,EN_H-EN_H,0.8353096179183135,0.001,,0.8353096179183135,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EN_H-EN_H,VEGFA-NRP2,EN_H-EN_H,0.7665006226650063,0.001,,0.7665006226650063,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---EN_H-EN_H,VEGFA-FLT1-complex,EN_H-EN_H,0.7506648936170213,0.001,,0.7506648936170213,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---EN_H-EN_H,VEGFA-KDR,EN_H-EN_H,0.7506648936170213,0.001,,0.7506648936170213,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---EN_H-EN_V,DHEAsulfate-bySULT1E1-PPARG,EN_H-EN_V,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS04C672963---ESAM-ESAM---EN_H-EN_V,ESAM-ESAM,EN_H-EN_V,0.7164082687338501,0.004,,0.7164082687338501,1.0,2.3979400086720375,yes,False,Adhesion-Adhesion,
+CPI-SS0B9B3870A---VEGFA-FLT1---EN_H-EN_V,VEGFA-FLT1,EN_H-EN_V,0.8137900746596398,0.008,,0.8137900746596398,1.0,2.0969100130080562,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EN_H-EN_V,VEGFA-NRP2,EN_H-EN_V,0.2820672478206725,0.276,0.2820672478206725,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---EN_H-EN_V,VEGFA-FLT1-complex,EN_H-EN_V,0.858377659574468,0.004,,0.858377659574468,1.0,2.3979400086720375,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---EN_H-EN_V,VEGFA-KDR,EN_H-EN_V,0.858377659574468,0.056,0.858377659574468,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---EN_H-EP,DHEAsulfate-bySULT1E1-PPARG,EN_H-EP,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS04C672963---ESAM-ESAM---EN_H-EP,ESAM-ESAM,EN_H-EP,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0B9B3870A---VEGFA-FLT1---EN_H-EP,VEGFA-FLT1,EN_H-EP,0.15195432586736932,1.0,0.15195432586736932,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EN_H-EP,VEGFA-NRP2,EN_H-EP,0.20859277708592777,1.0,0.20859277708592777,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---EN_H-EP,VEGFA-FLT1-complex,EN_H-EP,0.23005319148936168,1.0,0.23005319148936168,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---EN_H-EP,VEGFA-KDR,EN_H-EP,0.2320478723404255,1.0,0.2320478723404255,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---EN_H-FB,DHEAsulfate-bySULT1E1-PPARG,EN_H-FB,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS04C672963---ESAM-ESAM---EN_H-FB,ESAM-ESAM,EN_H-FB,0.5232558139534884,1.0,0.5232558139534884,,0.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0B9B3870A---VEGFA-FLT1---EN_H-FB,VEGFA-FLT1,EN_H-FB,0.2639437856829161,0.363,0.2639437856829161,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EN_H-FB,VEGFA-NRP2,EN_H-FB,0.24283935242839352,1.0,0.24283935242839352,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---EN_H-FB,VEGFA-FLT1-complex,EN_H-FB,0.26662234042553196,1.0,0.26662234042553196,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---EN_H-FB,VEGFA-KDR,EN_H-FB,0.26662234042553196,1.0,0.26662234042553196,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---EN_H-MU,DHEAsulfate-bySULT1E1-PPARG,EN_H-MU,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS04C672963---ESAM-ESAM---EN_H-MU,ESAM-ESAM,EN_H-MU,0.5174418604651163,0.001,,0.5174418604651163,1.0,3.0,yes,False,Adhesion-Adhesion,
+CPI-SS0B9B3870A---VEGFA-FLT1---EN_H-MU,VEGFA-FLT1,EN_H-MU,0.19104084321475626,0.44,0.19104084321475626,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EN_H-MU,VEGFA-NRP2,EN_H-MU,0.2521793275217933,0.892,0.2521793275217933,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---EN_H-MU,VEGFA-FLT1-complex,EN_H-MU,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---EN_H-MU,VEGFA-KDR,EN_H-MU,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---EN_H-UN,DHEAsulfate-bySULT1E1-PPARG,EN_H-UN,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS04C672963---ESAM-ESAM---EN_H-UN,ESAM-ESAM,EN_H-UN,0.5051679586563308,1.0,0.5051679586563308,,0.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0B9B3870A---VEGFA-FLT1---EN_H-UN,VEGFA-FLT1,EN_H-UN,0.15898111550285463,1.0,0.15898111550285463,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EN_H-UN,VEGFA-NRP2,EN_H-UN,0.2590286425902864,1.0,0.2590286425902864,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---EN_H-UN,VEGFA-FLT1-complex,EN_H-UN,0.24069148936170212,1.0,0.24069148936170212,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---EN_H-UN,VEGFA-KDR,EN_H-UN,0.2613031914893617,1.0,0.2613031914893617,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---EN_V-EN_H,DHEAsulfate-bySULT1E1-PPARG,EN_V-EN_H,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS04C672963---ESAM-ESAM---EN_V-EN_H,ESAM-ESAM,EN_V-EN_H,0.7164082687338501,0.004,,0.7164082687338501,1.0,2.3979400086720375,yes,False,Adhesion-Adhesion,
+CPI-SS0B9B3870A---VEGFA-FLT1---EN_V-EN_H,VEGFA-FLT1,EN_V-EN_H,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EN_V-EN_H,VEGFA-NRP2,EN_V-EN_H,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---EN_V-EN_H,VEGFA-FLT1-complex,EN_V-EN_H,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---EN_V-EN_H,VEGFA-KDR,EN_V-EN_H,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---EP-EN_H,DHEAsulfate-bySULT1E1-PPARG,EP-EN_H,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS04C672963---ESAM-ESAM---EP-EN_H,ESAM-ESAM,EP-EN_H,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0B9B3870A---VEGFA-FLT1---EP-EN_H,VEGFA-FLT1,EP-EN_H,0.9964866051822574,0.001,,0.9964866051822574,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EP-EN_H,VEGFA-NRP2,EP-EN_H,0.9956413449564134,0.001,,0.9956413449564134,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---EP-EN_H,VEGFA-FLT1-complex,EP-EN_H,0.9946808510638298,0.001,,0.9946808510638298,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---EP-EN_H,VEGFA-KDR,EP-EN_H,0.9946808510638298,0.001,,0.9946808510638298,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---FB-EN_H,DHEAsulfate-bySULT1E1-PPARG,FB-EN_H,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS04C672963---ESAM-ESAM---FB-EN_H,ESAM-ESAM,FB-EN_H,0.5232558139534884,1.0,0.5232558139534884,,0.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0B9B3870A---VEGFA-FLT1---FB-EN_H,VEGFA-FLT1,FB-EN_H,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---FB-EN_H,VEGFA-NRP2,FB-EN_H,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---FB-EN_H,VEGFA-FLT1-complex,FB-EN_H,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---FB-EN_H,VEGFA-KDR,FB-EN_H,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---MU-EN_H,DHEAsulfate-bySULT1E1-PPARG,MU-EN_H,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS04C672963---ESAM-ESAM---MU-EN_H,ESAM-ESAM,MU-EN_H,0.5174418604651163,0.001,,0.5174418604651163,1.0,3.0,yes,False,Adhesion-Adhesion,
+CPI-SS0B9B3870A---VEGFA-FLT1---MU-EN_H,VEGFA-FLT1,MU-EN_H,0.9648660518225736,0.001,,0.9648660518225736,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---MU-EN_H,VEGFA-NRP2,MU-EN_H,0.9508094645080946,0.001,,0.9508094645080946,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---MU-EN_H,VEGFA-FLT1-complex,MU-EN_H,0.9468085106382979,0.001,,0.9468085106382979,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---MU-EN_H,VEGFA-KDR,MU-EN_H,0.9468085106382979,0.001,,0.9468085106382979,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---UN-EN_H,DHEAsulfate-bySULT1E1-PPARG,UN-EN_H,0.5868055555555557,1.0,0.5868055555555557,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS04C672963---ESAM-ESAM---UN-EN_H,ESAM-ESAM,UN-EN_H,0.5051679586563308,1.0,0.5051679586563308,,0.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0B9B3870A---VEGFA-FLT1---UN-EN_H,VEGFA-FLT1,UN-EN_H,0.9525691699604742,0.001,,0.9525691699604742,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---UN-EN_H,VEGFA-NRP2,UN-EN_H,0.9333748443337485,0.001,,0.9333748443337485,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-EN_H,VEGFA-FLT1-complex,UN-EN_H,0.928191489361702,0.001,,0.928191489361702,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---UN-EN_H,VEGFA-KDR,UN-EN_H,0.928191489361702,0.001,,0.928191489361702,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
