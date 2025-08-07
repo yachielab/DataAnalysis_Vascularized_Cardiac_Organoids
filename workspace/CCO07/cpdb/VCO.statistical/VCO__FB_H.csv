@@ -1,10 +1,73 @@
 ,interaction_group,celltype_group,scaled_means,pvals,x_means,y_means,x_stroke,neglog10p,significant,is_integrin,directionality,classification
+CPI-SS052119104---AREG-EGFR---CM-FB_H,AREG-EGFR,CM-FB_H,0.46704871060171915,1.0,0.46704871060171915,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
 CPI-SS04C672963---ESAM-ESAM---CM-FB_H,ESAM-ESAM,CM-FB_H,0.045679012345679004,1.0,0.045679012345679004,,0.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0D37C7C70---DLK1-NOTCH4---CM-FB_H,DLK1-NOTCH4,CM-FB_H,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B9B3870A---VEGFA-FLT1---CM-FB_H,VEGFA-FLT1,CM-FB_H,0.12291169451073988,0.001,,0.12291169451073988,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS043E22BF5---VEGFA-NRP1---CM-FB_H,VEGFA-NRP1,CM-FB_H,0.324367088607595,0.008,,0.324367088607595,1.0,2.0969100130080562,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---CM-FB_H,VEGFA-FLT1-complex,CM-FB_H,0.18585675430643694,0.112,0.18585675430643694,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---CM-FB_H,VEGFA-NRP2,CM-FB_H,0.1685855263157894,1.0,0.1685855263157894,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---CM-FB_H,VEGFA-KDR,CM-FB_H,0.18585675430643694,0.112,0.18585675430643694,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS052119104---AREG-EGFR---EN_H-FB_H,AREG-EGFR,EN_H-FB_H,0.48710601719197705,0.001,,0.48710601719197705,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
 CPI-SS04C672963---ESAM-ESAM---EN_H-FB_H,ESAM-ESAM,EN_H-FB_H,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,
+CPI-SS0D37C7C70---DLK1-NOTCH4---EN_H-FB_H,DLK1-NOTCH4,EN_H-FB_H,0.28165771297006914,1.0,0.28165771297006914,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B9B3870A---VEGFA-FLT1---EN_H-FB_H,VEGFA-FLT1,EN_H-FB_H,,0.992,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS043E22BF5---VEGFA-NRP1---EN_H-FB_H,VEGFA-NRP1,EN_H-FB_H,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---EN_H-FB_H,VEGFA-FLT1-complex,EN_H-FB_H,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EN_H-FB_H,VEGFA-NRP2,EN_H-FB_H,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---EN_H-FB_H,VEGFA-KDR,EN_H-FB_H,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS052119104---AREG-EGFR---EP-FB_H,AREG-EGFR,EP-FB_H,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
 CPI-SS04C672963---ESAM-ESAM---EP-FB_H,ESAM-ESAM,EP-FB_H,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0D37C7C70---DLK1-NOTCH4---EP-FB_H,DLK1-NOTCH4,EP-FB_H,0.7866462010744436,1.0,0.7866462010744436,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B9B3870A---VEGFA-FLT1---EP-FB_H,VEGFA-FLT1,EP-FB_H,0.2195704057279236,0.001,,0.2195704057279236,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS043E22BF5---VEGFA-NRP1---EP-FB_H,VEGFA-NRP1,EP-FB_H,0.5822784810126581,0.001,,0.5822784810126581,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---EP-FB_H,VEGFA-FLT1-complex,EP-FB_H,0.33363553943789664,0.001,,0.33363553943789664,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EP-FB_H,VEGFA-NRP2,EP-FB_H,0.30263157894736836,0.005,,0.30263157894736836,1.0,2.3010299956639813,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---EP-FB_H,VEGFA-KDR,EP-FB_H,0.33363553943789664,0.001,,0.33363553943789664,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS052119104---AREG-EGFR---FB_H-CM,AREG-EGFR,FB_H-CM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
 CPI-SS04C672963---ESAM-ESAM---FB_H-CM,ESAM-ESAM,FB_H-CM,0.045679012345679004,1.0,0.045679012345679004,,0.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0D37C7C70---DLK1-NOTCH4---FB_H-CM,DLK1-NOTCH4,FB_H-CM,0.8756715272448197,1.0,0.8756715272448197,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B9B3870A---VEGFA-FLT1---FB_H-CM,VEGFA-FLT1,FB_H-CM,0.0656324582338902,1.0,0.0656324582338902,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS043E22BF5---VEGFA-NRP1---FB_H-CM,VEGFA-NRP1,FB_H-CM,0.4572784810126582,1.0,0.4572784810126582,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---FB_H-CM,VEGFA-FLT1-complex,FB_H-CM,0.2810516772438803,1.0,0.2810516772438803,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---FB_H-CM,VEGFA-NRP2,FB_H-CM,0.3495065789473683,1.0,0.3495065789473683,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---FB_H-CM,VEGFA-KDR,FB_H-CM,0.40888485947416137,0.996,0.40888485947416137,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS052119104---AREG-EGFR---FB_H-EN_H,AREG-EGFR,FB_H-EN_H,0.00573065902578797,1.0,0.00573065902578797,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
 CPI-SS04C672963---ESAM-ESAM---FB_H-EN_H,ESAM-ESAM,FB_H-EN_H,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,
+CPI-SS0D37C7C70---DLK1-NOTCH4---FB_H-EN_H,DLK1-NOTCH4,FB_H-EN_H,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B9B3870A---VEGFA-FLT1---FB_H-EN_H,VEGFA-FLT1,FB_H-EN_H,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS043E22BF5---VEGFA-NRP1---FB_H-EN_H,VEGFA-NRP1,FB_H-EN_H,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---FB_H-EN_H,VEGFA-FLT1-complex,FB_H-EN_H,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---FB_H-EN_H,VEGFA-NRP2,FB_H-EN_H,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---FB_H-EN_H,VEGFA-KDR,FB_H-EN_H,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS052119104---AREG-EGFR---FB_H-EP,AREG-EGFR,FB_H-EP,0.3954154727793696,1.0,0.3954154727793696,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
 CPI-SS04C672963---ESAM-ESAM---FB_H-EP,ESAM-ESAM,FB_H-EP,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,
-CPI-SS04C672963---ESAM-ESAM---FB_H-FB_H,ESAM-ESAM,FB_H-FB_H,0.09012345679012344,0.183,0.09012345679012344,,0.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0D37C7C70---DLK1-NOTCH4---FB_H-EP,DLK1-NOTCH4,FB_H-EP,0.8726016884113584,1.0,0.8726016884113584,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B9B3870A---VEGFA-FLT1---FB_H-EP,VEGFA-FLT1,FB_H-EP,0.07159904534606204,1.0,0.07159904534606204,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS043E22BF5---VEGFA-NRP1---FB_H-EP,VEGFA-NRP1,FB_H-EP,0.2072784810126582,1.0,0.2072784810126582,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---FB_H-EP,VEGFA-FLT1-complex,FB_H-EP,0.29011786038077964,1.0,0.29011786038077964,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---FB_H-EP,VEGFA-NRP2,FB_H-EP,0.26315789473684204,1.0,0.26315789473684204,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---FB_H-EP,VEGFA-KDR,FB_H-EP,0.2928377153218495,1.0,0.2928377153218495,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS052119104---AREG-EGFR---FB_H-FB_H,AREG-EGFR,FB_H-FB_H,0.3553008595988538,1.0,0.3553008595988538,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS04C672963---ESAM-ESAM---FB_H-FB_H,ESAM-ESAM,FB_H-FB_H,0.09012345679012344,0.212,0.09012345679012344,,0.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0D37C7C70---DLK1-NOTCH4---FB_H-FB_H,DLK1-NOTCH4,FB_H-FB_H,0.8779739063699156,1.0,0.8779739063699156,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B9B3870A---VEGFA-FLT1---FB_H-FB_H,VEGFA-FLT1,FB_H-FB_H,0.22434367541766106,0.001,,0.22434367541766106,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS043E22BF5---VEGFA-NRP1---FB_H-FB_H,VEGFA-NRP1,FB_H-FB_H,0.5949367088607593,0.979,0.5949367088607593,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---FB_H-FB_H,VEGFA-FLT1-complex,FB_H-FB_H,0.33998186763372623,1.0,0.33998186763372623,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---FB_H-FB_H,VEGFA-NRP2,FB_H-FB_H,0.3083881578947368,1.0,0.3083881578947368,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---FB_H-FB_H,VEGFA-KDR,FB_H-FB_H,0.33998186763372623,1.0,0.33998186763372623,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS052119104---AREG-EGFR---FB_H-UN,AREG-EGFR,FB_H-UN,0.02865329512893983,1.0,0.02865329512893983,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
 CPI-SS04C672963---ESAM-ESAM---FB_H-UN,ESAM-ESAM,FB_H-UN,0.05432098765432098,1.0,0.05432098765432098,,0.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0D37C7C70---DLK1-NOTCH4---FB_H-UN,DLK1-NOTCH4,FB_H-UN,0.8756715272448197,1.0,0.8756715272448197,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B9B3870A---VEGFA-FLT1---FB_H-UN,VEGFA-FLT1,FB_H-UN,0.08114558472553698,1.0,0.08114558472553698,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS043E22BF5---VEGFA-NRP1---FB_H-UN,VEGFA-NRP1,FB_H-UN,0.3670886075949366,1.0,0.3670886075949366,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---FB_H-UN,VEGFA-FLT1-complex,FB_H-UN,0.3046237533998187,1.0,0.3046237533998187,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---FB_H-UN,VEGFA-NRP2,FB_H-UN,0.32976973684210525,1.0,0.32976973684210525,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---FB_H-UN,VEGFA-KDR,FB_H-UN,0.33363553943789664,1.0,0.33363553943789664,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS052119104---AREG-EGFR---UN-FB_H,AREG-EGFR,UN-FB_H,0.3581661891117478,1.0,0.3581661891117478,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
 CPI-SS04C672963---ESAM-ESAM---UN-FB_H,ESAM-ESAM,UN-FB_H,0.05432098765432098,1.0,0.05432098765432098,,0.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0D37C7C70---DLK1-NOTCH4---UN-FB_H,DLK1-NOTCH4,UN-FB_H,0.061396776669224856,1.0,0.061396776669224856,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B9B3870A---VEGFA-FLT1---UN-FB_H,VEGFA-FLT1,UN-FB_H,0.15990453460620524,0.001,,0.15990453460620524,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS043E22BF5---VEGFA-NRP1---UN-FB_H,VEGFA-NRP1,UN-FB_H,0.42405063291139233,0.001,,0.42405063291139233,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-FB_H,VEGFA-FLT1-complex,UN-FB_H,0.242973708068903,0.02,,0.242973708068903,1.0,1.6989700043360187,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---UN-FB_H,VEGFA-NRP2,UN-FB_H,0.22039473684210525,0.925,0.22039473684210525,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---UN-FB_H,VEGFA-KDR,UN-FB_H,0.242973708068903,0.02,,0.242973708068903,1.0,1.6989700043360187,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
