@@ -3,6 +3,7 @@ import scvi
 
 PREV_DIR = "/home/herbert/PyProjects/cocultured_organ/workspace/CCO06"
 WORK_DIR = "/home/herbert/PyProjects/cocultured_organ/workspace/CCO07"
+n_worker = 1
 
 adata_HVCA = sc.read_h5ad(f"{WORK_DIR}/adata/HVCA/global_object_vasc_atlas_cxg.h5ad")
 adata = sc.read_h5ad(f"{WORK_DIR}/adata/sample_recollect/ALL.h5ad")
@@ -32,7 +33,7 @@ scvi.model.SCVI.setup_anndata(
     labels_key="organ_uni", 
 )
 vae = scvi.model.SCVI(adata_combined)
-vae.train(accelerator="cpu", devices=128)
+vae.train(accelerator="cpu", devices=n_worker)
 vae.save(f"{WORK_DIR}/transfer_learning/vae.model")
 
 # Then initialize scANVI from the scVI model
@@ -43,7 +44,7 @@ scvi.model.SCANVI.setup_anndata(
     unlabeled_category="Unknown"
 )
 model = scvi.model.SCANVI.from_scvi_model(vae, unlabeled_category="Unknown")
-model.train(accelerator="cpu", devices=128)
+model.train(accelerator="cpu", devices=n_worker)
 model.save(f"{WORK_DIR}/transfer_learning/model.model")
 
 adata_combined.obs["predicted_labels"] = model.predict()

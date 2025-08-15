@@ -23,6 +23,11 @@ full_palette = {
     'UN': '#7f7f7f',     # grey (unassigned/unknown)
 }
 
+xlim_full = [-12, 20]
+xlim_cm = [5, 20]
+ylim_full = [-7, 18]
+ylim_cm = [5, 14]
+
 for i in range(0, 5):
 
     loom_file = f'/home/herbert/PyProjects/cocultured_organ/data/240603/SC160__{loom_file_names[i]}-JW-052224/SC160__{loom_file_names[i]}-JW-052224.loom'
@@ -35,23 +40,45 @@ for i in range(0, 5):
     scv.tl.velocity(adata)
     scv.tl.velocity_graph(adata)
     palette = [full_palette[cat] for cat in adata.obs['cell_type_subcluster'].cat.categories]
-    scv.pl.velocity_embedding_stream(adata, basis='umap', color='cell_type_subcluster', palette=palette, save=f"{WORK_DIR}/velocity/{adata_file_names[i]}.png")
-
-
-for i in range(0, 5):
-
-    loom_file = f'/home/herbert/PyProjects/cocultured_organ/data/240603/SC160__{loom_file_names[i]}-JW-052224/SC160__{loom_file_names[i]}-JW-052224.loom'
-    ldata = sc.read(loom_file, cache=False)
-    adata = sc.read_h5ad(f'{WORK_DIR}/adata/sample_recollect/{adata_file_names[i]}.h5ad')
-    if np.sum(adata.obs["cell_type"] == "CM") == 0:
+    
+    scv.pl.velocity_embedding_stream(
+        adata, 
+        basis='umap', 
+        color='cell_type_subcluster', 
+        palette=palette, 
+        xlim=xlim_full,
+        ylim=ylim_full,
+        save=f"{WORK_DIR}/velocity/{adata_file_names[i]}.png"
+    )
+    
+    adata_cm = adata[adata.obs["cell_type"] == "CM"]
+    if adata_cm.n_obs == 0:
         continue
-    adata = adata[adata.obs["cell_type"] == "CM"]
-    adata = scv.utils.merge(adata, ldata)
+    scv.pl.velocity_embedding_stream(
+        adata_cm, 
+        basis='umap', 
+        color='cell_type_subcluster', 
+        palette=palette, 
+        xlim=xlim_cm,
+        ylim=ylim_cm,
+        save=f"{WORK_DIR}/velocity/{adata_file_names[i]}.CM_only.png"
+    )
 
-    scv.pp.filter_and_normalize(adata, min_shared_counts=20, n_top_genes=2000)
-    scv.pp.moments(adata, n_pcs=50, n_neighbors=50)
-    scv.tl.velocity(adata)
-    scv.tl.velocity_graph(adata)
-    palette = [full_palette[cat] for cat in adata.obs['cell_type_subcluster'].cat.categories]
-    scv.pl.velocity_embedding_stream(adata, basis='umap', color='cell_type_subcluster', palette=palette, save=f"{WORK_DIR}/velocity/{adata_file_names[i]}.CM_only.png")
+
+# for i in range(0, 5):
+
+#     loom_file = f'/home/herbert/PyProjects/cocultured_organ/data/240603/SC160__{loom_file_names[i]}-JW-052224/SC160__{loom_file_names[i]}-JW-052224.loom'
+#     ldata = sc.read(loom_file, cache=False)
+#     adata = sc.read_h5ad(f'{WORK_DIR}/adata/sample_recollect/{adata_file_names[i]}.h5ad')
+#     if np.sum(adata.obs["cell_type"] == "CM") == 0:
+#         continue
+#     adata = adata[adata.obs["cell_type"] == "CM"]
+#     adata = scv.utils.merge(adata, ldata)
+
+#     scv.pp.filter_and_normalize(adata, min_shared_counts=20, n_top_genes=2000)
+#     scv.pp.moments(adata, n_pcs=50, n_neighbors=50)
+#     scv.tl.velocity(adata)
+#     scv.tl.velocity_graph(adata)
+#     palette = [full_palette[cat] for cat in adata.obs['cell_type_subcluster'].cat.categories]
+#     scv.pl.velocity_embedding_stream(adata, basis='umap', color='cell_type_subcluster', palette=palette, save=f"{WORK_DIR}/velocity/{adata_file_names[i]}.CM_only.png")
     
