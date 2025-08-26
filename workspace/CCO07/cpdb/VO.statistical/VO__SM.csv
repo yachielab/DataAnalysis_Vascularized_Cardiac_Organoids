@@ -1,181 +1,127 @@
 ,interaction_group,celltype_group,scaled_means,pvals,x_means,y_means,x_stroke,neglog10p,significant,is_integrin,directionality,classification
-CPI-SS0C93E48D7---THBS1-CD36---EN_V-SM,THBS1-CD36,EN_V-SM,0.18832891246684344,0.001,,0.18832891246684344,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Thrombospondin precursor
-CPI-SS0B70EB09E---PDGFA-PDGFRA---EN_V-SM,PDGFA-PDGFRA,EN_V-SM,0.17009750812567714,1.0,0.17009750812567714,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
-CPI-SS0A28DCA72---CXCL12-CXCR4---EN_V-SM,CXCL12-CXCR4,EN_V-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---EN_V-SM,DHEAsulfate-bySULT1E1-PPARG,EN_V-SM,0.3813813813813814,1.0,0.3813813813813814,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
-CPI-SS0ACD487F0---L1CAM-L1CAM---EN_V-SM,L1CAM-L1CAM,EN_V-SM,0.008620689655172422,1.0,0.008620689655172422,,0.0,0.0,no,False,Adhesion-Adhesion,Adhesion by L1CAM
-CPI-SS0BA601DC4---BDNF-NTRK2---EN_V-SM,BDNF-NTRK2,EN_V-SM,0.5381679389312977,1.0,0.5381679389312977,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
-CPI-SS019D9440E---NRXN1-ADGRL1---EN_V-SM,NRXN1-ADGRL1,EN_V-SM,0.33879781420765026,1.0,0.33879781420765026,,0.0,0.0,no,False,Receptor-Receptor,Signaling by Neurexin
-CPI-SS073F3FAD5---WNT5A-ROR1---EN_V-SM,WNT5A-ROR1,EN_V-SM,0.7487684729064039,0.795,0.7487684729064039,,0.0,0.0,no,False,Ligand-Receptor,Signaling by WNT
-CPI-SS00373B59C---LRRC4C-PTPRF---EN_V-SM,LRRC4C-PTPRF,EN_V-SM,0.37229437229437223,1.0,0.37229437229437223,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
-CPI-SS0CBB9D57D---LRFN5-PTPRF---EN_V-SM,LRFN5-PTPRF,EN_V-SM,0.4397905759162304,1.0,0.4397905759162304,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
-CPI-SS06DA9B4FE---PDGFC-PDGFRA---EN_V-SM,PDGFC-PDGFRA,EN_V-SM,0.15797101449275364,1.0,0.15797101449275364,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
-CPI-SS09B2ACA25---HBEGF-EGFR---EN_V-SM,HBEGF-EGFR,EN_V-SM,0.6445396145610278,0.001,,0.6445396145610278,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
-CPI-SS03E7FB333---HBEGF-ERBB2---EN_V-SM,HBEGF-ERBB2,EN_V-SM,0.7475961538461539,0.001,,0.7475961538461539,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
-CPI-SS04829AC68---GJA1-GJA1---EN_V-SM,GJA1-GJA1,EN_V-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Gap-Gap,Adhesion by GAP junction
-CPI-SC0B51DC960---PGF-FLT1-complex---EN_V-SM,PGF-FLT1-complex,EN_V-SM,0.8223938223938224,1.0,0.8223938223938224,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS065D9259F---PGF-NRP2---EN_V-SM,PGF-NRP2,EN_V-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS07361522F---PGF-FLT1---EN_V-SM,PGF-FLT1,EN_V-SM,0.9290697674418605,0.001,,0.9290697674418605,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS04C672963---ESAM-ESAM---EN_V-SM,ESAM-ESAM,EN_V-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,
-CPI-SS0EE09A201---CDH2-CDH2---EN_V-SM,CDH2-CDH2,EN_V-SM,0.691304347826087,0.001,,0.691304347826087,1.0,3.0,yes,False,Adhesion-Adhesion,Adhesion by Cadherin
-CPI-SS0DF830287---APLP2-PLXNA4---EN_V-SM,APLP2-PLXNA4,EN_V-SM,1.0,1.0,1.0,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Amyloid-like protein
-CPI-SS0C93E48D7---THBS1-CD36---FB_V-SM,THBS1-CD36,FB_V-SM,0.023872679045092784,1.0,0.023872679045092784,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Thrombospondin precursor
-CPI-SS0B70EB09E---PDGFA-PDGFRA---FB_V-SM,PDGFA-PDGFRA,FB_V-SM,0.04442036836403032,1.0,0.04442036836403032,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
-CPI-SS0A28DCA72---CXCL12-CXCR4---FB_V-SM,CXCL12-CXCR4,FB_V-SM,0.18646408839779008,1.0,0.18646408839779008,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---FB_V-SM,DHEAsulfate-bySULT1E1-PPARG,FB_V-SM,0.4954954954954955,1.0,0.4954954954954955,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
-CPI-SS0ACD487F0---L1CAM-L1CAM---FB_V-SM,L1CAM-L1CAM,FB_V-SM,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,Adhesion by L1CAM
-CPI-SS0BA601DC4---BDNF-NTRK2---FB_V-SM,BDNF-NTRK2,FB_V-SM,0.7977099236641221,0.001,,0.7977099236641221,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
-CPI-SS019D9440E---NRXN1-ADGRL1---FB_V-SM,NRXN1-ADGRL1,FB_V-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Receptor-Receptor,Signaling by Neurexin
-CPI-SS073F3FAD5---WNT5A-ROR1---FB_V-SM,WNT5A-ROR1,FB_V-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by WNT
-CPI-SS00373B59C---LRRC4C-PTPRF---FB_V-SM,LRRC4C-PTPRF,FB_V-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
-CPI-SS0CBB9D57D---LRFN5-PTPRF---FB_V-SM,LRFN5-PTPRF,FB_V-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
-CPI-SS06DA9B4FE---PDGFC-PDGFRA---FB_V-SM,PDGFC-PDGFRA,FB_V-SM,0.22318840579710147,1.0,0.22318840579710147,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
-CPI-SS09B2ACA25---HBEGF-EGFR---FB_V-SM,HBEGF-EGFR,FB_V-SM,0.139186295503212,1.0,0.139186295503212,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
-CPI-SS03E7FB333---HBEGF-ERBB2---FB_V-SM,HBEGF-ERBB2,FB_V-SM,0.18028846153846154,1.0,0.18028846153846154,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
-CPI-SS04829AC68---GJA1-GJA1---FB_V-SM,GJA1-GJA1,FB_V-SM,0.0053097345132743405,1.0,0.0053097345132743405,,0.0,0.0,no,False,Gap-Gap,Adhesion by GAP junction
-CPI-SC0B51DC960---PGF-FLT1-complex---FB_V-SM,PGF-FLT1-complex,FB_V-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS065D9259F---PGF-NRP2---FB_V-SM,PGF-NRP2,FB_V-SM,0.0015625000000000014,1.0,0.0015625000000000014,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS07361522F---PGF-FLT1---FB_V-SM,PGF-FLT1,FB_V-SM,0.1872093023255814,1.0,0.1872093023255814,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS04C672963---ESAM-ESAM---FB_V-SM,ESAM-ESAM,FB_V-SM,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,
-CPI-SS0EE09A201---CDH2-CDH2---FB_V-SM,CDH2-CDH2,FB_V-SM,0.8376811594202899,0.001,,0.8376811594202899,1.0,3.0,yes,False,Adhesion-Adhesion,Adhesion by Cadherin
-CPI-SS0DF830287---APLP2-PLXNA4---FB_V-SM,APLP2-PLXNA4,FB_V-SM,0.3058103975535168,1.0,0.3058103975535168,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Amyloid-like protein
+CPI-SS0C93E48D7---THBS1-CD36---EN-SM,THBS1-CD36,EN-SM,0.21187800963081854,0.001,,0.21187800963081854,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Thrombospondin precursor
+CPI-SS0B70EB09E---PDGFA-PDGFRA---EN-SM,PDGFA-PDGFRA,EN-SM,0.18514150943396226,1.0,0.18514150943396226,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-SS04829AC68---GJA1-GJA1---EN-SM,GJA1-GJA1,EN-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Gap-Gap,Adhesion by GAP junction
+CPI-SC0B51DC960---PGF-FLT1-complex---EN-SM,PGF-FLT1-complex,EN-SM,0.8117326057298772,1.0,0.8117326057298772,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS065D9259F---PGF-NRP2---EN-SM,PGF-NRP2,EN-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS07361522F---PGF-FLT1---EN-SM,PGF-FLT1,EN-SM,0.927120669056153,0.001,,0.927120669056153,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS04C672963---ESAM-ESAM---EN-SM,ESAM-ESAM,EN-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,
+CPI-SS0EE09A201---CDH2-CDH2---EN-SM,CDH2-CDH2,EN-SM,0.691304347826087,0.001,,0.691304347826087,1.0,3.0,yes,False,Adhesion-Adhesion,Adhesion by Cadherin
+CPI-SS0A28DCA72---CXCL12-CXCR4---EN-SM,CXCL12-CXCR4,EN-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS09B2ACA25---HBEGF-EGFR---EN-SM,HBEGF-EGFR,EN-SM,0.6465517241379309,0.001,,0.6465517241379309,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS03E7FB333---HBEGF-ERBB2---EN-SM,HBEGF-ERBB2,EN-SM,0.7475961538461539,0.001,,0.7475961538461539,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS06DA9B4FE---PDGFC-PDGFRA---EN-SM,PDGFC-PDGFRA,EN-SM,0.1772357723577236,1.0,0.1772357723577236,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---EN-SM,DHEAsulfate-bySULT1E1-PPARG,EN-SM,0.4319727891156463,1.0,0.4319727891156463,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS019D9440E---NRXN1-ADGRL1---EN-SM,NRXN1-ADGRL1,EN-SM,0.4525547445255474,1.0,0.4525547445255474,,0.0,0.0,no,False,Receptor-Receptor,Signaling by Neurexin
+CPI-SS00373B59C---LRRC4C-PTPRF---EN-SM,LRRC4C-PTPRF,EN-SM,0.4831460674157303,1.0,0.4831460674157303,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
+CPI-SS0CBB9D57D---LRFN5-PTPRF---EN-SM,LRFN5-PTPRF,EN-SM,0.5060240963855421,1.0,0.5060240963855421,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
+CPI-SS0ACD487F0---L1CAM-L1CAM---EN-SM,L1CAM-L1CAM,EN-SM,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,Adhesion by L1CAM
+CPI-SS0BA601DC4---BDNF-NTRK2---EN-SM,BDNF-NTRK2,EN-SM,0.5381679389312977,1.0,0.5381679389312977,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
 CPI-SS0C93E48D7---THBS1-CD36---PR-SM,THBS1-CD36,PR-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Thrombospondin precursor
-CPI-SS0B70EB09E---PDGFA-PDGFRA---PR-SM,PDGFA-PDGFRA,PR-SM,0.21668472372697725,1.0,0.21668472372697725,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
-CPI-SS0A28DCA72---CXCL12-CXCR4---PR-SM,CXCL12-CXCR4,PR-SM,0.0276243093922652,1.0,0.0276243093922652,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---PR-SM,DHEAsulfate-bySULT1E1-PPARG,PR-SM,0.46846846846846846,1.0,0.46846846846846846,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
-CPI-SS0ACD487F0---L1CAM-L1CAM---PR-SM,L1CAM-L1CAM,PR-SM,0.10344827586206906,1.0,0.10344827586206906,,0.0,0.0,no,False,Adhesion-Adhesion,Adhesion by L1CAM
-CPI-SS0BA601DC4---BDNF-NTRK2---PR-SM,BDNF-NTRK2,PR-SM,0.6145038167938931,1.0,0.6145038167938931,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
-CPI-SS019D9440E---NRXN1-ADGRL1---PR-SM,NRXN1-ADGRL1,PR-SM,0.4398907103825137,1.0,0.4398907103825137,,0.0,0.0,no,False,Receptor-Receptor,Signaling by Neurexin
-CPI-SS073F3FAD5---WNT5A-ROR1---PR-SM,WNT5A-ROR1,PR-SM,0.6650246305418719,1.0,0.6650246305418719,,0.0,0.0,no,False,Ligand-Receptor,Signaling by WNT
-CPI-SS00373B59C---LRRC4C-PTPRF---PR-SM,LRRC4C-PTPRF,PR-SM,0.48484848484848486,1.0,0.48484848484848486,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
-CPI-SS0CBB9D57D---LRFN5-PTPRF---PR-SM,LRFN5-PTPRF,PR-SM,0.7068062827225131,0.326,0.7068062827225131,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
-CPI-SS06DA9B4FE---PDGFC-PDGFRA---PR-SM,PDGFC-PDGFRA,PR-SM,0.18550724637681162,1.0,0.18550724637681162,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
-CPI-SS09B2ACA25---HBEGF-EGFR---PR-SM,HBEGF-EGFR,PR-SM,0.21199143468950749,1.0,0.21199143468950749,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
-CPI-SS03E7FB333---HBEGF-ERBB2---PR-SM,HBEGF-ERBB2,PR-SM,0.2644230769230769,1.0,0.2644230769230769,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS0B70EB09E---PDGFA-PDGFRA---PR-SM,PDGFA-PDGFRA,PR-SM,0.13207547169811323,1.0,0.13207547169811323,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
 CPI-SS04829AC68---GJA1-GJA1---PR-SM,GJA1-GJA1,PR-SM,,1.0,,,1.0,0.0,no,False,Gap-Gap,Adhesion by GAP junction
-CPI-SC0B51DC960---PGF-FLT1-complex---PR-SM,PGF-FLT1-complex,PR-SM,0.19562419562419564,1.0,0.19562419562419564,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS065D9259F---PGF-NRP2---PR-SM,PGF-NRP2,PR-SM,0.23750000000000004,1.0,0.23750000000000004,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS07361522F---PGF-FLT1---PR-SM,PGF-FLT1,PR-SM,0.3627906976744187,0.12,0.3627906976744187,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS04C672963---ESAM-ESAM---PR-SM,ESAM-ESAM,PR-SM,0.09706257982120053,1.0,0.09706257982120053,,0.0,0.0,no,False,Adhesion-Adhesion,
-CPI-SS0EE09A201---CDH2-CDH2---PR-SM,CDH2-CDH2,PR-SM,0.6942028985507247,0.001,,0.6942028985507247,1.0,3.0,yes,False,Adhesion-Adhesion,Adhesion by Cadherin
-CPI-SS0DF830287---APLP2-PLXNA4---PR-SM,APLP2-PLXNA4,PR-SM,0.3532110091743119,1.0,0.3532110091743119,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Amyloid-like protein
-CPI-SS0C93E48D7---THBS1-CD36---SM-EN_V,THBS1-CD36,SM-EN_V,0.4217506631299735,0.001,,0.4217506631299735,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Thrombospondin precursor
-CPI-SS0B70EB09E---PDGFA-PDGFRA---SM-EN_V,PDGFA-PDGFRA,SM-EN_V,0.5081256771397616,0.908,0.5081256771397616,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
-CPI-SS0A28DCA72---CXCL12-CXCR4---SM-EN_V,CXCL12-CXCR4,SM-EN_V,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---SM-EN_V,DHEAsulfate-bySULT1E1-PPARG,SM-EN_V,0.4624624624624624,0.992,0.4624624624624624,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
-CPI-SS0ACD487F0---L1CAM-L1CAM---SM-EN_V,L1CAM-L1CAM,SM-EN_V,0.008620689655172422,1.0,0.008620689655172422,,0.0,0.0,no,False,Adhesion-Adhesion,Adhesion by L1CAM
-CPI-SS0BA601DC4---BDNF-NTRK2---SM-EN_V,BDNF-NTRK2,SM-EN_V,0.5839694656488549,1.0,0.5839694656488549,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
-CPI-SS019D9440E---NRXN1-ADGRL1---SM-EN_V,NRXN1-ADGRL1,SM-EN_V,0.1366120218579235,1.0,0.1366120218579235,,0.0,0.0,no,False,Receptor-Receptor,Signaling by Neurexin
-CPI-SS073F3FAD5---WNT5A-ROR1---SM-EN_V,WNT5A-ROR1,SM-EN_V,0.49261083743842365,1.0,0.49261083743842365,,0.0,0.0,no,False,Ligand-Receptor,Signaling by WNT
-CPI-SS00373B59C---LRRC4C-PTPRF---SM-EN_V,LRRC4C-PTPRF,SM-EN_V,0.36363636363636365,1.0,0.36363636363636365,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
-CPI-SS0CBB9D57D---LRFN5-PTPRF---SM-EN_V,LRFN5-PTPRF,SM-EN_V,0.4607329842931937,1.0,0.4607329842931937,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
-CPI-SS06DA9B4FE---PDGFC-PDGFRA---SM-EN_V,PDGFC-PDGFRA,SM-EN_V,0.34202898550724636,1.0,0.34202898550724636,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
-CPI-SS09B2ACA25---HBEGF-EGFR---SM-EN_V,HBEGF-EGFR,SM-EN_V,0.7644539614561027,1.0,0.7644539614561027,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
-CPI-SS03E7FB333---HBEGF-ERBB2---SM-EN_V,HBEGF-ERBB2,SM-EN_V,0.8028846153846154,1.0,0.8028846153846154,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
-CPI-SS04829AC68---GJA1-GJA1---SM-EN_V,GJA1-GJA1,SM-EN_V,1.0,0.001,,1.0,1.0,3.0,yes,False,Gap-Gap,Adhesion by GAP junction
-CPI-SC0B51DC960---PGF-FLT1-complex---SM-EN_V,PGF-FLT1-complex,SM-EN_V,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS065D9259F---PGF-NRP2---SM-EN_V,PGF-NRP2,SM-EN_V,0.5296875,0.673,0.5296875,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS07361522F---PGF-FLT1---SM-EN_V,PGF-FLT1,SM-EN_V,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS04C672963---ESAM-ESAM---SM-EN_V,ESAM-ESAM,SM-EN_V,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,
-CPI-SS0EE09A201---CDH2-CDH2---SM-EN_V,CDH2-CDH2,SM-EN_V,0.691304347826087,0.001,,0.691304347826087,1.0,3.0,yes,False,Adhesion-Adhesion,Adhesion by Cadherin
-CPI-SS0DF830287---APLP2-PLXNA4---SM-EN_V,APLP2-PLXNA4,SM-EN_V,0.45948012232415897,1.0,0.45948012232415897,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Amyloid-like protein
-CPI-SS0C93E48D7---THBS1-CD36---SM-FB_V,THBS1-CD36,SM-FB_V,0.36870026525198935,1.0,0.36870026525198935,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Thrombospondin precursor
-CPI-SS0B70EB09E---PDGFA-PDGFRA---SM-FB_V,PDGFA-PDGFRA,SM-FB_V,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
-CPI-SS0A28DCA72---CXCL12-CXCR4---SM-FB_V,CXCL12-CXCR4,SM-FB_V,0.04972375690607735,1.0,0.04972375690607735,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---SM-FB_V,DHEAsulfate-bySULT1E1-PPARG,SM-FB_V,0.5705705705705706,0.132,0.5705705705705706,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
-CPI-SS0ACD487F0---L1CAM-L1CAM---SM-FB_V,L1CAM-L1CAM,SM-FB_V,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,Adhesion by L1CAM
-CPI-SS0BA601DC4---BDNF-NTRK2---SM-FB_V,BDNF-NTRK2,SM-FB_V,0.7290076335877862,1.0,0.7290076335877862,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
-CPI-SS019D9440E---NRXN1-ADGRL1---SM-FB_V,NRXN1-ADGRL1,SM-FB_V,0.23770491803278687,1.0,0.23770491803278687,,0.0,0.0,no,False,Receptor-Receptor,Signaling by Neurexin
-CPI-SS073F3FAD5---WNT5A-ROR1---SM-FB_V,WNT5A-ROR1,SM-FB_V,0.6748768472906403,1.0,0.6748768472906403,,0.0,0.0,no,False,Ligand-Receptor,Signaling by WNT
-CPI-SS00373B59C---LRRC4C-PTPRF---SM-FB_V,LRRC4C-PTPRF,SM-FB_V,0.2943722943722944,1.0,0.2943722943722944,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
-CPI-SS0CBB9D57D---LRFN5-PTPRF---SM-FB_V,LRFN5-PTPRF,SM-FB_V,0.37696335078534027,1.0,0.37696335078534027,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
-CPI-SS06DA9B4FE---PDGFC-PDGFRA---SM-FB_V,PDGFC-PDGFRA,SM-FB_V,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
-CPI-SS09B2ACA25---HBEGF-EGFR---SM-FB_V,HBEGF-EGFR,SM-FB_V,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
-CPI-SS03E7FB333---HBEGF-ERBB2---SM-FB_V,HBEGF-ERBB2,SM-FB_V,0.8581730769230769,1.0,0.8581730769230769,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
-CPI-SS04829AC68---GJA1-GJA1---SM-FB_V,GJA1-GJA1,SM-FB_V,0.0053097345132743405,1.0,0.0053097345132743405,,0.0,0.0,no,False,Gap-Gap,Adhesion by GAP junction
-CPI-SC0B51DC960---PGF-FLT1-complex---SM-FB_V,PGF-FLT1-complex,SM-FB_V,0.056628056628056624,1.0,0.056628056628056624,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS065D9259F---PGF-NRP2---SM-FB_V,PGF-NRP2,SM-FB_V,0.6203125,0.022,,0.6203125,1.0,1.6575773191777938,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS07361522F---PGF-FLT1---SM-FB_V,PGF-FLT1,SM-FB_V,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS04C672963---ESAM-ESAM---SM-FB_V,ESAM-ESAM,SM-FB_V,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,
-CPI-SS0EE09A201---CDH2-CDH2---SM-FB_V,CDH2-CDH2,SM-FB_V,0.8376811594202899,0.001,,0.8376811594202899,1.0,3.0,yes,False,Adhesion-Adhesion,Adhesion by Cadherin
-CPI-SS0DF830287---APLP2-PLXNA4---SM-FB_V,APLP2-PLXNA4,SM-FB_V,0.48547400611620795,1.0,0.48547400611620795,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Amyloid-like protein
-CPI-SS0C93E48D7---THBS1-CD36---SM-PR,THBS1-CD36,SM-PR,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Thrombospondin precursor
-CPI-SS0B70EB09E---PDGFA-PDGFRA---SM-PR,PDGFA-PDGFRA,SM-PR,0.819068255687974,0.001,,0.819068255687974,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
-CPI-SS0A28DCA72---CXCL12-CXCR4---SM-PR,CXCL12-CXCR4,SM-PR,0.11602209944751382,1.0,0.11602209944751382,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---SM-PR,DHEAsulfate-bySULT1E1-PPARG,SM-PR,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
-CPI-SS0ACD487F0---L1CAM-L1CAM---SM-PR,L1CAM-L1CAM,SM-PR,0.10344827586206906,1.0,0.10344827586206906,,0.0,0.0,no,False,Adhesion-Adhesion,Adhesion by L1CAM
-CPI-SS0BA601DC4---BDNF-NTRK2---SM-PR,BDNF-NTRK2,SM-PR,0.6755725190839694,1.0,0.6755725190839694,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
-CPI-SS019D9440E---NRXN1-ADGRL1---SM-PR,NRXN1-ADGRL1,SM-PR,0.20491803278688525,1.0,0.20491803278688525,,0.0,0.0,no,False,Receptor-Receptor,Signaling by Neurexin
-CPI-SS073F3FAD5---WNT5A-ROR1---SM-PR,WNT5A-ROR1,SM-PR,0.45812807881773393,1.0,0.45812807881773393,,0.0,0.0,no,False,Ligand-Receptor,Signaling by WNT
-CPI-SS00373B59C---LRRC4C-PTPRF---SM-PR,LRRC4C-PTPRF,SM-PR,0.29004329004329005,1.0,0.29004329004329005,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
-CPI-SS0CBB9D57D---LRFN5-PTPRF---SM-PR,LRFN5-PTPRF,SM-PR,0.3717277486910994,1.0,0.3717277486910994,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
-CPI-SS06DA9B4FE---PDGFC-PDGFRA---SM-PR,PDGFC-PDGFRA,SM-PR,0.7579710144927537,0.17,0.7579710144927537,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
-CPI-SS09B2ACA25---HBEGF-EGFR---SM-PR,HBEGF-EGFR,SM-PR,0.9850107066381156,0.001,,0.9850107066381156,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
-CPI-SS03E7FB333---HBEGF-ERBB2---SM-PR,HBEGF-ERBB2,SM-PR,0.84375,1.0,0.84375,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SC0B51DC960---PGF-FLT1-complex---PR-SM,PGF-FLT1-complex,PR-SM,0.032742155525238736,1.0,0.032742155525238736,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS065D9259F---PGF-NRP2---PR-SM,PGF-NRP2,PR-SM,0.04033613445378155,1.0,0.04033613445378155,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS07361522F---PGF-FLT1---PR-SM,PGF-FLT1,PR-SM,0.24611708482676226,0.988,0.24611708482676226,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS04C672963---ESAM-ESAM---PR-SM,ESAM-ESAM,PR-SM,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0EE09A201---CDH2-CDH2---PR-SM,CDH2-CDH2,PR-SM,0.773913043478261,0.001,,0.773913043478261,1.0,3.0,yes,False,Adhesion-Adhesion,Adhesion by Cadherin
+CPI-SS0A28DCA72---CXCL12-CXCR4---PR-SM,CXCL12-CXCR4,PR-SM,0.11464088397790057,1.0,0.11464088397790057,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS09B2ACA25---HBEGF-EGFR---PR-SM,HBEGF-EGFR,PR-SM,0.17241379310344826,1.0,0.17241379310344826,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS03E7FB333---HBEGF-ERBB2---PR-SM,HBEGF-ERBB2,PR-SM,0.21875,1.0,0.21875,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS06DA9B4FE---PDGFC-PDGFRA---PR-SM,PDGFC-PDGFRA,PR-SM,0.23252032520325203,1.0,0.23252032520325203,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---PR-SM,DHEAsulfate-bySULT1E1-PPARG,PR-SM,0.5476190476190477,1.0,0.5476190476190477,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS019D9440E---NRXN1-ADGRL1---PR-SM,NRXN1-ADGRL1,PR-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Receptor-Receptor,Signaling by Neurexin
+CPI-SS00373B59C---LRRC4C-PTPRF---PR-SM,LRRC4C-PTPRF,PR-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
+CPI-SS0CBB9D57D---LRFN5-PTPRF---PR-SM,LRFN5-PTPRF,PR-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
+CPI-SS0ACD487F0---L1CAM-L1CAM---PR-SM,L1CAM-L1CAM,PR-SM,0.03478260869565221,1.0,0.03478260869565221,,0.0,0.0,no,False,Adhesion-Adhesion,Adhesion by L1CAM
+CPI-SS0BA601DC4---BDNF-NTRK2---PR-SM,BDNF-NTRK2,PR-SM,0.7137404580152672,1.0,0.7137404580152672,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
+CPI-SS0C93E48D7---THBS1-CD36---SM-EN,THBS1-CD36,SM-EN,0.4943820224719101,0.001,,0.4943820224719101,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Thrombospondin precursor
+CPI-SS0B70EB09E---PDGFA-PDGFRA---SM-EN,PDGFA-PDGFRA,SM-EN,0.5530660377358491,0.932,0.5530660377358491,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-SS04829AC68---GJA1-GJA1---SM-EN,GJA1-GJA1,SM-EN,1.0,0.001,,1.0,1.0,3.0,yes,False,Gap-Gap,Adhesion by GAP junction
+CPI-SC0B51DC960---PGF-FLT1-complex---SM-EN,PGF-FLT1-complex,SM-EN,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS065D9259F---PGF-NRP2---SM-EN,PGF-NRP2,SM-EN,0.49411764705882355,0.755,0.49411764705882355,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS07361522F---PGF-FLT1---SM-EN,PGF-FLT1,SM-EN,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS04C672963---ESAM-ESAM---SM-EN,ESAM-ESAM,SM-EN,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,
+CPI-SS0EE09A201---CDH2-CDH2---SM-EN,CDH2-CDH2,SM-EN,0.691304347826087,0.001,,0.691304347826087,1.0,3.0,yes,False,Adhesion-Adhesion,Adhesion by Cadherin
+CPI-SS0A28DCA72---CXCL12-CXCR4---SM-EN,CXCL12-CXCR4,SM-EN,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS09B2ACA25---HBEGF-EGFR---SM-EN,HBEGF-EGFR,SM-EN,0.7693965517241379,1.0,0.7693965517241379,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS03E7FB333---HBEGF-ERBB2---SM-EN,HBEGF-ERBB2,SM-EN,0.8028846153846154,1.0,0.8028846153846154,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS06DA9B4FE---PDGFC-PDGFRA---SM-EN,PDGFC-PDGFRA,SM-EN,0.383739837398374,1.0,0.383739837398374,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---SM-EN,DHEAsulfate-bySULT1E1-PPARG,SM-EN,0.5238095238095238,0.968,0.5238095238095238,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS019D9440E---NRXN1-ADGRL1---SM-EN,NRXN1-ADGRL1,SM-EN,0.18248175182481752,1.0,0.18248175182481752,,0.0,0.0,no,False,Receptor-Receptor,Signaling by Neurexin
+CPI-SS00373B59C---LRRC4C-PTPRF---SM-EN,LRRC4C-PTPRF,SM-EN,0.4719101123595506,1.0,0.4719101123595506,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
+CPI-SS0CBB9D57D---LRFN5-PTPRF---SM-EN,LRFN5-PTPRF,SM-EN,0.5301204819277108,1.0,0.5301204819277108,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
+CPI-SS0ACD487F0---L1CAM-L1CAM---SM-EN,L1CAM-L1CAM,SM-EN,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,Adhesion by L1CAM
+CPI-SS0BA601DC4---BDNF-NTRK2---SM-EN,BDNF-NTRK2,SM-EN,0.5839694656488549,1.0,0.5839694656488549,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
+CPI-SS0C93E48D7---THBS1-CD36---SM-PR,THBS1-CD36,SM-PR,0.7720706260032102,0.001,,0.7720706260032102,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Thrombospondin precursor
+CPI-SS0B70EB09E---PDGFA-PDGFRA---SM-PR,PDGFA-PDGFRA,SM-PR,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
 CPI-SS04829AC68---GJA1-GJA1---SM-PR,GJA1-GJA1,SM-PR,,1.0,,,1.0,0.0,no,False,Gap-Gap,Adhesion by GAP junction
-CPI-SC0B51DC960---PGF-FLT1-complex---SM-PR,PGF-FLT1-complex,SM-PR,0.06177606177606178,1.0,0.06177606177606178,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS065D9259F---PGF-NRP2---SM-PR,PGF-NRP2,SM-PR,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS07361522F---PGF-FLT1---SM-PR,PGF-FLT1,SM-PR,0.05930232558139537,1.0,0.05930232558139537,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS04C672963---ESAM-ESAM---SM-PR,ESAM-ESAM,SM-PR,0.09706257982120053,1.0,0.09706257982120053,,0.0,0.0,no,False,Adhesion-Adhesion,
-CPI-SS0EE09A201---CDH2-CDH2---SM-PR,CDH2-CDH2,SM-PR,0.6942028985507247,0.001,,0.6942028985507247,1.0,3.0,yes,False,Adhesion-Adhesion,Adhesion by Cadherin
-CPI-SS0DF830287---APLP2-PLXNA4---SM-PR,APLP2-PLXNA4,SM-PR,0.4984709480122324,0.032,,0.4984709480122324,1.0,1.494850021680094,yes,False,Ligand-Receptor,Signaling by Amyloid-like protein
-CPI-SS0C93E48D7---THBS1-CD36---SM-SM,THBS1-CD36,SM-SM,0.8395225464190982,0.001,,0.8395225464190982,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Thrombospondin precursor
-CPI-SS0B70EB09E---PDGFA-PDGFRA---SM-SM,PDGFA-PDGFRA,SM-SM,0.43445287107258934,1.0,0.43445287107258934,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-SC0B51DC960---PGF-FLT1-complex---SM-PR,PGF-FLT1-complex,SM-PR,0.0027285129604365647,1.0,0.0027285129604365647,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS065D9259F---PGF-NRP2---SM-PR,PGF-NRP2,SM-PR,0.29243697478991604,1.0,0.29243697478991604,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS07361522F---PGF-FLT1---SM-PR,PGF-FLT1,SM-PR,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS04C672963---ESAM-ESAM---SM-PR,ESAM-ESAM,SM-PR,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0EE09A201---CDH2-CDH2---SM-PR,CDH2-CDH2,SM-PR,0.773913043478261,0.001,,0.773913043478261,1.0,3.0,yes,False,Adhesion-Adhesion,Adhesion by Cadherin
+CPI-SS0A28DCA72---CXCL12-CXCR4---SM-PR,CXCL12-CXCR4,SM-PR,0.08011049723756906,1.0,0.08011049723756906,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS09B2ACA25---HBEGF-EGFR---SM-PR,HBEGF-EGFR,SM-PR,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS03E7FB333---HBEGF-ERBB2---SM-PR,HBEGF-ERBB2,SM-PR,0.8509615384615384,1.0,0.8509615384615384,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS06DA9B4FE---PDGFC-PDGFRA---SM-PR,PDGFC-PDGFRA,SM-PR,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---SM-PR,DHEAsulfate-bySULT1E1-PPARG,SM-PR,0.8639455782312926,0.001,,0.8639455782312926,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS019D9440E---NRXN1-ADGRL1---SM-PR,NRXN1-ADGRL1,SM-PR,0.2992700729927007,1.0,0.2992700729927007,,0.0,0.0,no,False,Receptor-Receptor,Signaling by Neurexin
+CPI-SS00373B59C---LRRC4C-PTPRF---SM-PR,LRRC4C-PTPRF,SM-PR,0.3820224719101124,1.0,0.3820224719101124,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
+CPI-SS0CBB9D57D---LRFN5-PTPRF---SM-PR,LRFN5-PTPRF,SM-PR,0.4337349397590361,1.0,0.4337349397590361,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
+CPI-SS0ACD487F0---L1CAM-L1CAM---SM-PR,L1CAM-L1CAM,SM-PR,0.03478260869565221,1.0,0.03478260869565221,,0.0,0.0,no,False,Adhesion-Adhesion,Adhesion by L1CAM
+CPI-SS0BA601DC4---BDNF-NTRK2---SM-PR,BDNF-NTRK2,SM-PR,0.7061068702290076,1.0,0.7061068702290076,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
+CPI-SS0C93E48D7---THBS1-CD36---SM-SM,THBS1-CD36,SM-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Thrombospondin precursor
+CPI-SS0B70EB09E---PDGFA-PDGFRA---SM-SM,PDGFA-PDGFRA,SM-SM,0.47287735849056595,1.0,0.47287735849056595,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-SS04829AC68---GJA1-GJA1---SM-SM,GJA1-GJA1,SM-SM,0.019538188277087025,1.0,0.019538188277087025,,0.0,0.0,no,False,Gap-Gap,Adhesion by GAP junction
+CPI-SC0B51DC960---PGF-FLT1-complex---SM-SM,PGF-FLT1-complex,SM-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS065D9259F---PGF-NRP2---SM-SM,PGF-NRP2,SM-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS07361522F---PGF-FLT1---SM-SM,PGF-FLT1,SM-SM,0.21624850657108718,0.988,0.21624850657108718,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS04C672963---ESAM-ESAM---SM-SM,ESAM-ESAM,SM-SM,0.11481975967957275,0.964,0.11481975967957275,,0.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0EE09A201---CDH2-CDH2---SM-SM,CDH2-CDH2,SM-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,Adhesion by Cadherin
 CPI-SS0A28DCA72---CXCL12-CXCR4---SM-SM,CXCL12-CXCR4,SM-SM,0.05248618784530388,1.0,0.05248618784530388,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---SM-SM,DHEAsulfate-bySULT1E1-PPARG,SM-SM,0.6456456456456456,0.01,,0.6456456456456456,1.0,2.0,yes,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS09B2ACA25---HBEGF-EGFR---SM-SM,HBEGF-EGFR,SM-SM,0.8103448275862069,0.001,,0.8103448275862069,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS03E7FB333---HBEGF-ERBB2---SM-SM,HBEGF-ERBB2,SM-SM,0.9278846153846154,0.001,,0.9278846153846154,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS06DA9B4FE---PDGFC-PDGFRA---SM-SM,PDGFC-PDGFRA,SM-SM,0.2731707317073171,1.0,0.2731707317073171,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---SM-SM,DHEAsulfate-bySULT1E1-PPARG,SM-SM,0.7312925170068028,0.052,0.7312925170068028,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS019D9440E---NRXN1-ADGRL1---SM-SM,NRXN1-ADGRL1,SM-SM,0.34671532846715325,1.0,0.34671532846715325,,0.0,0.0,no,False,Receptor-Receptor,Signaling by Neurexin
+CPI-SS00373B59C---LRRC4C-PTPRF---SM-SM,LRRC4C-PTPRF,SM-SM,0.5056179775280899,1.0,0.5056179775280899,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
+CPI-SS0CBB9D57D---LRFN5-PTPRF---SM-SM,LRFN5-PTPRF,SM-SM,0.5662650602409638,1.0,0.5662650602409638,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
 CPI-SS0ACD487F0---L1CAM-L1CAM---SM-SM,L1CAM-L1CAM,SM-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,Adhesion by L1CAM
 CPI-SS0BA601DC4---BDNF-NTRK2---SM-SM,BDNF-NTRK2,SM-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
-CPI-SS019D9440E---NRXN1-ADGRL1---SM-SM,NRXN1-ADGRL1,SM-SM,0.25956284153005466,1.0,0.25956284153005466,,0.0,0.0,no,False,Receptor-Receptor,Signaling by Neurexin
-CPI-SS073F3FAD5---WNT5A-ROR1---SM-SM,WNT5A-ROR1,SM-SM,0.5960591133004925,1.0,0.5960591133004925,,0.0,0.0,no,False,Ligand-Receptor,Signaling by WNT
-CPI-SS00373B59C---LRRC4C-PTPRF---SM-SM,LRRC4C-PTPRF,SM-SM,0.3896103896103896,1.0,0.3896103896103896,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
-CPI-SS0CBB9D57D---LRFN5-PTPRF---SM-SM,LRFN5-PTPRF,SM-SM,0.49214659685863876,1.0,0.49214659685863876,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
-CPI-SS06DA9B4FE---PDGFC-PDGFRA---SM-SM,PDGFC-PDGFRA,SM-SM,0.24347826086956526,1.0,0.24347826086956526,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
-CPI-SS09B2ACA25---HBEGF-EGFR---SM-SM,HBEGF-EGFR,SM-SM,0.8051391862955032,0.001,,0.8051391862955032,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
-CPI-SS03E7FB333---HBEGF-ERBB2---SM-SM,HBEGF-ERBB2,SM-SM,0.9278846153846154,0.001,,0.9278846153846154,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
-CPI-SS04829AC68---GJA1-GJA1---SM-SM,GJA1-GJA1,SM-SM,0.023008849557522117,1.0,0.023008849557522117,,0.0,0.0,no,False,Gap-Gap,Adhesion by GAP junction
-CPI-SC0B51DC960---PGF-FLT1-complex---SM-SM,PGF-FLT1-complex,SM-SM,0.056628056628056624,1.0,0.056628056628056624,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS065D9259F---PGF-NRP2---SM-SM,PGF-NRP2,SM-SM,0.07031249999999997,1.0,0.07031249999999997,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS07361522F---PGF-FLT1---SM-SM,PGF-FLT1,SM-SM,0.23720930232558138,0.98,0.23720930232558138,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS04C672963---ESAM-ESAM---SM-SM,ESAM-ESAM,SM-SM,0.15325670498084293,0.978,0.15325670498084293,,0.0,0.0,no,False,Adhesion-Adhesion,
-CPI-SS0EE09A201---CDH2-CDH2---SM-SM,CDH2-CDH2,SM-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,Adhesion by Cadherin
-CPI-SS0DF830287---APLP2-PLXNA4---SM-SM,APLP2-PLXNA4,SM-SM,0.47477064220183485,1.0,0.47477064220183485,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Amyloid-like protein
-CPI-SS0C93E48D7---THBS1-CD36---SM-UN,THBS1-CD36,SM-UN,0.37533156498673736,1.0,0.37533156498673736,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Thrombospondin precursor
-CPI-SS0B70EB09E---PDGFA-PDGFRA---SM-UN,PDGFA-PDGFRA,SM-UN,0.4117009750812568,1.0,0.4117009750812568,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-SS0C93E48D7---THBS1-CD36---SM-UN,THBS1-CD36,SM-UN,0.4382022471910112,1.0,0.4382022471910112,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Thrombospondin precursor
+CPI-SS0B70EB09E---PDGFA-PDGFRA---SM-UN,PDGFA-PDGFRA,SM-UN,0.4481132075471698,1.0,0.4481132075471698,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-SS04829AC68---GJA1-GJA1---SM-UN,GJA1-GJA1,SM-UN,0.1705150976909414,0.868,0.1705150976909414,,0.0,0.0,no,False,Gap-Gap,Adhesion by GAP junction
+CPI-SC0B51DC960---PGF-FLT1-complex---SM-UN,PGF-FLT1-complex,SM-UN,0.44474761255115963,0.14,0.44474761255115963,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS065D9259F---PGF-NRP2---SM-UN,PGF-NRP2,SM-UN,0.20336134453781513,0.964,0.20336134453781513,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS07361522F---PGF-FLT1---SM-UN,PGF-FLT1,SM-UN,0.3596176821983274,0.312,0.3596176821983274,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS04C672963---ESAM-ESAM---SM-UN,ESAM-ESAM,SM-UN,0.30173564753004006,0.228,0.30173564753004006,,0.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0EE09A201---CDH2-CDH2---SM-UN,CDH2-CDH2,SM-UN,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,Adhesion by Cadherin
 CPI-SS0A28DCA72---CXCL12-CXCR4---SM-UN,CXCL12-CXCR4,SM-UN,0.10359116022099447,1.0,0.10359116022099447,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
-CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---SM-UN,DHEAsulfate-bySULT1E1-PPARG,SM-UN,0.8828828828828827,0.04,,0.8828828828828827,1.0,1.3979400086720375,yes,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
-CPI-SS0ACD487F0---L1CAM-L1CAM---SM-UN,L1CAM-L1CAM,SM-UN,0.6293103448275863,1.0,0.6293103448275863,,0.0,0.0,no,False,Adhesion-Adhesion,Adhesion by L1CAM
-CPI-SS0BA601DC4---BDNF-NTRK2---SM-UN,BDNF-NTRK2,SM-UN,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
-CPI-SS019D9440E---NRXN1-ADGRL1---SM-UN,NRXN1-ADGRL1,SM-UN,,1.0,,,1.0,0.0,no,False,Receptor-Receptor,Signaling by Neurexin
-CPI-SS073F3FAD5---WNT5A-ROR1---SM-UN,WNT5A-ROR1,SM-UN,0.8620689655172412,1.0,0.8620689655172412,,0.0,0.0,no,False,Ligand-Receptor,Signaling by WNT
-CPI-SS00373B59C---LRRC4C-PTPRF---SM-UN,LRRC4C-PTPRF,SM-UN,0.47619047619047616,1.0,0.47619047619047616,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
-CPI-SS0CBB9D57D---LRFN5-PTPRF---SM-UN,LRFN5-PTPRF,SM-UN,0.5968586387434555,1.0,0.5968586387434555,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
-CPI-SS06DA9B4FE---PDGFC-PDGFRA---SM-UN,PDGFC-PDGFRA,SM-UN,0.21304347826086956,1.0,0.21304347826086956,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
 CPI-SS09B2ACA25---HBEGF-EGFR---SM-UN,HBEGF-EGFR,SM-UN,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
 CPI-SS03E7FB333---HBEGF-ERBB2---SM-UN,HBEGF-ERBB2,SM-UN,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
-CPI-SS04829AC68---GJA1-GJA1---SM-UN,GJA1-GJA1,SM-UN,0.17345132743362834,0.866,0.17345132743362834,,0.0,0.0,no,False,Gap-Gap,Adhesion by GAP junction
-CPI-SC0B51DC960---PGF-FLT1-complex---SM-UN,PGF-FLT1-complex,SM-UN,0.47619047619047616,0.13,0.47619047619047616,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS065D9259F---PGF-NRP2---SM-UN,PGF-NRP2,SM-UN,0.25937499999999997,0.952,0.25937499999999997,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS07361522F---PGF-FLT1---SM-UN,PGF-FLT1,SM-UN,0.3767441860465117,0.325,0.3767441860465117,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS04C672963---ESAM-ESAM---SM-UN,ESAM-ESAM,SM-UN,0.3320561941251597,0.257,0.3320561941251597,,0.0,0.0,no,False,Adhesion-Adhesion,
-CPI-SS0EE09A201---CDH2-CDH2---SM-UN,CDH2-CDH2,SM-UN,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,Adhesion by Cadherin
-CPI-SS0DF830287---APLP2-PLXNA4---SM-UN,APLP2-PLXNA4,SM-UN,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Amyloid-like protein
-CPI-SS0C93E48D7---THBS1-CD36---UN-SM,THBS1-CD36,UN-SM,0.04244031830238723,1.0,0.04244031830238723,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Thrombospondin precursor
+CPI-SS06DA9B4FE---PDGFC-PDGFRA---SM-UN,PDGFC-PDGFRA,SM-UN,0.23902439024390243,1.0,0.23902439024390243,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---SM-UN,DHEAsulfate-bySULT1E1-PPARG,SM-UN,1.0,0.048,,1.0,1.0,1.3187587626244128,yes,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS019D9440E---NRXN1-ADGRL1---SM-UN,NRXN1-ADGRL1,SM-UN,,1.0,,,1.0,0.0,no,False,Receptor-Receptor,Signaling by Neurexin
+CPI-SS00373B59C---LRRC4C-PTPRF---SM-UN,LRRC4C-PTPRF,SM-UN,0.6179775280898877,1.0,0.6179775280898877,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
+CPI-SS0CBB9D57D---LRFN5-PTPRF---SM-UN,LRFN5-PTPRF,SM-UN,0.6867469879518072,1.0,0.6867469879518072,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
+CPI-SS0ACD487F0---L1CAM-L1CAM---SM-UN,L1CAM-L1CAM,SM-UN,0.6260869565217393,1.0,0.6260869565217393,,0.0,0.0,no,False,Adhesion-Adhesion,Adhesion by L1CAM
+CPI-SS0BA601DC4---BDNF-NTRK2---SM-UN,BDNF-NTRK2,SM-UN,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
+CPI-SS0C93E48D7---THBS1-CD36---UN-SM,THBS1-CD36,UN-SM,0.03531300160513638,1.0,0.03531300160513638,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Thrombospondin precursor
 CPI-SS0B70EB09E---PDGFA-PDGFRA---UN-SM,PDGFA-PDGFRA,UN-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-SS04829AC68---GJA1-GJA1---UN-SM,GJA1-GJA1,UN-SM,0.1705150976909414,0.868,0.1705150976909414,,0.0,0.0,no,False,Gap-Gap,Adhesion by GAP junction
+CPI-SC0B51DC960---PGF-FLT1-complex---UN-SM,PGF-FLT1-complex,UN-SM,0.07503410641200545,1.0,0.07503410641200545,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS065D9259F---PGF-NRP2---UN-SM,PGF-NRP2,UN-SM,0.09243697478991596,0.996,0.09243697478991596,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS07361522F---PGF-FLT1---UN-SM,PGF-FLT1,UN-SM,0.28195937873357224,0.587,0.28195937873357224,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS04C672963---ESAM-ESAM---UN-SM,ESAM-ESAM,UN-SM,0.30173564753004006,0.228,0.30173564753004006,,0.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0EE09A201---CDH2-CDH2---UN-SM,CDH2-CDH2,UN-SM,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,Adhesion by Cadherin
 CPI-SS0A28DCA72---CXCL12-CXCR4---UN-SM,CXCL12-CXCR4,UN-SM,0.06353591160220995,1.0,0.06353591160220995,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS09B2ACA25---HBEGF-EGFR---UN-SM,HBEGF-EGFR,UN-SM,0.872844827586207,0.001,,0.872844827586207,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS03E7FB333---HBEGF-ERBB2---UN-SM,HBEGF-ERBB2,UN-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS06DA9B4FE---PDGFC-PDGFRA---UN-SM,PDGFC-PDGFRA,UN-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
 CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---UN-SM,DHEAsulfate-bySULT1E1-PPARG,UN-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
-CPI-SS0ACD487F0---L1CAM-L1CAM---UN-SM,L1CAM-L1CAM,UN-SM,0.6293103448275863,1.0,0.6293103448275863,,0.0,0.0,no,False,Adhesion-Adhesion,Adhesion by L1CAM
-CPI-SS0BA601DC4---BDNF-NTRK2---UN-SM,BDNF-NTRK2,UN-SM,0.9847328244274809,0.001,,0.9847328244274809,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
-CPI-SS019D9440E---NRXN1-ADGRL1---UN-SM,NRXN1-ADGRL1,UN-SM,0.4180327868852459,1.0,0.4180327868852459,,0.0,0.0,no,False,Receptor-Receptor,Signaling by Neurexin
-CPI-SS073F3FAD5---WNT5A-ROR1---UN-SM,WNT5A-ROR1,UN-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by WNT
+CPI-SS019D9440E---NRXN1-ADGRL1---UN-SM,NRXN1-ADGRL1,UN-SM,0.5583941605839415,1.0,0.5583941605839415,,0.0,0.0,no,False,Receptor-Receptor,Signaling by Neurexin
 CPI-SS00373B59C---LRRC4C-PTPRF---UN-SM,LRRC4C-PTPRF,UN-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
 CPI-SS0CBB9D57D---LRFN5-PTPRF---UN-SM,LRFN5-PTPRF,UN-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Leucine Rich Repeat And Fibronectin
-CPI-SS06DA9B4FE---PDGFC-PDGFRA---UN-SM,PDGFC-PDGFRA,UN-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
-CPI-SS09B2ACA25---HBEGF-EGFR---UN-SM,HBEGF-EGFR,UN-SM,0.867237687366167,0.001,,0.867237687366167,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
-CPI-SS03E7FB333---HBEGF-ERBB2---UN-SM,HBEGF-ERBB2,UN-SM,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
-CPI-SS04829AC68---GJA1-GJA1---UN-SM,GJA1-GJA1,UN-SM,0.17345132743362834,0.866,0.17345132743362834,,0.0,0.0,no,False,Gap-Gap,Adhesion by GAP junction
-CPI-SC0B51DC960---PGF-FLT1-complex---UN-SM,PGF-FLT1-complex,UN-SM,0.1274131274131274,1.0,0.1274131274131274,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS065D9259F---PGF-NRP2---UN-SM,PGF-NRP2,UN-SM,0.15624999999999997,0.996,0.15624999999999997,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS07361522F---PGF-FLT1---UN-SM,PGF-FLT1,UN-SM,0.30116279069767443,0.588,0.30116279069767443,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS04C672963---ESAM-ESAM---UN-SM,ESAM-ESAM,UN-SM,0.3320561941251597,0.257,0.3320561941251597,,0.0,0.0,no,False,Adhesion-Adhesion,
-CPI-SS0EE09A201---CDH2-CDH2---UN-SM,CDH2-CDH2,UN-SM,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,Adhesion by Cadherin
-CPI-SS0DF830287---APLP2-PLXNA4---UN-SM,APLP2-PLXNA4,UN-SM,0.36391437308868496,1.0,0.36391437308868496,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Amyloid-like protein
+CPI-SS0ACD487F0---L1CAM-L1CAM---UN-SM,L1CAM-L1CAM,UN-SM,0.6260869565217393,1.0,0.6260869565217393,,0.0,0.0,no,False,Adhesion-Adhesion,Adhesion by L1CAM
+CPI-SS0BA601DC4---BDNF-NTRK2---UN-SM,BDNF-NTRK2,UN-SM,0.9847328244274809,0.004,,0.9847328244274809,1.0,2.3979400086720375,yes,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor

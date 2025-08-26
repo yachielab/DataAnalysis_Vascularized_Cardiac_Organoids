@@ -15,12 +15,12 @@ full_palette = {
     'CM_3': '#9ecae1',  # pale blue
     'EN_H': '#d62728',  # red
     'EN_V': '#ff9896',  # pinkish red
-    'PR':    '#9467bd',  # purple
-    'FB_V':  '#2ca02c',  # green
-    'FB_H':  '#98df8a',  # light green
-    'SM': '#ff7f0e',     # orange
-    'EP': '#8c564b',     # brown
-    'UN': '#7f7f7f',     # grey (unassigned/unknown)
+    'PR_1': '#2ca02c',  # green
+    'PR_2': '#98df8a',  # light green
+    'FB':   '#9467bd',  # purple
+    'SM':   '#ff7f0e',  # orange
+    'EP':   '#8c564b',  # brown
+    'UN':   '#7f7f7f',  # grey (unassigned/unknown)
 }
 
 xlim_full = [-12, 20]
