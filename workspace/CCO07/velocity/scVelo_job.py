@@ -8,13 +8,29 @@ WORK_DIR = "/home/herbert/PyProjects/cocultured_organ/workspace/CCO07"
 loom_file_names = ['BVO', 'HO', 'CM3O', 'BHO', 'CM3B']
 adata_file_names = ['VO', 'HO', 'CA', 'VHO', 'VCO']
 
+# full_palette = {
+#     'CM_0': '#1f77b4',  # blue
+#     'CM_1': '#6baed6',  # lighter blue
+#     'CM_2': '#08306b',  # dark navy blue
+#     'CM_3': '#9ecae1',  # pale blue
+#     'EN_H': '#d62728',  # red
+#     'EN_V': '#ff9896',  # pinkish red
+#     'PR_1': '#2ca02c',  # green
+#     'PR_2': '#98df8a',  # light green
+#     'FB':   '#9467bd',  # purple
+#     'SM':   '#ff7f0e',  # orange
+#     'EP':   '#8c564b',  # brown
+#     'UN':   '#7f7f7f',  # grey (unassigned/unknown)
+# }
+
 full_palette = {
     'CM_0': '#1f77b4',  # blue
     'CM_1': '#6baed6',  # lighter blue
     'CM_2': '#08306b',  # dark navy blue
     'CM_3': '#9ecae1',  # pale blue
-    'EN_H': '#d62728',  # red
-    'EN_V': '#ff9896',  # pinkish red
+    'EN_0': '#d62728',  # strong red
+    'EN_1': '#ff9896',  # light pinkish red
+    'EN_2': '#a50f15',  # deep crimson red
     'PR_1': '#2ca02c',  # green
     'PR_2': '#98df8a',  # light green
     'FB':   '#9467bd',  # purple
