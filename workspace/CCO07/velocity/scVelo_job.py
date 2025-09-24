@@ -24,15 +24,21 @@ adata_file_names = ['VO', 'HO', 'CA', 'VHO', 'VCO']
 # }
 
 full_palette = {
-    'CM_0': '#1f77b4',  # blue
-    'CM_1': '#6baed6',  # lighter blue
-    'CM_2': '#08306b',  # dark navy blue
-    'CM_3': '#9ecae1',  # pale blue
-    'EN_0': '#d62728',  # strong red
-    'EN_1': '#ff9896',  # light pinkish red
-    'EN_2': '#a50f15',  # deep crimson red
+    'CM_1': '#1f77b4',  # blue
+    'CM_2': '#6baed6',  # lighter blue
+    'CM_3': '#08306b',  # dark navy blue
+    'CM_4': '#9ecae1',  # pale blue
+    'EC_1': '#d62728',  # strong red
+    'EC_2': '#ff9896',  # light pinkish red
+    'EC_3': '#a50f15',  # deep crimson red
     'PR_1': '#2ca02c',  # green
-    'PR_2': '#98df8a',  # light green
+    'PR_2': '#2ca02c',  # green
+    'PR_3': '#2ca02c',  # green
+    'PR_4': '#2ca02c',  # green
+    'PR_5': '#2ca02c',  # green
+    'PR_6': '#2ca02c',  # green
+    'PR_7': '#2ca02c',  # green
+    'PR_8': '#2ca02c',  # green
     'FB':   '#9467bd',  # purple
     'SM':   '#ff7f0e',  # orange
     'EP':   '#8c564b',  # brown
