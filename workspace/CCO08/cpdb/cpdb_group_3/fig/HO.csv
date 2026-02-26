@@ -1,0 +1,121 @@
+,interaction_group,celltype_group,scaled_means,pvals,x_means,y_means,x_stroke,neglog10p,significant,is_integrin,directionality,classification
+CPI-SS087E0E3FB---EFNB2-EPHA4---CM-CM,EFNB2-EPHA4,CM-CM,0.6368563685636857,0.001,,0.6368563685636857,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Ephrin
+CPI-SS0A28DCA72---CXCL12-CXCR4---CM-EC,CXCL12-CXCR4,CM-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0D681D90E---SDC2-ADGRA2---CM-EC,SDC2-ADGRA2,CM-EC,0.2897033158813264,0.032,,0.2897033158813264,1.0,1.494850021680094,yes,False,Ligand-Receptor,Signaling by Syndecan
+CPI-SS04829AC68---GJA1-GJA1---CM-EC,GJA1-GJA1,CM-EC,0.6011299435028249,0.001,,0.6011299435028249,1.0,3.0,yes,False,Gap-Gap,Adhesion by GAP junction
+CPI-SS0B9B3870A---VEGFA-FLT1---CM-EC,VEGFA-FLT1,CM-EC,0.913491246138002,0.001,,0.913491246138002,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---CM-EC,VEGFA-FLT1-complex,CM-EC,0.8573868488471393,0.001,,0.8573868488471393,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---CM-EC,VEGFA-NRP2,CM-EC,0.8676703645007924,0.001,,0.8676703645007924,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---CM-EC,VEGFA-KDR,CM-EC,0.8557858376511228,0.001,,0.8557858376511228,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C3906934---RSPO3-LGR5---CM-EP,RSPO3-LGR5,CM-EP,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by R-spondin
+CPI-SS052119104---AREG-EGFR---CM-EP,AREG-EGFR,CM-EP,0.4862637362637363,0.001,,0.4862637362637363,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS0A28DCA72---CXCL12-CXCR4---CM-PV,CXCL12-CXCR4,CM-PV,0.9806763285024156,0.001,,0.9806763285024156,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS05ABE6795---EFNB2-EPHB6---CM-PV,EFNB2-EPHB6,CM-PV,0.45748987854251016,0.001,,0.45748987854251016,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Ephrin
+CPI-SS0B99F22A2---JAG1-NOTCH3---CM-PV,JAG1-NOTCH3,CM-PV,0.46126760563380287,0.001,,0.46126760563380287,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0D681D90E---SDC2-ADGRA2---CM-PV,SDC2-ADGRA2,CM-PV,0.49214659685863876,0.001,,0.49214659685863876,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Syndecan
+CPI-SS052119104---AREG-EGFR---CM-PV,AREG-EGFR,CM-PV,0.4450549450549451,0.001,,0.4450549450549451,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS04829AC68---GJA1-GJA1---CM-PV,GJA1-GJA1,CM-PV,0.3853107344632768,0.001,,0.3853107344632768,1.0,3.0,yes,False,Gap-Gap,Adhesion by GAP junction
+CPI-SS0B9B3870A---VEGFA-FLT1---CM-PV,VEGFA-FLT1,CM-PV,0.24150360453141093,0.001,,0.24150360453141093,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS087E0E3FB---EFNB2-EPHA4---EC-CM,EFNB2-EPHA4,EC-CM,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Ephrin
+CPI-SS04829AC68---GJA1-GJA1---EC-CM,GJA1-GJA1,EC-CM,0.6011299435028249,0.001,,0.6011299435028249,1.0,3.0,yes,False,Gap-Gap,Adhesion by GAP junction
+CPI-SS065D9259F---PGF-NRP2---EC-CM,PGF-NRP2,EC-CM,0.22055888223552894,0.001,,0.22055888223552894,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS00C24ED50---CDH5-CDH5---EC-EC,CDH5-CDH5,EC-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,Adhesion by Cadherin
+CPI-SS0B99F22A2---JAG1-NOTCH3---EC-EC,JAG1-NOTCH3,EC-EC,0.7852112676056338,0.001,,0.7852112676056338,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-SS04C672963---ESAM-ESAM---EC-EC,ESAM-ESAM,EC-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,
+CPI-SS04829AC68---GJA1-GJA1---EC-EC,GJA1-GJA1,EC-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Gap-Gap,Adhesion by GAP junction
+CPI-SC0B51DC960---PGF-FLT1-complex---EC-EC,PGF-FLT1-complex,EC-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS065D9259F---PGF-NRP2---EC-EC,PGF-NRP2,EC-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS007AA9FDE---DLK1-NOTCH3---EC-EC,DLK1-NOTCH3,EC-EC,0.3280254777070064,0.001,,0.3280254777070064,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-SS07361522F---PGF-FLT1---EC-EC,PGF-FLT1,EC-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS0B9B3870A---VEGFA-FLT1---EC-EC,VEGFA-FLT1,EC-EC,0.805870236869207,0.001,,0.805870236869207,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---EC-EC,VEGFA-FLT1-complex,EC-EC,0.6789069171648164,0.001,,0.6789069171648164,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EC-EC,VEGFA-NRP2,EC-EC,0.7020602218700477,0.001,,0.7020602218700477,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---EC-EC,VEGFA-KDR,EC-EC,0.6753022452504318,0.001,,0.6753022452504318,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS052119104---AREG-EGFR---EC-EP,AREG-EGFR,EC-EP,0.5412087912087913,0.001,,0.5412087912087913,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS0B70EB09E---PDGFA-PDGFRA---EC-PV,PDGFA-PDGFRA,EC-PV,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-SS05ABE6795---EFNB2-EPHB6---EC-PV,EFNB2-EPHB6,EC-PV,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Ephrin
+CPI-SS0B99F22A2---JAG1-NOTCH3---EC-PV,JAG1-NOTCH3,EC-PV,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-SS052119104---AREG-EGFR---EC-PV,AREG-EGFR,EC-PV,0.5000000000000001,0.001,,0.5000000000000001,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS04829AC68---GJA1-GJA1---EC-PV,GJA1-GJA1,EC-PV,0.7841807909604519,0.001,,0.7841807909604519,1.0,3.0,yes,False,Gap-Gap,Adhesion by GAP junction
+CPI-SC0B51DC960---PGF-FLT1-complex---EC-PV,PGF-FLT1-complex,EC-PV,0.1945054945054945,0.001,,0.1945054945054945,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS065D9259F---PGF-NRP2---EC-PV,PGF-NRP2,EC-PV,0.17065868263473055,0.004,,0.17065868263473055,1.0,2.3979400086720375,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS007AA9FDE---DLK1-NOTCH3---EC-PV,DLK1-NOTCH3,EC-PV,0.37738853503184716,0.001,,0.37738853503184716,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-SS07361522F---PGF-FLT1---EC-PV,PGF-FLT1,EC-PV,0.2232142857142857,0.001,,0.2232142857142857,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS087E0E3FB---EFNB2-EPHA4---EC-UN,EFNB2-EPHA4,EC-UN,0.6883468834688347,0.044,,0.6883468834688347,1.0,1.3565473235138126,yes,False,Ligand-Receptor,Signaling by Ephrin
+CPI-SS0F1E79A03---WNT5A-SFRP1---EP-CM,WNT5A-SFRP1,EP-CM,0.8983688833124216,0.001,,0.8983688833124216,1.0,3.0,yes,False,Ligand-Ligand,Signaling by WNT inhibition
+CPI-SS01F67987A---FGF2-FGFR1---EP-CM,FGF2-FGFR1,EP-CM,0.41515151515151516,0.04,,0.41515151515151516,1.0,1.3979400086720375,yes,False,Ligand-Receptor,Signaling by Fibroblast growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EP-CM,VEGFA-NRP2,EP-CM,0.3771790808240888,0.001,,0.3771790808240888,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---EP-CM,VEGFA-KDR,EP-CM,0.43177892918825567,0.001,,0.43177892918825567,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS08BFFB96E---FLRT3-ADGRL2---EP-EC,FLRT3-ADGRL2,EP-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Fibronectin
+CPI-SS01F67987A---FGF2-FGFR1---EP-EC,FGF2-FGFR1,EP-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Fibroblast growth factor
+CPI-SS0A28DCA72---CXCL12-CXCR4---EP-EC,CXCL12-CXCR4,EP-EC,0.8357487922705313,0.001,,0.8357487922705313,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0669CC233---CXCL14-CXCR4---EP-EC,CXCL14-CXCR4,EP-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0D681D90E---SDC2-ADGRA2---EP-EC,SDC2-ADGRA2,EP-EC,0.7993019197207679,0.001,,0.7993019197207679,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Syndecan
+CPI-SS058209EC7---F2-F2R---EP-EC,F2-F2R,EP-EC,0.9430789133247088,0.001,,0.9430789133247088,1.0,3.0,yes,False,Ligand-Receptor,Adhesion by Prothrombin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---EP-EC,DHEAsulfate-bySULT1E1-PPARG,EP-EC,0.658256880733945,0.001,,0.658256880733945,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS007AA9FDE---DLK1-NOTCH3---EP-EC,DLK1-NOTCH3,EP-EC,0.8439490445859873,0.001,,0.8439490445859873,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B9B3870A---VEGFA-FLT1---EP-EC,VEGFA-FLT1,EP-EC,0.9974253347064882,0.001,,0.9974253347064882,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---EP-EC,VEGFA-FLT1-complex,EP-EC,0.9965841161400514,0.001,,0.9965841161400514,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EP-EC,VEGFA-NRP2,EP-EC,0.9968304278922345,0.001,,0.9968304278922345,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---EP-EC,VEGFA-KDR,EP-EC,0.9965457685664941,0.001,,0.9965457685664941,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS058209EC7---F2-F2R---EP-EP,F2-F2R,EP-EP,0.6157826649417852,0.001,,0.6157826649417852,1.0,3.0,yes,False,Ligand-Receptor,Adhesion by Prothrombin
+CPI-SS05996C8FD---AGT-AGTR1---EP-EP,AGT-AGTR1,EP-EP,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Angiotensinogen
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---EP-EP,DHEAsulfate-bySULT1E1-PPARG,EP-EP,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS052119104---AREG-EGFR---EP-EP,AREG-EGFR,EP-EP,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS08BFFB96E---FLRT3-ADGRL2---EP-PV,FLRT3-ADGRL2,EP-PV,0.6827133479212254,0.001,,0.6827133479212254,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Fibronectin
+CPI-SS01F67987A---FGF2-FGFR1---EP-PV,FGF2-FGFR1,EP-PV,0.8181818181818182,0.001,,0.8181818181818182,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Fibroblast growth factor
+CPI-SS0A28DCA72---CXCL12-CXCR4---EP-PV,CXCL12-CXCR4,EP-PV,0.8164251207729469,0.001,,0.8164251207729469,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0669CC233---CXCL14-CXCR4---EP-PV,CXCL14-CXCR4,EP-PV,0.9776536312849162,0.001,,0.9776536312849162,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0B99F22A2---JAG1-NOTCH3---EP-PV,JAG1-NOTCH3,EP-PV,0.3450704225352113,0.024,,0.3450704225352113,1.0,1.6197887582883939,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---EP-PV,atRetinoicAcid-byALDH1A1-RORB,EP-PV,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-SS0D681D90E---SDC2-ADGRA2---EP-PV,SDC2-ADGRA2,EP-PV,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Syndecan
+CPI-SS058209EC7---F2-F2R---EP-PV,F2-F2R,EP-PV,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Adhesion by Prothrombin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---EP-PV,DHEAsulfate-bySULT1E1-PPARG,EP-PV,0.3876146788990826,0.001,,0.3876146788990826,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS052119104---AREG-EGFR---EP-PV,AREG-EGFR,EP-PV,0.9587912087912089,0.001,,0.9587912087912089,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS007AA9FDE---DLK1-NOTCH3---EP-PV,DLK1-NOTCH3,EP-PV,0.8933121019108281,0.001,,0.8933121019108281,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B9B3870A---VEGFA-FLT1---EP-PV,VEGFA-FLT1,EP-PV,0.32543769309989695,0.001,,0.32543769309989695,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---EP-PV,VEGFA-FLT1-complex,EP-PV,0.37062339880444073,0.001,,0.37062339880444073,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EP-PV,VEGFA-NRP2,EP-PV,0.33835182250396195,0.044,,0.33835182250396195,1.0,1.3565473235138126,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0F1E79A03---WNT5A-SFRP1---PV-CM,WNT5A-SFRP1,PV-CM,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Ligand,Signaling by WNT inhibition
+CPI-SS087E0E3FB---EFNB2-EPHA4---PV-CM,EFNB2-EPHA4,PV-CM,0.6531165311653118,0.001,,0.6531165311653118,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Ephrin
+CPI-SS0FC01B947---EFNA5-EPHA4---PV-CM,EFNA5-EPHA4,PV-CM,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Ephrin
+CPI-SS007954822---WNT5A-FRZB---PV-CM,WNT5A-FRZB,PV-CM,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Ligand,Signaling by WNT inhibition
+CPI-SS04829AC68---GJA1-GJA1---PV-CM,GJA1-GJA1,PV-CM,0.3853107344632768,0.001,,0.3853107344632768,1.0,3.0,yes,False,Gap-Gap,Adhesion by GAP junction
+CPI-SS065D9259F---PGF-NRP2---PV-CM,PGF-NRP2,PV-CM,0.14870259481037923,0.001,,0.14870259481037923,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---PV-CM,VEGFA-NRP2,PV-CM,0.3811410459587956,0.001,,0.3811410459587956,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---PV-CM,VEGFA-KDR,PV-CM,0.4352331606217617,0.001,,0.4352331606217617,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS075F456AF---TENM3-ADGRL2---PV-EC,TENM3-ADGRL2,PV-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Teneurin
+CPI-SS0A28DCA72---CXCL12-CXCR4---PV-EC,CXCL12-CXCR4,PV-EC,0.9227053140096619,0.001,,0.9227053140096619,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0B99F22A2---JAG1-NOTCH3---PV-EC,JAG1-NOTCH3,PV-EC,0.5809859154929579,0.001,,0.5809859154929579,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0D681D90E---SDC2-ADGRA2---PV-EC,SDC2-ADGRA2,PV-EC,0.6108202443280978,0.001,,0.6108202443280978,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Syndecan
+CPI-SS04829AC68---GJA1-GJA1---PV-EC,GJA1-GJA1,PV-EC,0.7841807909604519,0.001,,0.7841807909604519,1.0,3.0,yes,False,Gap-Gap,Adhesion by GAP junction
+CPI-SC0B51DC960---PGF-FLT1-complex---PV-EC,PGF-FLT1-complex,PV-EC,0.9208791208791209,0.001,,0.9208791208791209,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS065D9259F---PGF-NRP2---PV-EC,PGF-NRP2,PV-EC,0.9281437125748503,0.001,,0.9281437125748503,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS007AA9FDE---DLK1-NOTCH3---PV-EC,DLK1-NOTCH3,PV-EC,0.9506369426751594,0.001,,0.9506369426751594,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-SS07361522F---PGF-FLT1---PV-EC,PGF-FLT1,PV-EC,0.9571428571428571,0.001,,0.9571428571428571,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS0B9B3870A---VEGFA-FLT1---PV-EC,VEGFA-FLT1,PV-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---PV-EC,VEGFA-FLT1-complex,PV-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---PV-EC,VEGFA-NRP2,PV-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---PV-EC,VEGFA-KDR,PV-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0B70EB09E---PDGFA-PDGFRA---PV-PV,PDGFA-PDGFRA,PV-PV,0.5757121439280359,0.001,,0.5757121439280359,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-SS075F456AF---TENM3-ADGRL2---PV-PV,TENM3-ADGRL2,PV-PV,0.7151277013752455,0.001,,0.7151277013752455,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Teneurin
+CPI-SS0A28DCA72---CXCL12-CXCR4---PV-PV,CXCL12-CXCR4,PV-PV,0.9033816425120773,0.001,,0.9033816425120773,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS05ABE6795---EFNB2-EPHB6---PV-PV,EFNB2-EPHB6,PV-PV,0.48178137651821856,0.001,,0.48178137651821856,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Ephrin
+CPI-SS0B99F22A2---JAG1-NOTCH3---PV-PV,JAG1-NOTCH3,PV-PV,0.7992957746478874,0.001,,0.7992957746478874,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0D681D90E---SDC2-ADGRA2---PV-PV,SDC2-ADGRA2,PV-PV,0.8132635253054101,0.001,,0.8132635253054101,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Syndecan
+CPI-SS04829AC68---GJA1-GJA1---PV-PV,GJA1-GJA1,PV-PV,0.5672316384180791,0.001,,0.5672316384180791,1.0,3.0,yes,False,Gap-Gap,Adhesion by GAP junction
+CPI-SC0B51DC960---PGF-FLT1-complex---PV-PV,PGF-FLT1-complex,PV-PV,0.1153846153846154,0.001,,0.1153846153846154,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS007AA9FDE---DLK1-NOTCH3---PV-PV,DLK1-NOTCH3,PV-PV,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-SS07361522F---PGF-FLT1---PV-PV,PGF-FLT1,PV-PV,0.18035714285714283,0.001,,0.18035714285714283,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS0B9B3870A---VEGFA-FLT1---PV-PV,VEGFA-FLT1,PV-PV,0.32749742533470644,0.001,,0.32749742533470644,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---PV-PV,VEGFA-FLT1-complex,PV-PV,0.37489325362937664,0.001,,0.37489325362937664,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---PV-PV,VEGFA-NRP2,PV-PV,0.34231378763866877,0.001,,0.34231378763866877,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---PV-PV,VEGFA-KDR,PV-PV,0.36787564766839387,0.004,,0.36787564766839387,1.0,2.3979400086720375,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---UN-CM,VEGFA-NRP2,UN-CM,0.2979397781299524,0.012,,0.2979397781299524,1.0,1.9208187539523751,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---UN-CM,VEGFA-KDR,UN-CM,0.34542314335060453,0.001,,0.34542314335060453,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0B9B3870A---VEGFA-FLT1---UN-EC,VEGFA-FLT1,UN-EC,0.9459320288362513,0.001,,0.9459320288362513,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-EC,VEGFA-FLT1-complex,UN-EC,0.9111870196413323,0.001,,0.9111870196413323,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---UN-EC,VEGFA-NRP2,UN-EC,0.9175911251980984,0.001,,0.9175911251980984,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---UN-EC,VEGFA-KDR,UN-EC,0.9101899827288429,0.001,,0.9101899827288429,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0B9B3870A---VEGFA-FLT1---UN-PV,VEGFA-FLT1,UN-PV,0.27342945417095776,0.001,,0.27342945417095776,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-PV,VEGFA-FLT1-complex,UN-PV,0.28522630230572166,0.001,,0.28522630230572166,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
