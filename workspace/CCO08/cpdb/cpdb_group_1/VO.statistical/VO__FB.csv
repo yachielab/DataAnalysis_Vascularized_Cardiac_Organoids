@@ -1,0 +1,19 @@
+,interaction_group,celltype_group,scaled_means,pvals,x_means,y_means,x_stroke,neglog10p,significant,is_integrin,directionality,classification
+CPI-SS0B99F22A2---JAG1-NOTCH3---EC-FB,JAG1-NOTCH3,EC-FB,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS065D9259F---PGF-NRP2---EC-FB,PGF-NRP2,EC-FB,1.0,0.04,,1.0,1.0,1.3979400086720375,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS0B99F22A2---JAG1-NOTCH3---FB-EC,JAG1-NOTCH3,FB-EC,0.5679405520169852,0.296,0.5679405520169852,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS065D9259F---PGF-NRP2---FB-EC,PGF-NRP2,FB-EC,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS0B99F22A2---JAG1-NOTCH3---FB-FB,JAG1-NOTCH3,FB-FB,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS065D9259F---PGF-NRP2---FB-FB,PGF-NRP2,FB-FB,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS0B99F22A2---JAG1-NOTCH3---FB-PR,JAG1-NOTCH3,FB-PR,0.6953290870488323,0.16,0.6953290870488323,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS065D9259F---PGF-NRP2---FB-PR,PGF-NRP2,FB-PR,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS0B99F22A2---JAG1-NOTCH3---FB-SM,JAG1-NOTCH3,FB-SM,1.0,0.02,,1.0,1.0,1.6989700043360187,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-SS065D9259F---PGF-NRP2---FB-SM,PGF-NRP2,FB-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS0B99F22A2---JAG1-NOTCH3---FB-UN,JAG1-NOTCH3,FB-UN,0.6528662420382166,0.192,0.6528662420382166,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS065D9259F---PGF-NRP2---FB-UN,PGF-NRP2,FB-UN,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS0B99F22A2---JAG1-NOTCH3---PR-FB,JAG1-NOTCH3,PR-FB,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS065D9259F---PGF-NRP2---PR-FB,PGF-NRP2,PR-FB,0.5597532767925983,0.356,0.5597532767925983,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS0B99F22A2---JAG1-NOTCH3---SM-FB,JAG1-NOTCH3,SM-FB,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS065D9259F---PGF-NRP2---SM-FB,PGF-NRP2,SM-FB,0.5412490362374711,0.376,0.5412490362374711,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS0B99F22A2---JAG1-NOTCH3---UN-FB,JAG1-NOTCH3,UN-FB,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS065D9259F---PGF-NRP2---UN-FB,PGF-NRP2,UN-FB,0.5836545875096376,0.348,0.5836545875096376,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor

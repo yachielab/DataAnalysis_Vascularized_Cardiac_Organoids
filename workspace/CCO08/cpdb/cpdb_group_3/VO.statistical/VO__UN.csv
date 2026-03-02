@@ -1,0 +1,31 @@
+,interaction_group,celltype_group,scaled_means,pvals,x_means,y_means,x_stroke,neglog10p,significant,is_integrin,directionality,classification
+CPI-SS04829AC68---GJA1-GJA1---EC-UN,GJA1-GJA1,EC-UN,1.0,0.001,,1.0,1.0,3.0,yes,False,Gap-Gap,Adhesion by GAP junction
+CPI-SS065D9259F---PGF-NRP2---EC-UN,PGF-NRP2,EC-UN,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SC0B51DC960---PGF-FLT1-complex---EC-UN,PGF-FLT1-complex,EC-UN,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS07361522F---PGF-FLT1---EC-UN,PGF-FLT1,EC-UN,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS00C24ED50---CDH5-CDH5---EC-UN,CDH5-CDH5,EC-UN,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,Adhesion by Cadherin
+CPI-SS04C672963---ESAM-ESAM---EC-UN,ESAM-ESAM,EC-UN,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,
+CPI-SS04829AC68---GJA1-GJA1---PV-UN,GJA1-GJA1,PV-UN,,1.0,,,1.0,0.0,no,False,Gap-Gap,Adhesion by GAP junction
+CPI-SS065D9259F---PGF-NRP2---PV-UN,PGF-NRP2,PV-UN,,0.956,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SC0B51DC960---PGF-FLT1-complex---PV-UN,PGF-FLT1-complex,PV-UN,0.33912037037037046,0.128,0.33912037037037046,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS07361522F---PGF-FLT1---PV-UN,PGF-FLT1,PV-UN,0.3178016726403824,0.256,0.3178016726403824,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS00C24ED50---CDH5-CDH5---PV-UN,CDH5-CDH5,PV-UN,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,Adhesion by Cadherin
+CPI-SS04C672963---ESAM-ESAM---PV-UN,ESAM-ESAM,PV-UN,,0.608,,,1.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS04829AC68---GJA1-GJA1---UN-EC,GJA1-GJA1,UN-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Gap-Gap,Adhesion by GAP junction
+CPI-SS065D9259F---PGF-NRP2---UN-EC,PGF-NRP2,UN-EC,0.3590192644483363,0.312,0.3590192644483363,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SC0B51DC960---PGF-FLT1-complex---UN-EC,PGF-FLT1-complex,UN-EC,0.846064814814815,0.001,,0.846064814814815,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS07361522F---PGF-FLT1---UN-EC,PGF-FLT1,UN-EC,0.9964157706093191,0.001,,0.9964157706093191,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS00C24ED50---CDH5-CDH5---UN-EC,CDH5-CDH5,UN-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,Adhesion by Cadherin
+CPI-SS04C672963---ESAM-ESAM---UN-EC,ESAM-ESAM,UN-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,
+CPI-SS04829AC68---GJA1-GJA1---UN-PV,GJA1-GJA1,UN-PV,,1.0,,,1.0,0.0,no,False,Gap-Gap,Adhesion by GAP junction
+CPI-SS065D9259F---PGF-NRP2---UN-PV,PGF-NRP2,UN-PV,0.14360770577933454,0.828,0.14360770577933454,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SC0B51DC960---PGF-FLT1-complex---UN-PV,PGF-FLT1-complex,UN-PV,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS07361522F---PGF-FLT1---UN-PV,PGF-FLT1,UN-PV,,0.996,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS00C24ED50---CDH5-CDH5---UN-PV,CDH5-CDH5,UN-PV,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,Adhesion by Cadherin
+CPI-SS04C672963---ESAM-ESAM---UN-PV,ESAM-ESAM,UN-PV,,0.608,,,1.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS04829AC68---GJA1-GJA1---UN-UN,GJA1-GJA1,UN-UN,0.17051509769094136,0.448,0.17051509769094136,,0.0,0.0,no,False,Gap-Gap,Adhesion by GAP junction
+CPI-SS065D9259F---PGF-NRP2---UN-UN,PGF-NRP2,UN-UN,0.05604203152364279,0.856,0.05604203152364279,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SC0B51DC960---PGF-FLT1-complex---UN-UN,PGF-FLT1-complex,UN-UN,0.37500000000000006,0.192,0.37500000000000006,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS07361522F---PGF-FLT1---UN-UN,PGF-FLT1,UN-UN,0.3548387096774194,0.28,0.3548387096774194,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS00C24ED50---CDH5-CDH5---UN-UN,CDH5-CDH5,UN-UN,0.3048469387755102,0.112,0.3048469387755102,,0.0,0.0,no,False,Adhesion-Adhesion,Adhesion by Cadherin
+CPI-SS04C672963---ESAM-ESAM---UN-UN,ESAM-ESAM,UN-UN,0.29986613119143235,0.152,0.29986613119143235,,0.0,0.0,no,False,Adhesion-Adhesion,

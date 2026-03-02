@@ -1,0 +1,66 @@
+,interaction_group,celltype_group,scaled_means,pvals,x_means,y_means,x_stroke,neglog10p,significant,is_integrin,directionality,classification
+CPI-SS07361522F---PGF-FLT1---EC-PV,PGF-FLT1,EC-PV,0.684652278177458,0.001,,0.684652278177458,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SC0B51DC960---PGF-FLT1-complex---EC-PV,PGF-FLT1-complex,EC-PV,0.7811217510259918,1.0,0.7811217510259918,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS04C672963---ESAM-ESAM---EC-PV,ESAM-ESAM,EC-PV,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,
+CPI-SS065D9259F---PGF-NRP2---EC-PV,PGF-NRP2,EC-PV,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS0B70EB09E---PDGFA-PDGFRA---EC-PV,PDGFA-PDGFRA,EC-PV,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-SS0A28DCA72---CXCL12-CXCR4---EC-PV,CXCL12-CXCR4,EC-PV,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0F1E79A03---WNT5A-SFRP1---EC-PV,WNT5A-SFRP1,EC-PV,0.9702380952380952,0.001,,0.9702380952380952,1.0,3.0,yes,False,Ligand-Ligand,Signaling by WNT inhibition
+CPI-SS0BE3D537D---CDH7-CDH7---EC-PV,CDH7-CDH7,EC-PV,0.6208791208791209,1.0,0.6208791208791209,,0.0,0.0,no,False,Adhesion-Adhesion,Adhesion by Cadherin
+CPI-SS007954822---WNT5A-FRZB---EC-PV,WNT5A-FRZB,EC-PV,0.927007299270073,0.128,0.927007299270073,,0.0,0.0,no,False,Ligand-Ligand,Signaling by WNT inhibition
+CPI-SS0C93E48D7---THBS1-CD36---EC-PV,THBS1-CD36,EC-PV,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Thrombospondin precursor
+CPI-SS007AA9FDE---DLK1-NOTCH3---EC-PV,DLK1-NOTCH3,EC-PV,0.6583333333333333,1.0,0.6583333333333333,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B99F22A2---JAG1-NOTCH3---EC-PV,JAG1-NOTCH3,EC-PV,0.4378698224852072,1.0,0.4378698224852072,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0D681D90E---SDC2-ADGRA2---EC-PV,SDC2-ADGRA2,EC-PV,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Syndecan
+CPI-SS07361522F---PGF-FLT1---PV-EC,PGF-FLT1,PV-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SC0B51DC960---PGF-FLT1-complex---PV-EC,PGF-FLT1-complex,PV-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS04C672963---ESAM-ESAM---PV-EC,ESAM-ESAM,PV-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,
+CPI-SS065D9259F---PGF-NRP2---PV-EC,PGF-NRP2,PV-EC,0.2801932367149758,0.148,0.2801932367149758,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS0B70EB09E---PDGFA-PDGFRA---PV-EC,PDGFA-PDGFRA,PV-EC,0.17835671342685364,1.0,0.17835671342685364,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-SS0A28DCA72---CXCL12-CXCR4---PV-EC,CXCL12-CXCR4,PV-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0F1E79A03---WNT5A-SFRP1---PV-EC,WNT5A-SFRP1,PV-EC,0.4553571428571428,1.0,0.4553571428571428,,0.0,0.0,no,False,Ligand-Ligand,Signaling by WNT inhibition
+CPI-SS0BE3D537D---CDH7-CDH7---PV-EC,CDH7-CDH7,PV-EC,0.6208791208791209,1.0,0.6208791208791209,,0.0,0.0,no,False,Adhesion-Adhesion,Adhesion by Cadherin
+CPI-SS007954822---WNT5A-FRZB---PV-EC,WNT5A-FRZB,PV-EC,0.5255474452554744,1.0,0.5255474452554744,,0.0,0.0,no,False,Ligand-Ligand,Signaling by WNT inhibition
+CPI-SS0C93E48D7---THBS1-CD36---PV-EC,THBS1-CD36,PV-EC,0.10606060606060606,1.0,0.10606060606060606,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Thrombospondin precursor
+CPI-SS007AA9FDE---DLK1-NOTCH3---PV-EC,DLK1-NOTCH3,PV-EC,0.65,1.0,0.65,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B99F22A2---JAG1-NOTCH3---PV-EC,JAG1-NOTCH3,PV-EC,0.2544378698224851,1.0,0.2544378698224851,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0D681D90E---SDC2-ADGRA2---PV-EC,SDC2-ADGRA2,PV-EC,0.6176470588235293,1.0,0.6176470588235293,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Syndecan
+CPI-SS07361522F---PGF-FLT1---PV-PV,PGF-FLT1,PV-PV,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SC0B51DC960---PGF-FLT1-complex---PV-PV,PGF-FLT1-complex,PV-PV,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS04C672963---ESAM-ESAM---PV-PV,ESAM-ESAM,PV-PV,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS065D9259F---PGF-NRP2---PV-PV,PGF-NRP2,PV-PV,0.08051529790660224,1.0,0.08051529790660224,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS0B70EB09E---PDGFA-PDGFRA---PV-PV,PDGFA-PDGFRA,PV-PV,0.9218436873747494,0.001,,0.9218436873747494,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-SS0A28DCA72---CXCL12-CXCR4---PV-PV,CXCL12-CXCR4,PV-PV,0.11081441922563419,1.0,0.11081441922563419,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0F1E79A03---WNT5A-SFRP1---PV-PV,WNT5A-SFRP1,PV-PV,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Ligand,Signaling by WNT inhibition
+CPI-SS0BE3D537D---CDH7-CDH7---PV-PV,CDH7-CDH7,PV-PV,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,Adhesion by Cadherin
+CPI-SS007954822---WNT5A-FRZB---PV-PV,WNT5A-FRZB,PV-PV,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Ligand,Signaling by WNT inhibition
+CPI-SS0C93E48D7---THBS1-CD36---PV-PV,THBS1-CD36,PV-PV,0.6393939393939394,1.0,0.6393939393939394,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Thrombospondin precursor
+CPI-SS007AA9FDE---DLK1-NOTCH3---PV-PV,DLK1-NOTCH3,PV-PV,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B99F22A2---JAG1-NOTCH3---PV-PV,JAG1-NOTCH3,PV-PV,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0D681D90E---SDC2-ADGRA2---PV-PV,SDC2-ADGRA2,PV-PV,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Syndecan
+CPI-SS07361522F---PGF-FLT1---PV-UN,PGF-FLT1,PV-UN,0.3573141486810552,0.256,0.3573141486810552,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SC0B51DC960---PGF-FLT1-complex---PV-UN,PGF-FLT1-complex,PV-UN,0.4432284541723667,0.128,0.4432284541723667,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS04C672963---ESAM-ESAM---PV-UN,ESAM-ESAM,PV-UN,0.2998661311914324,0.608,0.2998661311914324,,0.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS065D9259F---PGF-NRP2---PV-UN,PGF-NRP2,PV-UN,,0.956,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS0B70EB09E---PDGFA-PDGFRA---PV-UN,PDGFA-PDGFRA,PV-UN,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-SS0A28DCA72---CXCL12-CXCR4---PV-UN,CXCL12-CXCR4,PV-UN,0.13484646194926572,1.0,0.13484646194926572,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0F1E79A03---WNT5A-SFRP1---PV-UN,WNT5A-SFRP1,PV-UN,0.550595238095238,0.952,0.550595238095238,,0.0,0.0,no,False,Ligand-Ligand,Signaling by WNT inhibition
+CPI-SS0BE3D537D---CDH7-CDH7---PV-UN,CDH7-CDH7,PV-UN,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,Adhesion by Cadherin
+CPI-SS007954822---WNT5A-FRZB---PV-UN,WNT5A-FRZB,PV-UN,,1.0,,,1.0,0.0,no,False,Ligand-Ligand,Signaling by WNT inhibition
+CPI-SS0C93E48D7---THBS1-CD36---PV-UN,THBS1-CD36,PV-UN,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Thrombospondin precursor
+CPI-SS007AA9FDE---DLK1-NOTCH3---PV-UN,DLK1-NOTCH3,PV-UN,0.8722222222222222,0.444,0.8722222222222222,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B99F22A2---JAG1-NOTCH3---PV-UN,JAG1-NOTCH3,PV-UN,0.7218934911242604,0.468,0.7218934911242604,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0D681D90E---SDC2-ADGRA2---PV-UN,SDC2-ADGRA2,PV-UN,0.8137254901960783,0.424,0.8137254901960783,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Syndecan
+CPI-SS07361522F---PGF-FLT1---UN-PV,PGF-FLT1,UN-PV,0.038369304556354886,0.996,0.038369304556354886,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SC0B51DC960---PGF-FLT1-complex---UN-PV,PGF-FLT1-complex,UN-PV,0.04240766073871409,1.0,0.04240766073871409,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS04C672963---ESAM-ESAM---UN-PV,ESAM-ESAM,UN-PV,0.2998661311914324,0.608,0.2998661311914324,,0.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS065D9259F---PGF-NRP2---UN-PV,PGF-NRP2,UN-PV,0.13204508856682773,0.828,0.13204508856682773,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS0B70EB09E---PDGFA-PDGFRA---UN-PV,PDGFA-PDGFRA,UN-PV,0.6853707414829658,1.0,0.6853707414829658,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
+CPI-SS0A28DCA72---CXCL12-CXCR4---UN-PV,CXCL12-CXCR4,UN-PV,0.06275033377837116,1.0,0.06275033377837116,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0F1E79A03---WNT5A-SFRP1---UN-PV,WNT5A-SFRP1,UN-PV,,1.0,,,1.0,0.0,no,False,Ligand-Ligand,Signaling by WNT inhibition
+CPI-SS0BE3D537D---CDH7-CDH7---UN-PV,CDH7-CDH7,UN-PV,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,Adhesion by Cadherin
+CPI-SS007954822---WNT5A-FRZB---UN-PV,WNT5A-FRZB,UN-PV,,1.0,,,1.0,0.0,no,False,Ligand-Ligand,Signaling by WNT inhibition
+CPI-SS0C93E48D7---THBS1-CD36---UN-PV,THBS1-CD36,UN-PV,0.6666666666666665,1.0,0.6666666666666665,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Thrombospondin precursor
+CPI-SS007AA9FDE---DLK1-NOTCH3---UN-PV,DLK1-NOTCH3,UN-PV,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B99F22A2---JAG1-NOTCH3---UN-PV,JAG1-NOTCH3,UN-PV,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0D681D90E---SDC2-ADGRA2---UN-PV,SDC2-ADGRA2,UN-PV,0.6176470588235293,0.636,0.6176470588235293,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Syndecan

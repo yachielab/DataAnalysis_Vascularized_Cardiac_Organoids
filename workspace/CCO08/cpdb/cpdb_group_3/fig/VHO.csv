@@ -1,4 +1,5 @@
 ,interaction_group,celltype_group,scaled_means,pvals,x_means,y_means,x_stroke,neglog10p,significant,is_integrin,directionality,classification
+CPI-SS046F8AD8B---VEGFA-NRP2---CM-CM,VEGFA-NRP2,CM-CM,0.4345837145471181,0.032,,0.4345837145471181,1.0,1.494850021680094,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SS0C03F7CDC---VEGFA-KDR---CM-CM,VEGFA-KDR,CM-CM,0.3962991518889746,0.001,,0.3962991518889746,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SS0B9B3870A---VEGFA-FLT1---CM-EC,VEGFA-FLT1,CM-EC,0.960794563512807,0.001,,0.960794563512807,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SS046F8AD8B---VEGFA-NRP2---CM-EC,VEGFA-NRP2,CM-EC,0.9313815187557183,0.001,,0.9313815187557183,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
@@ -24,7 +25,6 @@ CPI-SS04C672963---ESAM-ESAM---EC-EC,ESAM-ESAM,EC-EC,1.0,0.001,,1.0,1.0,3.0,yes,F
 CPI-SC0B51DC960---PGF-FLT1-complex---EC-EC,PGF-FLT1-complex,EC-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
 CPI-SS04829AC68---GJA1-GJA1---EC-EC,GJA1-GJA1,EC-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Gap-Gap,Adhesion by GAP junction
 CPI-SS065D9259F---PGF-NRP2---EC-EC,PGF-NRP2,EC-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS065D9259F---PGF-NRP2---EC-EP,PGF-NRP2,EC-EP,0.25148986889153757,0.032,,0.25148986889153757,1.0,1.494850021680094,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
 CPI-SS052119104---AREG-EGFR---EC-EP,AREG-EGFR,EC-EP,0.5368620037807182,0.001,,0.5368620037807182,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
 CPI-SS007AA9FDE---DLK1-NOTCH3---EC-PV,DLK1-NOTCH3,EC-PV,0.21735074626865675,0.001,,0.21735074626865675,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
 CPI-SS07361522F---PGF-FLT1---EC-PV,PGF-FLT1,EC-PV,0.22858866103739447,0.001,,0.22858866103739447,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
@@ -76,7 +76,7 @@ CPI-SS0D681D90E---SDC2-ADGRA2---PV-EC,SDC2-ADGRA2,PV-EC,0.49325337331334335,0.00
 CPI-SS007AA9FDE---DLK1-NOTCH3---PV-PV,DLK1-NOTCH3,PV-PV,0.7080223880597014,0.001,,0.7080223880597014,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
 CPI-SS07361522F---PGF-FLT1---PV-PV,PGF-FLT1,PV-PV,0.16827503015681544,0.001,,0.16827503015681544,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
 CPI-SS04C672963---ESAM-ESAM---PV-PV,ESAM-ESAM,PV-PV,0.09335038363171355,0.001,,0.09335038363171355,1.0,3.0,yes,False,Adhesion-Adhesion,
-CPI-SS04829AC68---GJA1-GJA1---PV-PV,GJA1-GJA1,PV-PV,0.19153031761308953,0.028,,0.19153031761308953,1.0,1.5528419686577808,yes,False,Gap-Gap,Adhesion by GAP junction
+CPI-SS04829AC68---GJA1-GJA1---PV-PV,GJA1-GJA1,PV-PV,0.19153031761308953,0.044,,0.19153031761308953,1.0,1.3565473235138126,yes,False,Gap-Gap,Adhesion by GAP junction
 CPI-SS065D9259F---PGF-NRP2---PV-PV,PGF-NRP2,PV-PV,0.4374255065554231,0.001,,0.4374255065554231,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
 CPI-SS0F1E79A03---WNT5A-SFRP1---PV-PV,WNT5A-SFRP1,PV-PV,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Ligand,Signaling by WNT inhibition
 CPI-SS0B70EB09E---PDGFA-PDGFRA---PV-PV,PDGFA-PDGFRA,PV-PV,0.8668730650154798,0.001,,0.8668730650154798,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Platelet-derived growth factor
