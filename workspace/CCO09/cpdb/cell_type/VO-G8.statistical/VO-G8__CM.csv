@@ -1,0 +1,37 @@
+,interaction_group,celltype_group,scaled_means,pvals,x_means,y_means,x_stroke,neglog10p,significant,is_integrin,directionality,classification
+CPI-SS04C672963---ESAM-ESAM---CM-CM,ESAM-ESAM,CM-CM,0.565365025466893,0.016,,0.565365025466893,1.0,1.7958800173440752,yes,False,Adhesion-Adhesion,
+CPI-SS0A28DCA72---CXCL12-CXCR4---CM-CM,CXCL12-CXCR4,CM-CM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0BA601DC4---BDNF-NTRK2---CM-CM,BDNF-NTRK2,CM-CM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
+CPI-SS0E3AA6B7B---NTN4-NTRK2---CM-CM,NTN4-NTRK2,CM-CM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Netrin
+CPI-SS04C672963---ESAM-ESAM---CM-EC,ESAM-ESAM,CM-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,
+CPI-SS0A28DCA72---CXCL12-CXCR4---CM-EC,CXCL12-CXCR4,CM-EC,1.0,0.02,,1.0,1.0,1.6989700043360187,yes,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0BA601DC4---BDNF-NTRK2---CM-EC,BDNF-NTRK2,CM-EC,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
+CPI-SS0E3AA6B7B---NTN4-NTRK2---CM-EC,NTN4-NTRK2,CM-EC,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Netrin
+CPI-SS04C672963---ESAM-ESAM---CM-EP,ESAM-ESAM,CM-EP,0.0016977928692699506,1.0,0.0016977928692699506,,0.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0A28DCA72---CXCL12-CXCR4---CM-EP,CXCL12-CXCR4,CM-EP,0.4701583434835567,0.325,0.4701583434835567,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0BA601DC4---BDNF-NTRK2---CM-EP,BDNF-NTRK2,CM-EP,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
+CPI-SS0E3AA6B7B---NTN4-NTRK2---CM-EP,NTN4-NTRK2,CM-EP,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Netrin
+CPI-SS04C672963---ESAM-ESAM---CM-PV,ESAM-ESAM,CM-PV,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0A28DCA72---CXCL12-CXCR4---CM-PV,CXCL12-CXCR4,CM-PV,0.438489646772229,1.0,0.438489646772229,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0BA601DC4---BDNF-NTRK2---CM-PV,BDNF-NTRK2,CM-PV,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
+CPI-SS0E3AA6B7B---NTN4-NTRK2---CM-PV,NTN4-NTRK2,CM-PV,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Netrin
+CPI-SS04C672963---ESAM-ESAM---CM-SM,ESAM-ESAM,CM-SM,0.016977928692699505,0.028,,0.016977928692699505,1.0,1.5528419686577808,yes,False,Adhesion-Adhesion,
+CPI-SS0A28DCA72---CXCL12-CXCR4---CM-SM,CXCL12-CXCR4,CM-SM,0.43605359317904996,1.0,0.43605359317904996,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0BA601DC4---BDNF-NTRK2---CM-SM,BDNF-NTRK2,CM-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
+CPI-SS0E3AA6B7B---NTN4-NTRK2---CM-SM,NTN4-NTRK2,CM-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Netrin
+CPI-SS04C672963---ESAM-ESAM---EC-CM,ESAM-ESAM,EC-CM,1.0,0.001,,1.0,1.0,3.0,yes,False,Adhesion-Adhesion,
+CPI-SS0A28DCA72---CXCL12-CXCR4---EC-CM,CXCL12-CXCR4,EC-CM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0BA601DC4---BDNF-NTRK2---EC-CM,BDNF-NTRK2,EC-CM,0.7772151898734176,1.0,0.7772151898734176,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
+CPI-SS0E3AA6B7B---NTN4-NTRK2---EC-CM,NTN4-NTRK2,EC-CM,0.8042328042328042,1.0,0.8042328042328042,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Netrin
+CPI-SS04C672963---ESAM-ESAM---EP-CM,ESAM-ESAM,EP-CM,0.0016977928692699506,1.0,0.0016977928692699506,,0.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0A28DCA72---CXCL12-CXCR4---EP-CM,CXCL12-CXCR4,EP-CM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0BA601DC4---BDNF-NTRK2---EP-CM,BDNF-NTRK2,EP-CM,0.7924050632911392,1.0,0.7924050632911392,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
+CPI-SS0E3AA6B7B---NTN4-NTRK2---EP-CM,NTN4-NTRK2,EP-CM,1.0,0.044,,1.0,1.0,1.3565473235138126,yes,False,Ligand-Receptor,Signaling by Netrin
+CPI-SS04C672963---ESAM-ESAM---PV-CM,ESAM-ESAM,PV-CM,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,
+CPI-SS0A28DCA72---CXCL12-CXCR4---PV-CM,CXCL12-CXCR4,PV-CM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0BA601DC4---BDNF-NTRK2---PV-CM,BDNF-NTRK2,PV-CM,0.8632911392405064,1.0,0.8632911392405064,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
+CPI-SS0E3AA6B7B---NTN4-NTRK2---PV-CM,NTN4-NTRK2,PV-CM,0.843915343915344,1.0,0.843915343915344,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Netrin
+CPI-SS04C672963---ESAM-ESAM---SM-CM,ESAM-ESAM,SM-CM,0.016977928692699505,0.028,,0.016977928692699505,1.0,1.5528419686577808,yes,False,Adhesion-Adhesion,
+CPI-SS0A28DCA72---CXCL12-CXCR4---SM-CM,CXCL12-CXCR4,SM-CM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0BA601DC4---BDNF-NTRK2---SM-CM,BDNF-NTRK2,SM-CM,1.0,0.048,,1.0,1.0,1.3187587626244128,yes,False,Ligand-Receptor,Signaling by Brain-derived neurotrophic factor
+CPI-SS0E3AA6B7B---NTN4-NTRK2---SM-CM,NTN4-NTRK2,SM-CM,0.9179894179894179,0.056,0.9179894179894179,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Netrin
