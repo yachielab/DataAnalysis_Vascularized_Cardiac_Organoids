@@ -1,0 +1,99 @@
+id_cp_interaction	interacting_pair	partner_a	partner_b	gene_a	gene_b	secreted	receptor_a	receptor_b	annotation_strategy	is_integrin	directionality	classification	rank	CM|CM	CM|EC	CM|EP	CM|PV	EC|CM	EC|EC	EC|EP	EC|PV	EP|CM	EP|EC	EP|EP	EP|PV	PV|CM	PV|EC	PV|EP	PV|PV
+CPI-SS00C24ED50	CDH5_CDH5	simple:P33151	simple:P33151	CDH5	CDH5	False	False	False	curated	False	Adhesion-Adhesion	Adhesion by Cadherin	0.062						0.592										
+CPI-SS0C53F7672	CDH6_CDH6	simple:P55285	simple:P55285	CDH6	CDH6	False	False	False	curated	False	Adhesion-Adhesion	Adhesion by Cadherin	0.062											0.137					
+CPI-SS0889E281D	CADM1_CADM1	simple:Q9BY67	simple:Q9BY67	CADM1	CADM1	False	False	False	curated	False	Adhesion-Adhesion	Adhesion by CADM	0.062	0.373															
+CPI-SS026EC3854	LRRTM3_NRXN3	simple:Q86VH5	simple:Q9HDB5	LRRTM3	NRXN3	False	False	False	curated	False	Ligand-Receptor	Signaling by Leucine-Rich Repeat Transmembrane Neuronal Protein	0.062				0.217												
+CPI-SS05996C8FD	AGT_AGTR1	simple:P01019	simple:P30556	AGT	AGTR1	True	False	True	curated	False	Ligand-Receptor	Signaling by Angiotensinogen	0.062											0.538					
+CPI-SS0D2DF7881	NLGN1_NRXN1	simple:Q8N2Q7	simple:Q9ULB1	NLGN1	NRXN1	False	False	False	curated	False	Ligand-Receptor	Signaling by Neuroligin	0.062	0.402															
+CPI-SS0626DF0EB	LRRTM3_NRXN1	simple:Q86VH5	simple:Q9ULB1	LRRTM3	NRXN1	False	False	False	curated	False	Ligand-Receptor	Signaling by Leucine-Rich Repeat Transmembrane Neuronal Protein	0.062	0.356															
+CPI-SS03466C597	LRRTM4_NRXN1	simple:Q86VH4	simple:Q9ULB1	LRRTM4	NRXN1	False	False	False	curated	False	Ligand-Receptor	Signaling by Leucine-Rich Repeat Transmembrane Neuronal Protein	0.062													0.436			
+CPI-SS068ACD209	EFNA5_EPHB2	simple:P52803	simple:P29323	EFNA5	EPHB2	False	False	True	curated	False	Ligand-Receptor	Signaling by Ephrin	0.062													0.265			
+CPI-SS0BD5C2A23	NRG1_ERBB4	simple:Q02297	simple:Q15303	NRG1	ERBB4	True	True	True	curated	False	Ligand-Receptor	Signaling by Neuregulin	0.062					0.658											
+CPI-SS04C672963	ESAM_ESAM	simple:Q96AP7	simple:Q96AP7	ESAM	ESAM	False	False	False	curated	False	Adhesion-Adhesion		0.062						0.868										
+CPI-SS0FF2EEAE8	WNT5B_SFRP1	simple:Q9H1J7	simple:Q8N474	WNT5B	SFRP1	True	False	False	curated	False	Ligand-Ligand	Signaling by WNT inhibition	0.062	0.653															
+CPI-SS0ACAB1835	RSPO3_LGR4	simple:Q9BXY4	simple:Q9BXB1	RSPO3	LGR4	True	False	True	curated	False	Ligand-Receptor	Signaling by R-spondin	0.062	0.442															
+CPI-SS0C3906934	RSPO3_LGR5	simple:Q9BXY4	simple:O75473	RSPO3	LGR5	True	False	True	curated	False	Ligand-Receptor	Signaling by R-spondin	0.062			0.274													
+CPI-SS081E1A895	LRFN5_PTPRD	simple:Q96NI6	simple:P23468	LRFN5	PTPRD	False	False	True	curated	False	Ligand-Receptor	Signaling by Leucine Rich Repeat And Fibronectin	0.062													0.775			
+CPI-SS0ECC9DF3E	EFNB2_EPHB2	simple:P52799	simple:P29323	EFNB2	EPHB2	False	True	True	curated	False	Ligand-Receptor	Signaling by Ephrin	0.125					0.435								0.143			
+CPI-SS0FC01B947	EFNA5_EPHA4	simple:P52803	simple:P54764	EFNA5	EPHA4	False	False	True	curated	False	Ligand-Receptor	Signaling by Ephrin	0.125	0.281												0.41			
+CPI-SS0C70ADA28	EFNA5_EPHA3	simple:P52803	simple:P29320	EFNA5	EPHA3	True	False	True	curated	False	Ligand-Receptor	Signaling by Ephrin	0.125													0.362			0.328
+CPI-SS0EA023E51	TENM3_ADGRL3	simple:Q9P273	simple:Q9HAR2	TENM3	ADGRL3	False	False	True	curated	False	Ligand-Receptor	Signaling by Teneurin	0.125	0.384												0.411			
+CPI-SS0A28DCA72	CXCL12_CXCR4	simple:P48061	simple:P61073	CXCL12	CXCR4	True	False	True	curated	False	Ligand-Receptor	Signaling by Chemokines	0.125		0.271												0.225		
+CPI-SS0FA378947	NLGN4X_NRXN1	simple:Q8N0W4	simple:Q9ULB1	NLGN4X	NRXN1	False	False	False	curated	False	Ligand-Receptor	Signaling by Neuroligin	0.125					0.314								0.333			
+CPI-SS0F9F83827	PTPRD_IL1RAPL1	simple:P23468	simple:Q9NZN1	PTPRD	IL1RAPL1	False	True	True	curated	False	Ligand-Receptor		0.125	0.677			0.747												
+CPI-SS0EC8C81E0	VEGFC_KDR	simple:P49767	simple:P35968	VEGFC	KDR	True	False	True	curated	False	Ligand-Receptor	Signaling by Vascular endothelial growth factor	0.125					0.192	0.71										
+CPI-SS0F67B526A	SEMA3C_NRP2	simple:Q99985	simple:O60462	SEMA3C	NRP2	True	False	True	curated	False	Ligand-Receptor	Signaling by Semaphorin	0.125		0.585								0.572						
+CPI-SS01F00A48A	TENM4_ADGRL3	simple:Q6N022	simple:Q9HAR2	TENM4	ADGRL3	False	False	True	curated	False	Ligand-Receptor	Signaling by Teneurin	0.125	0.358												0.319			
+CPI-SS05D7900BF	PTN_ALK	simple:P21246	simple:Q9UM73	PTN	ALK	True	False	True	curated	False	Ligand-Receptor	Signaling by Pleiotrophin	0.125	0.24												0.355			
+CPI-SS0F97A06CD	LRRTM4_NRXN3	simple:Q86VH4	simple:Q9HDB5	LRRTM4	NRXN3	False	False	False	curated	False	Ligand-Receptor	Signaling by Leucine-Rich Repeat Transmembrane Neuronal Protein	0.125															0.202	0.296
+CPI-SS0731F750C	NLGN1_NRXN3	simple:Q8N2Q7	simple:Q9HDB5	NLGN1	NRXN3	False	False	False	curated	False	Ligand-Receptor	Signaling by Neuroligin	0.125			0.169	0.262												
+CPI-SS0F9118AB4	NLGN4X_NRXN3	simple:Q8N0W4	simple:Q9HDB5	NLGN4X	NRXN3	False	False	False	curated	False	Ligand-Receptor	Signaling by Neuroligin	0.125								0.175								0.193
+CPI-CS0917E42F5	DHEAsulfate_bySULT1E1_PPARG	complex:DHEAsulfate_bySULT1E1	simple:P37231		PPARG	True	False	True	curated	False	Ligand-Receptor	Signaling by Dehydroepiandrosterone	0.188										0.393	0.598	0.386				
+CPI-SS0474E1C15	FLRT2_ADGRL3	simple:O43155	simple:Q9HAR2	FLRT2	ADGRL3	False	False	True	curated	False	Ligand-Receptor	Signaling by Fibronectin	0.188	0.309								0.297				0.331			
+CPI-SS028688B7B	EFNA5_EPHA7	simple:P52803	simple:Q15375	EFNA5	EPHA7	False	False	True	curated	False	Ligand-Receptor	Signaling by Ephrin	0.188	0.315				0.286								0.444			
+CPI-SS087E0E3FB	EFNB2_EPHA4	simple:P52799	simple:P54764	EFNB2	EPHA4	False	True	True	curated	False	Ligand-Receptor	Signaling by Ephrin	0.188					0.58				0.251				0.287			
+CPI-SS0BCB3D402	TENM2_ADGRL3	simple:Q9NT68	simple:Q9HAR2	TENM2	ADGRL3	False	False	True	curated	False	Ligand-Receptor	Signaling by Teneurin	0.25	0.264												0.445	0.276		0.312
+CPI-SS0CCB5F46B	NLGN4Y_NRXN1	simple:Q8NFZ3	simple:Q9ULB1	NLGN4Y	NRXN1	False	False	False	curated	False	Ligand-Receptor	Signaling by Neuroligin	0.25	0.328				0.476				0.324				0.373			
+CPI-SS0D0235DCE	SLIT2_ROBO2	simple:O94813	simple:Q9HCK4	SLIT2	ROBO2	True	False	True	curated	False	Ligand-Receptor	Signaling by SLIT and NTRK-like protein	0.312			0.621	0.662									0.661		0.687	0.729
+CPI-SS015B29D3F	APOA1_ABCA1	simple:P02647	simple:O95477	APOA1	ABCA1	True	False	False	curated	False	Ligand-Receptor	Signaling by Apolipoprotein	0.312			0.165	0.129						1.222	1.283	1.248				
+CPI-SS0837C7966	NLGN4Y_NRXN3	simple:Q8NFZ3	simple:Q9HDB5	NLGN4Y	NRXN3	False	False	False	curated	False	Ligand-Receptor		0.312				0.188			0.242	0.336				0.185				0.233
+CPI-SS0D5E30C6C	NRG3_ERBB4	simple:P56975	simple:Q15303	NRG3	ERBB4	True	False	True	curated	False	Ligand-Receptor	Signaling by Neuregulin	0.312	0.696				0.917				1.121				1.328		0.785	
+CPI-SS075F456AF	TENM3_ADGRL2	simple:Q9P273	simple:O95490	TENM3	ADGRL2	False	False	True	curated	False	Ligand-Receptor	Signaling by Teneurin	0.375		0.629		0.451		0.501				0.528				0.656		0.478
+CPI-SS021718DBF	TENM2_ADGRL2	simple:Q9NT68	simple:O95490	TENM2	ADGRL2	False	False	True	curated	False	Ligand-Receptor	Signaling by Teneurin	0.375		0.508		0.331									0.312	0.689	0.313	0.512
+CPI-SS0FD44484F	TENM4_ADGRL2	simple:Q6N022	simple:O95490	TENM4	ADGRL2	False	False	True	curated	False	Ligand-Receptor	Signaling by Teneurin	0.375		0.602		0.425						0.492		0.314		0.563		0.386
+CPI-SS052119104	AREG_EGFR	simple:P15514	simple:P00533	AREG	EGFR	True	False	True	curated	False	Ligand-Receptor	Signaling by Epidermal growth factor	0.375			0.208	0.182			0.205	0.179			0.338	0.312				
+CPI-SS0A932EB77	SLIT2_ROBO1	simple:O94813	simple:Q9Y6N7	SLIT2	ROBO1	True	False	True	curated	False	Ligand-Receptor	Signaling by SLIT and NTRK-like protein	0.5		1.071	0.734	0.696		0.798				0.715				1.137	0.8	0.762
+CPI-CS088613CD3	Acetylcholine_byCHAT_CHRM3	complex:Acetylcholine_byCHAT	simple:P20309		CHRM3	True	False	True	curated	False	Ligand-Receptor	Signaling by Acetylcholine	1.5																
+CPI-CS0DBFDDA4A	Acetylcholine_byCHAT_and_SLC5A7_CHRM2	complex:Acetylcholine_byCHAT_and_SLC5A7	simple:P08172		CHRM2	True	False	True	curated	False	Ligand-Receptor	Signaling by Choline acetyltransferase 	1.5																
+CPI-SS0C93E48D7	THBS1_CD36	simple:P07996	simple:P16671	THBS1	CD36	False	False	True	curated	False	Ligand-Receptor	Signaling by Thrombospondin precursor	1.5																
+CPI-CS067CF9C74	Acetylcholine_byCHAT_and_SLC5A7_CHRM5	complex:Acetylcholine_byCHAT_and_SLC5A7	simple:P08912		CHRM5	True	False	True	curated	False	Ligand-Receptor	Signaling by Choline acetyltransferase 	1.5																
+CPI-SS093E05DD4	NTF3_NTRK2	simple:P20783	simple:Q16620	NTF3	NTRK2	True	False	True	curated	False	Ligand-Receptor	Signaling by Neurotrophin	1.5																
+CPI-SS0E3AA6B7B	NTN4_NTRK2	simple:Q9HB63	simple:Q16620	NTN4	NTRK2	True	False	True	curated	False	Ligand-Receptor	Signaling by Netrin	1.5																
+CPI-SS0BA601DC4	BDNF_NTRK2	simple:P23560	simple:Q16620	BDNF	NTRK2	True	False	True	curated	False	Ligand-Receptor	Signaling by Brain-derived neurotrophic factor	1.5																
+CPI-SC046AFCFE9	CLU_TREM2_receptor	simple:P10909	complex:TREM2_receptor	CLU		True	False	True	curated	False	Ligand-Receptor		1.5																
+CPI-SC0EFFE8ACB	APOB_TREM2_receptor	simple:P04114	complex:TREM2_receptor	APOB		True	False	True	curated	False	Ligand-Receptor	Signaling by Apolipoprotein	1.5																
+CPI-SC06C75F978	APOE_TREM2_receptor	simple:P02649	complex:TREM2_receptor	APOE		True	False	True	curated	False	Ligand-Receptor	Signaling by Apolipoprotein	1.5																
+CPI-SC0FE3CE9D1	APOA1_TREM2_receptor	simple:P02647	complex:TREM2_receptor	APOA1		True	False	True	curated	False	Ligand-Receptor	Signaling by Apolipoprotein	1.5																
+CPI-SC0412566F3	APOA2_TREM2_receptor	simple:P02652	complex:TREM2_receptor	APOA2		True	False	True	curated	False	Ligand-Receptor	Signaling by Apolipoprotein	1.5																
+CPI-CS08ED696DC	Acetylcholine_byCHAT_CHRM5	complex:Acetylcholine_byCHAT	simple:P08912		CHRM5	True	False	True	curated	False	Ligand-Receptor	Signaling by Acetylcholine	1.5																
+CPI-CS08FB3D7C0	Acetylcholine_byCHAT_and_SLC5A7_CHRM3	complex:Acetylcholine_byCHAT_and_SLC5A7	simple:P20309		CHRM3	True	False	True	curated	False	Ligand-Receptor	Signaling by Choline acetyltransferase 	1.5																
+CPI-CS0C5C5E217	Acetylcholine_byCHAT_CHRNA7	complex:Acetylcholine_byCHAT	simple:P36544		CHRNA7	True	False	True	curated	False	Ligand-Receptor	Signaling by Acetylcholine	1.5																
+CPI-SS01A7DC3C1	CLSTN2_NRXN3	simple:Q9H4D0	simple:Q9HDB5	CLSTN2	NRXN3	False	False	False	curated	False	Ligand-Receptor	Signaling by Calsyntenin	1.5																
+CPI-SS0BE3D537D	CDH7_CDH7	simple:Q9ULB5	simple:Q9ULB5	CDH7	CDH7	False	False	False	curated	False	Adhesion-Adhesion	Adhesion by Cadherin	1.5																
+CPI-SS0C0329180	LRRTM2_NRXN3	simple:O43300	simple:Q9HDB5	LRRTM2	NRXN3	False	False	False	curated	False	Ligand-Receptor	Signaling by Leucine-Rich Repeat Transmembrane Neuronal Protein	1.5																
+CPI-SS001BF66E8	CEACAM6_CEACAM6	simple:P40199	simple:P40199	CEACAM6	CEACAM6	False	False	False	curated	False	Adhesion-Adhesion	Adhesion by CEAM	1.5																
+CPI-SS06F83AE58	CD44_SELE	simple:P16070	simple:P16581	CD44	SELE	False	True	False	curated	False	Ligand-Receptor		1.5																
+CPI-SS038A612D7	TENM1_ADGRL3	simple:Q9UKZ4	simple:Q9HAR2	TENM1	ADGRL3	False	False	True	curated	False	Ligand-Receptor	Signaling by Teneurin	1.5																
+CPI-SS0627D0E22	NRG4_ERBB4	simple:Q8WWG1	simple:Q15303	NRG4	ERBB4	True	False	True	curated	False	Ligand-Receptor	Signaling by Neuregulin	1.5																
+CPI-SS07E5C3060	TGFA_EGFR	simple:P01135	simple:P00533	TGFA	EGFR	True	False	True	curated	False	Ligand-Receptor	Signaling by Transforming growth factor	1.5																
+CPI-SS0FC42EC80	EREG_ERBB4	simple:O14944	simple:Q15303	EREG	ERBB4	True	False	True	curated	False	Ligand-Receptor	Signaling by Epidermal growth factor	1.5																
+CPI-SS004C23DCE	EREG_EGFR	simple:O14944	simple:P00533	EREG	EGFR	True	False	True	curated	False	Ligand-Receptor	Signaling by Epidermal growth factor	1.5																
+CPI-SS09E3F5044	EFNA5_EPHA5	simple:P52803	simple:P54756	EFNA5	EPHA5	False	False	True	curated	False	Ligand-Receptor	Signaling by Ephrin	1.5																
+CPI-SS0669CC233	CXCL14_CXCR4	simple:O95715	simple:P61073	CXCL14	CXCR4	True	False	True	curated	False	Ligand-Receptor	Signaling by Chemokines	1.5																
+CPI-SS0E5F8A5F7	LRRTM2_NRXN1	simple:O43300	simple:Q9ULB1	LRRTM2	NRXN1	False	False	False	curated	False	Ligand-Receptor	Signaling by Leucine-Rich Repeat Transmembrane Neuronal Protein	1.5																
+CPI-SS0AEC33FF1	CCL22_DPP4	simple:O00626	simple:P27487	CCL22	DPP4	True	False	True	curated	False	Ligand-Receptor	Signaling by Chemokines	1.5																
+CPI-SS09A6C048C	CLSTN2_NRXN1	simple:Q9H4D0	simple:Q9ULB1	CLSTN2	NRXN1	False	False	False	curated	False	Ligand-Receptor	Signaling by Calsyntenin	1.5																
+CPI-SS0FDAB7BA8	CXCL10_DPP4	simple:P02778	simple:P27487	CXCL10	DPP4	True	False	True	curated	False	Ligand-Receptor	Signaling by Chemokines	1.5																
+CPI-SS0B1B18F2D	CXCL12_DPP4	simple:P48061	simple:P27487	CXCL12	DPP4	True	False	True	curated	False	Ligand-Receptor	Signaling by Chemokines	1.5																
+CPI-SS080683E15	CXCL10_CXCR3	simple:P02778	simple:P49682	CXCL10	CXCR3	True	False	True	curated	False	Ligand-Receptor	Signaling by Chemokines	1.5																
+CPI-SS0CDAC688B	CXCL2_DPP4	simple:P19875	simple:P27487	CXCL2	DPP4	True	False	True	curated	False	Ligand-Receptor	Signaling by Chemokines	1.5																
+CPI-CC0A4E09DEF	Acetylcholine_byCHAT_and_SLC5A7_nAChR_a7_complex	complex:Acetylcholine_byCHAT_and_SLC5A7	complex:nAChR_a7_complex			True	False	True	curated	False	Ligand-Receptor	Signaling by Choline acetyltransferase 	1.5																
+CPI-SS0322747C2	CEACAM5_CEACAM6	simple:P06731	simple:P40199	CEACAM5	CEACAM6	False	False	False	curated	False	Adhesion-Adhesion	Adhesion by CEAM	1.5																
+CPI-CS09DCE99A5	Acetylcholine_byCHAT_CHRM2	complex:Acetylcholine_byCHAT	simple:P08172		CHRM2	True	False	True	curated	False	Ligand-Receptor	Signaling by Acetylcholine	1.5																
+CPI-CS0FADCFDB9	PGD2_byPTGDS_PTGDR	complex:PGD2_byPTGDS	simple:Q13258		PTGDR	True	False	True	curated	False	Ligand-Receptor	Signaling by Prostaglandin	1.5																
+CPI-SS0730D1EF3	CNTN1_MCAM	simple:Q12860	simple:P43121	CNTN1	MCAM	False	False	False	curated	False	Adhesion-Adhesion		1.5																
+CPI-SS0BDC912F3	CNTN1_NRCAM	simple:Q12860	simple:Q92823	CNTN1	NRCAM	True	False	False	curated	False	Adhesion-Adhesion		1.5																
+CPI-SS0BA4E3F44	NTN4_UNC5D	simple:Q9HB63	simple:Q6UXZ4	NTN4	UNC5D	True	False	True	curated	False	Ligand-Receptor	Signaling by Netrin	1.5																
+CPI-SS09F7A6011	PENK_GHSR	simple:P01210	simple:Q92847	PENK	GHSR	True	False	True	curated	False	Ligand-Receptor		1.5																
+CPI-SS083BB1EB3	TENM1_ADGRL2	simple:Q9UKZ4	simple:O95490	TENM1	ADGRL2	False	False	True	curated	False	Ligand-Receptor	Signaling by Teneurin	1.5																
+CPI-SS05162C56B	NTF3_NTRK3	simple:P20783	simple:Q16288	NTF3	NTRK3	True	False	True	curated	False	Ligand-Receptor	Signaling by Neurotrophin	1.5																
+CPI-SS02CAD3BF8	VIP_SCTR	simple:P01282	simple:P47872	VIP	SCTR	True	False	True	curated	False	Ligand-Receptor	Signaling by Vasoactive Intestinal Peptide	1.5																
+CPI-CS033058D2B	atRetinoicAcid_byALDH1A2_RORB	complex:atRetinoicAcid_byALDH1A2	simple:Q92753		RORB	True	False	True	curated	False	Ligand-Receptor	Signaling by Retinoic Acid	1.5																
+CPI-CS08EE9E5CE	atRetinoicAcid_byALDH1A1_RORB	complex:atRetinoicAcid_byALDH1A1	simple:Q92753		RORB	True	False	True	curated	False	Ligand-Receptor	Signaling by Retinoic Acid	1.5																
+CPI-SS056D0AD0D	RSPO2_LGR5	simple:Q6UXX9	simple:O75473	RSPO2	LGR5	True	False	True	curated	False	Ligand-Receptor	Signaling by R-spondin	1.5																
+CPI-SS015B70BF9	TAC1_TACR3	simple:P20366	simple:P29371	TAC1	TACR3	True	False	True	curated	False	Ligand-Receptor	Signaling by Tachykinins	1.5																
+CPI-SS0AC302C73	WNT5B_SFRP2	simple:Q9H1J7	simple:Q96HF1	WNT5B	SFRP2	True	False	False	curated	False	Ligand-Ligand	Signaling by WNT inhibition	1.5																
+CPI-SS01503DD69	CD44_TYROBP	simple:P16070	simple:O43914	CD44	TYROBP	False	True	False	curated	False	Ligand-Receptor		1.5																
+CPI-SS01E3453DB	RSPO2_LGR4	simple:Q6UXX9	simple:Q9BXB1	RSPO2	LGR4	True	False	True	curated	False	Ligand-Receptor	Signaling by R-spondin	1.5																
+CPI-SS0822AEF5F	PTPRC_MRC1	simple:P08575	simple:P22897	PTPRC	MRC1	False	False	True	curated	False	Receptor-Receptor		1.5																
+CPI-SS00F69C501	TRH_TRHR	simple:P20396	simple:P34981	TRH	TRHR	True	False	True	curated	False	Ligand-Receptor		1.5																
