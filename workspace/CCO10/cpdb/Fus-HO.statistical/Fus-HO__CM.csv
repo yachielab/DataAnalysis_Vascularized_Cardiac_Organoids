@@ -1,6 +1,6 @@
 ,interaction_group,celltype_group,scaled_means,pvals,x_means,y_means,x_stroke,neglog10p,significant,is_integrin,directionality,classification
 CPI-SS0B9B3870A---VEGFA-FLT1---CM-CM,VEGFA-FLT1,CM-CM,0.2750501002004008,1.0,0.2750501002004008,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---CM-CM,VEGFA-NRP2,CM-CM,0.548252911813644,0.056,0.548252911813644,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---CM-CM,VEGFA-NRP2,CM-CM,0.548252911813644,0.016,,0.548252911813644,1.0,1.7958800173440752,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SC0AFC650CD---VEGFA-FLT1-complex---CM-CM,VEGFA-FLT1-complex,CM-CM,0.4010226442658875,1.0,0.4010226442658875,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SS0C03F7CDC---VEGFA-KDR---CM-CM,VEGFA-KDR,CM-CM,0.4828341855368883,0.001,,0.4828341855368883,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SS0F1E79A03---WNT5A-SFRP1---CM-CM,WNT5A-SFRP1,CM-CM,0.8431845597104946,1.0,0.8431845597104946,,0.0,0.0,no,False,Ligand-Ligand,Signaling by WNT inhibition
@@ -18,7 +18,7 @@ CPI-SC0AFC650CD---VEGFA-FLT1-complex---CM-EC,VEGFA-FLT1-complex,CM-EC,1.0,0.001,
 CPI-SS0C03F7CDC---VEGFA-KDR---CM-EC,VEGFA-KDR,CM-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SS0F1E79A03---WNT5A-SFRP1---CM-EC,WNT5A-SFRP1,CM-EC,0.22798552472858868,1.0,0.22798552472858868,,0.0,0.0,no,False,Ligand-Ligand,Signaling by WNT inhibition
 CPI-SS0B99F22A2---JAG1-NOTCH3---CM-EC,JAG1-NOTCH3,CM-EC,0.07928994082840238,1.0,0.07928994082840238,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
-CPI-SS0D681D90E---SDC2-ADGRA2---CM-EC,SDC2-ADGRA2,CM-EC,0.2830540037243948,0.016,,0.2830540037243948,1.0,1.7958800173440752,yes,False,Ligand-Receptor,Signaling by Syndecan
+CPI-SS0D681D90E---SDC2-ADGRA2---CM-EC,SDC2-ADGRA2,CM-EC,0.2830540037243948,0.012,,0.2830540037243948,1.0,1.9208187539523751,yes,False,Ligand-Receptor,Signaling by Syndecan
 CPI-SS04829AC68---GJA1-GJA1---CM-EC,GJA1-GJA1,CM-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Gap-Gap,Adhesion by GAP junction
 CPI-SS065D9259F---PGF-NRP2---CM-EC,PGF-NRP2,CM-EC,1.0,1.0,1.0,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
 CPI-SS0A28DCA72---CXCL12-CXCR4---CM-EC,CXCL12-CXCR4,CM-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Chemokines
@@ -39,9 +39,9 @@ CPI-SS087E0E3FB---EFNB2-EPHA4---CM-EP,EFNB2-EPHA4,CM-EP,0.111353711790393,1.0,0.
 CPI-SS0FC01B947---EFNA5-EPHA4---CM-EP,EFNA5-EPHA4,CM-EP,0.1050420168067227,1.0,0.1050420168067227,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Ephrin
 CPI-SS007954822---WNT5A-FRZB---CM-EP,WNT5A-FRZB,CM-EP,0.11013215859030838,1.0,0.11013215859030838,,0.0,0.0,no,False,Ligand-Ligand,Signaling by WNT inhibition
 CPI-SS0B9B3870A---VEGFA-FLT1---CM-FB,VEGFA-FLT1,CM-FB,0.3772545090180361,0.001,,0.3772545090180361,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---CM-FB,VEGFA-NRP2,CM-FB,0.5174708818635607,0.968,0.5174708818635607,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SC0AFC650CD---VEGFA-FLT1-complex---CM-FB,VEGFA-FLT1-complex,CM-FB,0.44192841490138784,0.096,0.44192841490138784,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---CM-FB,VEGFA-KDR,CM-FB,0.44192841490138784,0.912,0.44192841490138784,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---CM-FB,VEGFA-NRP2,CM-FB,0.5174708818635607,0.956,0.5174708818635607,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---CM-FB,VEGFA-FLT1-complex,CM-FB,0.44192841490138784,0.088,0.44192841490138784,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---CM-FB,VEGFA-KDR,CM-FB,0.44192841490138784,0.876,0.44192841490138784,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SS0F1E79A03---WNT5A-SFRP1---CM-FB,WNT5A-SFRP1,CM-FB,0.6139927623642943,1.0,0.6139927623642943,,0.0,0.0,no,False,Ligand-Ligand,Signaling by WNT inhibition
 CPI-SS0B99F22A2---JAG1-NOTCH3---CM-FB,JAG1-NOTCH3,CM-FB,0.157396449704142,0.001,,0.157396449704142,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
 CPI-SS0D681D90E---SDC2-ADGRA2---CM-FB,SDC2-ADGRA2,CM-FB,0.3947858472998138,0.001,,0.3947858472998138,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Syndecan
@@ -69,8 +69,8 @@ CPI-SS046F8AD8B---VEGFA-NRP2---CM-SM,VEGFA-NRP2,CM-SM,,1.0,,,1.0,0.0,no,False,Li
 CPI-SC0AFC650CD---VEGFA-FLT1-complex---CM-SM,VEGFA-FLT1-complex,CM-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SS0C03F7CDC---VEGFA-KDR---CM-SM,VEGFA-KDR,CM-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SS0F1E79A03---WNT5A-SFRP1---CM-SM,WNT5A-SFRP1,CM-SM,,1.0,,,1.0,0.0,no,False,Ligand-Ligand,Signaling by WNT inhibition
-CPI-SS0B99F22A2---JAG1-NOTCH3---CM-SM,JAG1-NOTCH3,CM-SM,0.8769230769230769,0.016,,0.8769230769230769,1.0,1.7958800173440752,yes,False,Ligand-Receptor,Signaling by Notch
-CPI-SS0D681D90E---SDC2-ADGRA2---CM-SM,SDC2-ADGRA2,CM-SM,1.0,0.043,,1.0,1.0,1.3665315444204136,yes,False,Ligand-Receptor,Signaling by Syndecan
+CPI-SS0B99F22A2---JAG1-NOTCH3---CM-SM,JAG1-NOTCH3,CM-SM,0.8769230769230769,0.024,,0.8769230769230769,1.0,1.6197887582883939,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0D681D90E---SDC2-ADGRA2---CM-SM,SDC2-ADGRA2,CM-SM,1.0,0.076,1.0,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Syndecan
 CPI-SS04829AC68---GJA1-GJA1---CM-SM,GJA1-GJA1,CM-SM,,1.0,,,1.0,0.0,no,False,Gap-Gap,Adhesion by GAP junction
 CPI-SS065D9259F---PGF-NRP2---CM-SM,PGF-NRP2,CM-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
 CPI-SS0A28DCA72---CXCL12-CXCR4---CM-SM,CXCL12-CXCR4,CM-SM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
@@ -104,9 +104,9 @@ CPI-SS087E0E3FB---EFNB2-EPHA4---EC-CM,EFNB2-EPHA4,EC-CM,1.0,0.001,,1.0,1.0,3.0,y
 CPI-SS0FC01B947---EFNA5-EPHA4---EC-CM,EFNA5-EPHA4,EC-CM,0.773109243697479,1.0,0.773109243697479,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Ephrin
 CPI-SS007954822---WNT5A-FRZB---EC-CM,WNT5A-FRZB,EC-CM,0.6431718061674008,1.0,0.6431718061674008,,0.0,0.0,no,False,Ligand-Ligand,Signaling by WNT inhibition
 CPI-SS0B9B3870A---VEGFA-FLT1---EP-CM,VEGFA-FLT1,EP-CM,0.2865731462925851,1.0,0.2865731462925851,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---EP-CM,VEGFA-NRP2,EP-CM,0.5682196339434277,0.299,0.5682196339434277,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EP-CM,VEGFA-NRP2,EP-CM,0.5682196339434277,0.276,0.5682196339434277,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SC0AFC650CD---VEGFA-FLT1-complex---EP-CM,VEGFA-FLT1-complex,EP-CM,0.4178232286340394,1.0,0.4178232286340394,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---EP-CM,VEGFA-KDR,EP-CM,0.4996347699050402,0.103,0.4996347699050402,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---EP-CM,VEGFA-KDR,EP-CM,0.4996347699050402,0.124,0.4996347699050402,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SS0F1E79A03---WNT5A-SFRP1---EP-CM,WNT5A-SFRP1,EP-CM,0.8407720144752714,1.0,0.8407720144752714,,0.0,0.0,no,False,Ligand-Ligand,Signaling by WNT inhibition
 CPI-SS0B99F22A2---JAG1-NOTCH3---EP-CM,JAG1-NOTCH3,EP-CM,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
 CPI-SS0D681D90E---SDC2-ADGRA2---EP-CM,SDC2-ADGRA2,EP-CM,0.8808193668528866,1.0,0.8808193668528866,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Syndecan
@@ -143,9 +143,9 @@ CPI-SS087E0E3FB---EFNB2-EPHA4---PR-CM,EFNB2-EPHA4,PR-CM,0.980349344978166,0.001,
 CPI-SS0FC01B947---EFNA5-EPHA4---PR-CM,EFNA5-EPHA4,PR-CM,0.9873949579831932,0.001,,0.9873949579831932,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Ephrin
 CPI-SS007954822---WNT5A-FRZB---PR-CM,WNT5A-FRZB,PR-CM,0.9823788546255506,0.001,,0.9823788546255506,1.0,3.0,yes,False,Ligand-Ligand,Signaling by WNT inhibition
 CPI-SS0B9B3870A---VEGFA-FLT1---SM-CM,VEGFA-FLT1,SM-CM,0.24549098196392785,1.0,0.24549098196392785,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---SM-CM,VEGFA-NRP2,SM-CM,0.5,0.58,0.5,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---SM-CM,VEGFA-NRP2,SM-CM,0.5,0.56,0.5,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SC0AFC650CD---VEGFA-FLT1-complex---SM-CM,VEGFA-FLT1-complex,SM-CM,0.3579254930606282,1.0,0.3579254930606282,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---SM-CM,VEGFA-KDR,SM-CM,0.4397370343316289,0.548,0.4397370343316289,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---SM-CM,VEGFA-KDR,SM-CM,0.4397370343316289,0.54,0.4397370343316289,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SS0F1E79A03---WNT5A-SFRP1---SM-CM,WNT5A-SFRP1,SM-CM,,1.0,,,1.0,0.0,no,False,Ligand-Ligand,Signaling by WNT inhibition
 CPI-SS0B99F22A2---JAG1-NOTCH3---SM-CM,JAG1-NOTCH3,SM-CM,1.0,1.0,1.0,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
 CPI-SS0D681D90E---SDC2-ADGRA2---SM-CM,SDC2-ADGRA2,SM-CM,0.8528864059590319,1.0,0.8528864059590319,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Syndecan

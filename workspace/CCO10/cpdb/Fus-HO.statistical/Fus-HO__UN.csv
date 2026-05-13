@@ -32,13 +32,13 @@ CPI-SS046F8AD8B---VEGFA-NRP2---UN-EC,VEGFA-NRP2,UN-EC,1.0,0.001,,1.0,1.0,3.0,yes
 CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-EC,VEGFA-FLT1-complex,UN-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SS0C03F7CDC---VEGFA-KDR---UN-EC,VEGFA-KDR,UN-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SS0B9B3870A---VEGFA-FLT1---UN-EP,VEGFA-FLT1,UN-EP,0.3090294543698696,1.0,0.3090294543698696,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---UN-EP,VEGFA-NRP2,UN-EP,0.5082223962411904,0.513,0.5082223962411904,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---UN-EP,VEGFA-NRP2,UN-EP,0.5082223962411904,0.541,0.5082223962411904,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-EP,VEGFA-FLT1-complex,UN-EP,0.42382271468144045,1.0,0.42382271468144045,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SS0C03F7CDC---VEGFA-KDR---UN-EP,VEGFA-KDR,UN-EP,0.42382271468144045,1.0,0.42382271468144045,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SS0B9B3870A---VEGFA-FLT1---UN-FB,VEGFA-FLT1,UN-FB,0.3998068565910188,0.001,,0.3998068565910188,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS046F8AD8B---VEGFA-NRP2---UN-FB,VEGFA-NRP2,UN-FB,0.5458104933437745,0.043,,0.5458104933437745,1.0,1.3665315444204136,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---UN-FB,VEGFA-NRP2,UN-FB,0.5458104933437745,0.024,,0.5458104933437745,1.0,1.6197887582883939,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-FB,VEGFA-FLT1-complex,UN-FB,0.4702216066481995,0.001,,0.4702216066481995,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
-CPI-SS0C03F7CDC---VEGFA-KDR---UN-FB,VEGFA-KDR,UN-FB,0.4702216066481995,0.008,,0.4702216066481995,1.0,2.0969100130080562,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---UN-FB,VEGFA-KDR,UN-FB,0.4702216066481995,0.016,,0.4702216066481995,1.0,1.7958800173440752,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SS0B9B3870A---VEGFA-FLT1---UN-PR,VEGFA-FLT1,UN-PR,0.3771125060357315,0.001,,0.3771125060357315,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SS046F8AD8B---VEGFA-NRP2---UN-PR,VEGFA-NRP2,UN-PR,0.7572435395458105,0.001,,0.7572435395458105,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SC0AFC650CD---VEGFA-FLT1-complex---UN-PR,VEGFA-FLT1-complex,UN-PR,0.43005540166204986,1.0,0.43005540166204986,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
