@@ -58,5 +58,12 @@ workspace/CCO10/**/*.h5ad.*
 workspace/CCO10/**/*.rds
 workspace/CCO10/**/*.h5seurat
 
+!workspace/CCO11/*
+!workspace/CCO11/**
+workspace/CCO11/**/*.h5ad
+workspace/CCO11/**/*.h5ad.*
+workspace/CCO11/**/*.rds
+workspace/CCO11/**/*.h5seurat
+
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
