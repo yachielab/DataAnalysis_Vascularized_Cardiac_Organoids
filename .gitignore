@@ -64,6 +64,8 @@ workspace/CCO11/**/*.h5ad
 workspace/CCO11/**/*.h5ad.*
 workspace/CCO11/**/*.rds
 workspace/CCO11/**/*.h5seurat
+workspace/CCO11/remap
+workspace/CCO11/spaceranger
 
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
