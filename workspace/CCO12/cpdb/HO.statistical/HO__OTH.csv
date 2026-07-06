@@ -1,0 +1,120 @@
+,interaction_group,celltype_group,scaled_means,pvals,x_means,y_means,x_stroke,neglog10p,significant,is_integrin,directionality,classification
+CPI-SS058209EC7---F2-F2R---CF-OTH,F2-F2R,CF-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Adhesion by Prothrombin
+CPI-SS05996C8FD---AGT-AGTR1---CF-OTH,AGT-AGTR1,CF-OTH,0.4181818181818182,1.0,0.4181818181818182,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Angiotensinogen
+CPI-SS0D681D90E---SDC2-ADGRA2---CF-OTH,SDC2-ADGRA2,CF-OTH,0.5181975736568458,1.0,0.5181975736568458,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Syndecan
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---CF-OTH,atRetinoicAcid-byALDH1A1-RORB,CF-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-SS0C3906934---RSPO3-LGR5---CF-OTH,RSPO3-LGR5,CF-OTH,0.29853181076672103,0.088,0.29853181076672103,,0.0,0.0,no,False,Ligand-Receptor,Signaling by R-spondin
+CPI-SS0B99F22A2---JAG1-NOTCH3---CF-OTH,JAG1-NOTCH3,CF-OTH,0.6989247311827957,1.0,0.6989247311827957,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0A28DCA72---CXCL12-CXCR4---CF-OTH,CXCL12-CXCR4,CF-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0669CC233---CXCL14-CXCR4---CF-OTH,CXCL14-CXCR4,CF-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS01F67987A---FGF2-FGFR1---CF-OTH,FGF2-FGFR1,CF-OTH,0.21818181818181814,1.0,0.21818181818181814,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Fibroblast growth factor
+CPI-SS08BFFB96E---FLRT3-ADGRL2---CF-OTH,FLRT3-ADGRL2,CF-OTH,0.037362637362637376,1.0,0.037362637362637376,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Fibronectin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---CF-OTH,DHEAsulfate-bySULT1E1-PPARG,CF-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS052119104---AREG-EGFR---CF-OTH,AREG-EGFR,CF-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS007AA9FDE---DLK1-NOTCH3---CF-OTH,DLK1-NOTCH3,CF-OTH,1.0,1.0,1.0,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B9B3870A---VEGFA-FLT1---CF-OTH,VEGFA-FLT1,CF-OTH,0.19502074688796675,1.0,0.19502074688796675,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---CF-OTH,VEGFA-FLT1-complex,CF-OTH,0.32469775474956813,1.0,0.32469775474956813,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---CF-OTH,VEGFA-NRP2,CF-OTH,0.2980922098569157,1.0,0.2980922098569157,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---CF-OTH,VEGFA-KDR,CF-OTH,0.3258232235701906,1.0,0.3258232235701906,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS058209EC7---F2-F2R---CM-OTH,F2-F2R,CM-OTH,0.037467700258397935,1.0,0.037467700258397935,,0.0,0.0,no,False,Ligand-Receptor,Adhesion by Prothrombin
+CPI-SS05996C8FD---AGT-AGTR1---CM-OTH,AGT-AGTR1,CM-OTH,0.40389610389610386,1.0,0.40389610389610386,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Angiotensinogen
+CPI-SS0D681D90E---SDC2-ADGRA2---CM-OTH,SDC2-ADGRA2,CM-OTH,0.18197573656845756,1.0,0.18197573656845756,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Syndecan
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---CM-OTH,atRetinoicAcid-byALDH1A1-RORB,CM-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-SS0C3906934---RSPO3-LGR5---CM-OTH,RSPO3-LGR5,CM-OTH,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by R-spondin
+CPI-SS0B99F22A2---JAG1-NOTCH3---CM-OTH,JAG1-NOTCH3,CM-OTH,0.16129032258064516,1.0,0.16129032258064516,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0A28DCA72---CXCL12-CXCR4---CM-OTH,CXCL12-CXCR4,CM-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0669CC233---CXCL14-CXCR4---CM-OTH,CXCL14-CXCR4,CM-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS01F67987A---FGF2-FGFR1---CM-OTH,FGF2-FGFR1,CM-OTH,0.16060606060606059,1.0,0.16060606060606059,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Fibroblast growth factor
+CPI-SS08BFFB96E---FLRT3-ADGRL2---CM-OTH,FLRT3-ADGRL2,CM-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Fibronectin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---CM-OTH,DHEAsulfate-bySULT1E1-PPARG,CM-OTH,0.7224770642201835,1.0,0.7224770642201835,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS052119104---AREG-EGFR---CM-OTH,AREG-EGFR,CM-OTH,0.15111111111111114,0.001,,0.15111111111111114,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS007AA9FDE---DLK1-NOTCH3---CM-OTH,DLK1-NOTCH3,CM-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B9B3870A---VEGFA-FLT1---CM-OTH,VEGFA-FLT1,CM-OTH,0.11203319502074689,1.0,0.11203319502074689,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---CM-OTH,VEGFA-FLT1-complex,CM-OTH,0.18652849740932642,1.0,0.18652849740932642,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---CM-OTH,VEGFA-NRP2,CM-OTH,0.17090620031796505,1.0,0.17090620031796505,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---CM-OTH,VEGFA-KDR,CM-OTH,0.1863084922010399,1.0,0.1863084922010399,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS058209EC7---F2-F2R---EC-OTH,F2-F2R,EC-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Adhesion by Prothrombin
+CPI-SS05996C8FD---AGT-AGTR1---EC-OTH,AGT-AGTR1,EC-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Angiotensinogen
+CPI-SS0D681D90E---SDC2-ADGRA2---EC-OTH,SDC2-ADGRA2,EC-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Syndecan
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---EC-OTH,atRetinoicAcid-byALDH1A1-RORB,EC-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-SS0C3906934---RSPO3-LGR5---EC-OTH,RSPO3-LGR5,EC-OTH,0.04567699836867863,1.0,0.04567699836867863,,0.0,0.0,no,False,Ligand-Receptor,Signaling by R-spondin
+CPI-SS0B99F22A2---JAG1-NOTCH3---EC-OTH,JAG1-NOTCH3,EC-OTH,1.0,1.0,1.0,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0A28DCA72---CXCL12-CXCR4---EC-OTH,CXCL12-CXCR4,EC-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0669CC233---CXCL14-CXCR4---EC-OTH,CXCL14-CXCR4,EC-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS01F67987A---FGF2-FGFR1---EC-OTH,FGF2-FGFR1,EC-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Fibroblast growth factor
+CPI-SS08BFFB96E---FLRT3-ADGRL2---EC-OTH,FLRT3-ADGRL2,EC-OTH,0.03516483516483518,1.0,0.03516483516483518,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Fibronectin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---EC-OTH,DHEAsulfate-bySULT1E1-PPARG,EC-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS052119104---AREG-EGFR---EC-OTH,AREG-EGFR,EC-OTH,0.2577777777777778,0.001,,0.2577777777777778,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS007AA9FDE---DLK1-NOTCH3---EC-OTH,DLK1-NOTCH3,EC-OTH,0.32340052585451357,1.0,0.32340052585451357,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B9B3870A---VEGFA-FLT1---EC-OTH,VEGFA-FLT1,EC-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---EC-OTH,VEGFA-FLT1-complex,EC-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---EC-OTH,VEGFA-NRP2,EC-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---EC-OTH,VEGFA-KDR,EC-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS058209EC7---F2-F2R---OTH-CF,F2-F2R,OTH-CF,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Adhesion by Prothrombin
+CPI-SS05996C8FD---AGT-AGTR1---OTH-CF,AGT-AGTR1,OTH-CF,0.6298701298701298,1.0,0.6298701298701298,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Angiotensinogen
+CPI-SS0D681D90E---SDC2-ADGRA2---OTH-CF,SDC2-ADGRA2,OTH-CF,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Syndecan
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---OTH-CF,atRetinoicAcid-byALDH1A1-RORB,OTH-CF,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-SS0C3906934---RSPO3-LGR5---OTH-CF,RSPO3-LGR5,OTH-CF,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by R-spondin
+CPI-SS0B99F22A2---JAG1-NOTCH3---OTH-CF,JAG1-NOTCH3,OTH-CF,0.47849462365591405,0.036,,0.47849462365591405,1.0,1.4436974992327127,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0A28DCA72---CXCL12-CXCR4---OTH-CF,CXCL12-CXCR4,OTH-CF,0.9653179190751446,0.001,,0.9653179190751446,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0669CC233---CXCL14-CXCR4---OTH-CF,CXCL14-CXCR4,OTH-CF,0.9608938547486033,0.001,,0.9608938547486033,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS01F67987A---FGF2-FGFR1---OTH-CF,FGF2-FGFR1,OTH-CF,0.8242424242424242,0.001,,0.8242424242424242,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Fibroblast growth factor
+CPI-SS08BFFB96E---FLRT3-ADGRL2---OTH-CF,FLRT3-ADGRL2,OTH-CF,0.6967032967032968,0.001,,0.6967032967032968,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Fibronectin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---OTH-CF,DHEAsulfate-bySULT1E1-PPARG,OTH-CF,0.39220183486238536,0.001,,0.39220183486238536,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS052119104---AREG-EGFR---OTH-CF,AREG-EGFR,OTH-CF,0.9377777777777779,0.001,,0.9377777777777779,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS007AA9FDE---DLK1-NOTCH3---OTH-CF,DLK1-NOTCH3,OTH-CF,0.9693251533742332,0.001,,0.9693251533742332,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B9B3870A---VEGFA-FLT1---OTH-CF,VEGFA-FLT1,OTH-CF,0.325207468879668,0.001,,0.325207468879668,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---OTH-CF,VEGFA-FLT1-complex,OTH-CF,0.36873920552677025,0.001,,0.36873920552677025,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---OTH-CF,VEGFA-NRP2,OTH-CF,0.3386327503974563,0.028,,0.3386327503974563,1.0,1.5528419686577808,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---OTH-CF,VEGFA-KDR,OTH-CF,0.3665511265164645,0.064,0.3665511265164645,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS058209EC7---F2-F2R---OTH-CM,F2-F2R,OTH-CM,0.6046511627906976,1.0,0.6046511627906976,,0.0,0.0,no,False,Ligand-Receptor,Adhesion by Prothrombin
+CPI-SS05996C8FD---AGT-AGTR1---OTH-CM,AGT-AGTR1,OTH-CM,0.622077922077922,1.0,0.622077922077922,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Angiotensinogen
+CPI-SS0D681D90E---SDC2-ADGRA2---OTH-CM,SDC2-ADGRA2,OTH-CM,0.7435008665511266,1.0,0.7435008665511266,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Syndecan
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---OTH-CM,atRetinoicAcid-byALDH1A1-RORB,OTH-CM,0.925179856115108,1.0,0.925179856115108,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-SS0C3906934---RSPO3-LGR5---OTH-CM,RSPO3-LGR5,OTH-CM,0.12398042414355628,1.0,0.12398042414355628,,0.0,0.0,no,False,Ligand-Receptor,Signaling by R-spondin
+CPI-SS0B99F22A2---JAG1-NOTCH3---OTH-CM,JAG1-NOTCH3,OTH-CM,0.01075268817204302,1.0,0.01075268817204302,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0A28DCA72---CXCL12-CXCR4---OTH-CM,CXCL12-CXCR4,OTH-CM,0.31213872832369943,1.0,0.31213872832369943,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0669CC233---CXCL14-CXCR4---OTH-CM,CXCL14-CXCR4,OTH-CM,0.33519553072625696,1.0,0.33519553072625696,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS01F67987A---FGF2-FGFR1---OTH-CM,FGF2-FGFR1,OTH-CM,0.4090909090909091,0.056,0.4090909090909091,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Fibroblast growth factor
+CPI-SS08BFFB96E---FLRT3-ADGRL2---OTH-CM,FLRT3-ADGRL2,OTH-CM,0.19780219780219782,1.0,0.19780219780219782,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Fibronectin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---OTH-CM,DHEAsulfate-bySULT1E1-PPARG,OTH-CM,0.28211009174311924,1.0,0.28211009174311924,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS052119104---AREG-EGFR---OTH-CM,AREG-EGFR,OTH-CM,0.3955555555555557,1.0,0.3955555555555557,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS007AA9FDE---DLK1-NOTCH3---OTH-CM,DLK1-NOTCH3,OTH-CM,0.8930762489044699,1.0,0.8930762489044699,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B9B3870A---VEGFA-FLT1---OTH-CM,VEGFA-FLT1,OTH-CM,0.19035269709543565,1.0,0.19035269709543565,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---OTH-CM,VEGFA-FLT1-complex,OTH-CM,0.3169257340241795,1.0,0.3169257340241795,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---OTH-CM,VEGFA-NRP2,OTH-CM,0.3767885532591415,0.001,,0.3767885532591415,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---OTH-CM,VEGFA-KDR,OTH-CM,0.4263431542461005,0.001,,0.4263431542461005,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS058209EC7---F2-F2R---OTH-EC,F2-F2R,OTH-EC,0.941860465116279,0.001,,0.941860465116279,1.0,3.0,yes,False,Ligand-Receptor,Adhesion by Prothrombin
+CPI-SS05996C8FD---AGT-AGTR1---OTH-EC,AGT-AGTR1,OTH-EC,0.6246753246753246,1.0,0.6246753246753246,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Angiotensinogen
+CPI-SS0D681D90E---SDC2-ADGRA2---OTH-EC,SDC2-ADGRA2,OTH-EC,0.7937608318890814,0.001,,0.7937608318890814,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Syndecan
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---OTH-EC,atRetinoicAcid-byALDH1A1-RORB,OTH-EC,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-SS0C3906934---RSPO3-LGR5---OTH-EC,RSPO3-LGR5,OTH-EC,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by R-spondin
+CPI-SS0B99F22A2---JAG1-NOTCH3---OTH-EC,JAG1-NOTCH3,OTH-EC,0.13440860215053768,0.684,0.13440860215053768,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0A28DCA72---CXCL12-CXCR4---OTH-EC,CXCL12-CXCR4,OTH-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0669CC233---CXCL14-CXCR4---OTH-EC,CXCL14-CXCR4,OTH-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS01F67987A---FGF2-FGFR1---OTH-EC,FGF2-FGFR1,OTH-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Fibroblast growth factor
+CPI-SS08BFFB96E---FLRT3-ADGRL2---OTH-EC,FLRT3-ADGRL2,OTH-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Fibronectin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---OTH-EC,DHEAsulfate-bySULT1E1-PPARG,OTH-EC,0.658256880733945,0.001,,0.658256880733945,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS052119104---AREG-EGFR---OTH-EC,AREG-EGFR,OTH-EC,0.3955555555555557,1.0,0.3955555555555557,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS007AA9FDE---DLK1-NOTCH3---OTH-EC,DLK1-NOTCH3,OTH-EC,0.9132340052585451,0.001,,0.9132340052585451,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B9B3870A---VEGFA-FLT1---OTH-EC,VEGFA-FLT1,OTH-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---OTH-EC,VEGFA-FLT1-complex,OTH-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---OTH-EC,VEGFA-NRP2,OTH-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---OTH-EC,VEGFA-KDR,OTH-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS058209EC7---F2-F2R---OTH-OTH,F2-F2R,OTH-OTH,0.6149870801033591,0.001,,0.6149870801033591,1.0,3.0,yes,False,Ligand-Receptor,Adhesion by Prothrombin
+CPI-SS05996C8FD---AGT-AGTR1---OTH-OTH,AGT-AGTR1,OTH-OTH,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Angiotensinogen
+CPI-SS0D681D90E---SDC2-ADGRA2---OTH-OTH,SDC2-ADGRA2,OTH-OTH,0.7019064124783362,1.0,0.7019064124783362,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Syndecan
+CPI-CS08EE9E5CE---atRetinoicAcid-byALDH1A1-RORB---OTH-OTH,atRetinoicAcid-byALDH1A1-RORB,OTH-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Retinoic Acid
+CPI-SS0C3906934---RSPO3-LGR5---OTH-OTH,RSPO3-LGR5,OTH-OTH,0.15823817292006526,0.088,0.15823817292006526,,0.0,0.0,no,False,Ligand-Receptor,Signaling by R-spondin
+CPI-SS0B99F22A2---JAG1-NOTCH3---OTH-OTH,JAG1-NOTCH3,OTH-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0A28DCA72---CXCL12-CXCR4---OTH-OTH,CXCL12-CXCR4,OTH-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS0669CC233---CXCL14-CXCR4---OTH-OTH,CXCL14-CXCR4,OTH-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Chemokines
+CPI-SS01F67987A---FGF2-FGFR1---OTH-OTH,FGF2-FGFR1,OTH-OTH,0.2212121212121212,0.896,0.2212121212121212,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Fibroblast growth factor
+CPI-SS08BFFB96E---FLRT3-ADGRL2---OTH-OTH,FLRT3-ADGRL2,OTH-OTH,0.15164835164835164,1.0,0.15164835164835164,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Fibronectin
+CPI-CS0917E42F5---DHEAsulfate-bySULT1E1-PPARG---OTH-OTH,DHEAsulfate-bySULT1E1-PPARG,OTH-OTH,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Dehydroepiandrosterone
+CPI-SS052119104---AREG-EGFR---OTH-OTH,AREG-EGFR,OTH-OTH,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Epidermal growth factor
+CPI-SS007AA9FDE---DLK1-NOTCH3---OTH-OTH,DLK1-NOTCH3,OTH-OTH,0.8904469763365469,1.0,0.8904469763365469,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Notch
+CPI-SS0B9B3870A---VEGFA-FLT1---OTH-OTH,VEGFA-FLT1,OTH-OTH,0.19294605809128626,1.0,0.19294605809128626,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SC0AFC650CD---VEGFA-FLT1-complex---OTH-OTH,VEGFA-FLT1-complex,OTH-OTH,0.3212435233160621,1.0,0.3212435233160621,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS046F8AD8B---VEGFA-NRP2---OTH-OTH,VEGFA-NRP2,OTH-OTH,0.2949125596184419,1.0,0.2949125596184419,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0C03F7CDC---VEGFA-KDR---OTH-OTH,VEGFA-KDR,OTH-OTH,0.32235701906412473,1.0,0.32235701906412473,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
