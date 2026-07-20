@@ -76,3 +76,4 @@ workspace/CCO12/**/*.h5seurat
 
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
+workspace/CCO12/umap/key_genes/multiple.svg
