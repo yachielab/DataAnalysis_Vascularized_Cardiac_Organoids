@@ -43,7 +43,7 @@ CPI-SC0B51DC960---PGF-FLT1-complex---CM-EC,PGF-FLT1-complex,CM-EC,0.850765306122
 CPI-SS065D9259F---PGF-NRP2---CM-EC,PGF-NRP2,CM-EC,0.8709677419354838,1.0,0.8709677419354838,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
 CPI-SS00C24ED50---CDH5-CDH5---CM-EC,CDH5-CDH5,CM-EC,,1.0,,,1.0,0.0,no,False,Adhesion-Adhesion,Adhesion by Cadherin
 CPI-SS04829AC68---GJA1-GJA1---CM-EC,GJA1-GJA1,CM-EC,0.22826086956521738,0.001,,0.22826086956521738,1.0,3.0,yes,False,Gap-Gap,Adhesion by GAP junction
-CPI-SS0B9B3870A---VEGFA-FLT1---EC-CF,VEGFA-FLT1,EC-CF,0.11579457364341086,0.505,0.11579457364341086,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
+CPI-SS0B9B3870A---VEGFA-FLT1---EC-CF,VEGFA-FLT1,EC-CF,0.11579457364341086,0.528,0.11579457364341086,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SS007AA9FDE---DLK1-NOTCH3---EC-CF,DLK1-NOTCH3,EC-CF,0.28361138370951916,0.001,,0.28361138370951916,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Notch
 CPI-SS058209EC7---F2-F2R---EC-CF,F2-F2R,EC-CF,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Adhesion by Prothrombin
 CPI-SS0D681D90E---SDC2-ADGRA2---EC-CF,SDC2-ADGRA2,EC-CF,0.3033033033033033,1.0,0.3033033033033033,,0.0,0.0,no,False,Ligand-Receptor,Signaling by Syndecan
@@ -128,7 +128,7 @@ CPI-SS046F8AD8B---VEGFA-NRP2---EC-OTH,VEGFA-NRP2,EC-OTH,,1.0,,,1.0,0.0,no,False,
 CPI-SC0AFC650CD---VEGFA-FLT1-complex---EC-OTH,VEGFA-FLT1-complex,EC-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SS0C03F7CDC---VEGFA-KDR---EC-OTH,VEGFA-KDR,EC-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
 CPI-SC0B51DC960---PGF-FLT1-complex---EC-OTH,PGF-FLT1-complex,EC-OTH,,1.0,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
-CPI-SS065D9259F---PGF-NRP2---EC-OTH,PGF-NRP2,EC-OTH,,0.02,,,1.0,1.6989700043360187,yes,False,Ligand-Receptor,Signaling by Placenta growth factor
+CPI-SS065D9259F---PGF-NRP2---EC-OTH,PGF-NRP2,EC-OTH,,0.052,,,1.0,0.0,no,False,Ligand-Receptor,Signaling by Placenta growth factor
 CPI-SS00C24ED50---CDH5-CDH5---EC-OTH,CDH5-CDH5,EC-OTH,0.0056179775280898936,1.0,0.0056179775280898936,,0.0,0.0,no,False,Adhesion-Adhesion,Adhesion by Cadherin
 CPI-SS04829AC68---GJA1-GJA1---EC-OTH,GJA1-GJA1,EC-OTH,,1.0,,,1.0,0.0,no,False,Gap-Gap,Adhesion by GAP junction
 CPI-SS0B9B3870A---VEGFA-FLT1---OTH-EC,VEGFA-FLT1,OTH-EC,1.0,0.001,,1.0,1.0,3.0,yes,False,Ligand-Receptor,Signaling by Vascular endothelial growth factor
