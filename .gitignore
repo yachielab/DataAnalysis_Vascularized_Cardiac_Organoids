@@ -1,6 +1,5 @@
 data/**
-!data/*
-!data/**/*.txt
+GEO/**
 
 workspace/**
 !workspace/*

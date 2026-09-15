@@ -1,6 +1,0 @@
-SC149__BHO-14D-JW-121123, NA
-SC149__BVO-14D-JW-121123, Blood vessel organoids
-SC149__CM2B-14D-JW-121123, NA
-SC149__CM3-14D-JW-121123, Blood vessel organoids and heart organoids
-SC149__CM3B-14D-JW-121123, NA
-SC149__HO-14D-JW-121123, Heart organoids
