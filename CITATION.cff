@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated publication."
+type: software
+
+title: "Analysis code for Human cardiac organoids with coronary-like vasculature promote cardiomyocyte maturation and post-infarct functional recovery"
+version: 1.0.0
+
+authors:
+  - family-names: "Yao"
+    given-names: "Herbert"
+    orcid: "https://orcid.org/0000-0002-7989-6529"
+    affiliation: "School of Biomedical Engineering, University of British Columbia"
+
+  - family-names: "Wang"
+    given-names: "Jun"
+    affiliation: "Department of Medical Genetics, Life Sciences Institute, University of British Columbia"
+
+abstract: >
+  Analysis code accompanying the study "Human cardiac organoids with coronary-like vasculature promote cardiomyocyte maturation and post-infarct functional recovery".
+  This repository contains scripts for bulk RNA-seq, single-cell RNA-seq,
+  and Visium HD spatial transcriptomics analyses.
+
+keywords:
+  - RNA-seq
+  - single-cell RNA-seq
+  - spatial transcriptomics
+
+license: MIT
+
+repository-code: "https://github.com/yachielab/DataAnalysis_Vascularized_Cardiac_Organoids.git"
